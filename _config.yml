@@ -21,7 +21,7 @@ tagline: Where the West Begins
 location: Texas
 date: false
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://texanmason.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://texanmason.com/" # the base hostname & protocol for your site, e.g. http://example.com
 author: Gabriel Jagush
 #google_analytics: UA-101394056-1
 
