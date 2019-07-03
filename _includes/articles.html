@@ -2,10 +2,10 @@
 	{% for post in site.posts %}
 		{% cycle 'add row' : '<div class="row">', nil, nil%}
 			<a href="{{ site.baseurl }}{{ post.url }}" class="link">
-				<p>
-					<span class="float:left, text-align:left"><b>{{ post.title }}</b></span>
-					<span class="float:right, text-align:right">{{post.date | date: "%A, %B %d, %Y"}}</span>
-				</p>
+				<div>
+					<span style="float:left, text-align:left"><b>{{ post.title }}</b></span>
+					<span style="float:right, text-align:right">{{post.date | date: "%A, %B %d, %Y"}}</span>
+				</div>
 			</a>
 		{% cycle 'end row' : nil, nil, '</div>' %}
 	{% endfor %}
