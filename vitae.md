@@ -1,6 +1,7 @@
 ---
 layout: about
 title: Vitae Maconarium
+permalink: /vitae/
 ---
 
 ## Grand Lodge of Texas, AF&AM
