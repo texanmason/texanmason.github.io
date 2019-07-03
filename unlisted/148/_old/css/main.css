@@ -1,0 +1,33 @@
+/* Body & Backgound */
+
+body {
+	background: #000;
+}
+
+.bkgd {
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+}
+
+.bkgd img {
+	position: fixed;
+	width: 100%;
+	height: auto;
+	opacity: 0.75;
+	z-index: 1;
+}
+
+h1, h2, h3, h4, h5, h6, p, a{
+	color: #fff;
+}
+
+#banner {
+	padding: 8em 0 9em 0;
+	text-align: center;
+	position: relative;
+}
+
+section {
+	z-index: 100;
+}
