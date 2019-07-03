@@ -13,7 +13,7 @@ body{
   background-image: url("../img/bg.jpg");
 }
 
-body background-image{
+body.background-image{
 	opacity: 0.5
 }
 
