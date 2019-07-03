@@ -28,8 +28,8 @@ author: Gabriel Jagush
 #google_analytics: UA-101394056-1
 
 # SEO
-#twitter:
-#  username: jdatap
+twitter:
+  username: texanmason
 
 logo: /assets/logo.png
 
@@ -39,7 +39,7 @@ lang: en
 # app_id: 101766790448070
 
 social:
-  name: John Coene
+  name: Gabriel Jagush
   links:
     - https://twitter.com/texanmason
     - https://facebook.com/texanmason
