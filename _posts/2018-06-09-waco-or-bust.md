@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 06/09/2018
 ---
 I'm a member of AMD now!
 

@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 11/29/2016
 ---
 If you volunteer for a part in a degree, you should actually know that part and be able to deliver it.
 

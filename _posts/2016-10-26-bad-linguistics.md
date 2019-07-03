@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 10/26/2016
 ---
 *This was originally posted to a private lodge Facebook group for Fort Worth Lodge #148.*
 

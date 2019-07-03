@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 07/02/2018
 ---
 Tomorrow night is my first meeting as the presiding officer in my Chapter and Council. I've been working on the meeting agenda like a madman staring at the wall, looking for hidden messages. There may be such thing as over-preparing, but for now, I'm just gonna roll with it and let myself obsess over it.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 02/09/2017
+abstract: Fraternal visitation meets bragging rights.
 ---
 [gavel]: /assets/images/2017-02-09-the-travelling-gavel-gavel.jpg	
 [group]: /assets/images/2017-02-09-the-travelling-gavel-group.jpg	

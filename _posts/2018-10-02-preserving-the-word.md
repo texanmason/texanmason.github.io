@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Preserving the Word
-date: 10/02/2018
 ---
 ## The Legend of the Cryptic Degree
 

@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 03/28/2017
 ---
 Well, it seems that I finally went and got myself official. As of Saturday (the 25th), I am officially certified by the Grand Lodge of Texas to teach the memory work for degree proficiencies, and the opening of all four lodges (the fourth being the Lodge of Sorrows).
 

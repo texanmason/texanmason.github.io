@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Protected by the Cherubim
-date: 11/06/2018
 ---
 
 # Protected by the Cherubim

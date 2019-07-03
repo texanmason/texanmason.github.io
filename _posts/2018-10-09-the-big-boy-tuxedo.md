@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 10/09/2018
 ---
 
 Well, I've gone and purchahsed a tuxedo. It was a "mid-range budget" type of tuxedo on sale (or perhaps "on sale") at Joseph A. Banks, so nothing fancy, but I'm excited nonetheless. Based off of the fitting, it needed minimal tailoring, and seemed quite nice. 

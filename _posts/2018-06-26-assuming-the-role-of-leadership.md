@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 06/26/2018
 ---
 
 Pray for me, y'all.

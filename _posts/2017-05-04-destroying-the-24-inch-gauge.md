@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Destroying the 24-Inch Gauge
-date: 05/04/2017
 ---
 It’s been kind of a crazy period of time. Lately, I’ve been really stretching the limits of my 24-inch gauge. I am really enjoying it, but it’s not easy. I love pouring my efforts into all things, especially Masonry, but I definitely need to make sure I take personal time now and then.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tarot Spread for October 10, 2018
-date: 10/10/2018
 ---
 
 Disclaimer: I don’t believe in fortune telling, but I do believe that the Tarot is useful in the sense that the images and ideas it presents can trigger subconscious thoughts, or help us identify emotions and goals that we weren’t previously clear on.

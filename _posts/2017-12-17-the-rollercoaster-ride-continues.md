@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 12/17/2017
 ---
 Time for a life update. It’s been a good while since I last posted something regularly, hasn’t it?
 

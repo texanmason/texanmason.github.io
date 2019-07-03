@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 03/13/2017
+abstract: A traveling gavel in the 64th district leaves our home.
 ---
 Where the magic happens:
 
