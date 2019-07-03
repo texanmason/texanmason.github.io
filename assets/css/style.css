@@ -82,6 +82,10 @@ p::selection{
   width: 50%;
 }
 
+.taghalf{
+	width: 50%;
+}
+
 #title{
   padding-top: 50px;
   padding-bottom: 50px;
