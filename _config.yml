@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Texan Mason
+email: texanmason@gmail.com
+description: >
+  <a href="mailto:texanmason@gmail.com">Contact Me</a><br><br>
+  <p><a href="https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3ATexan+Mason+Apparel">Shirts & Apparel</a></p><br><br>
+  <a href="https://fortworth148.libsyn.com/">Fort Worth 148 Masonic Podcast</a>
+tagline: Fiat Lux!
+location: Fort Worth, Texas
+date: true
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://texanmason.com" # the base hostname & protocol for your site, e.g. https://example.com
+author: Gabriel Jagush
+#google_analytics: UA-101394056-1
+
+# SEO
+#twitter:
+#  username: jdatap
+
+logo: /assets/logo.png
+
+lang: en
+
+#facebook:
+# app_id: 101766790448070
+
+social:
+  name: John Coene
+  links:
+    - https://twitter.com/texanmason
+    - https://facebook.com/texanmason
+    - https://instagram.com/texanmason
+
+# Build settings
+exclude: README.md
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - Gemfile
+  - Gemfile.lock
+plugins_dir:
+  - jekyll-roman
+  - jekyll-seo-tag
