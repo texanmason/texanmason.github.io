@@ -21,7 +21,7 @@ description: >
   Grand Lodge, or masonic body.
 tagline: Fiat Lux!
 location: Fort Worth, Texas
-date: true
+date: false
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://texanmason.com" # the base hostname & protocol for your site, e.g. https://example.com
 author: Gabriel Jagush
