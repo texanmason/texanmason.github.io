@@ -7,8 +7,8 @@ abstract: Redesigning a chart of the history of the Scottish Rite for the purpos
 
 Original flowchart:
 
-![old chart]
+![Original Flowchart][old chart]{:width="50%"}
 
 Cleaned-up version that I made:
 
-![new chart]
+![Cleaned-up Version][new chart]{:width="50%"}

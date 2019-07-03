@@ -2,9 +2,9 @@
 layout: post
 abstract: Fraternal visitation meets bragging rights.
 ---
-[gavel]: /assets/images/2017-02-09-the-travelling-gavel-gavel.jpg	
-[group]: /assets/images/2017-02-09-the-travelling-gavel-group.jpg	
-[take it]: /assets/images/2017-02-09-the-travelling-gavel-come-and-take-it.jpg	
+[gavel]: /images/2017-02-09-the-travelling-gavel-gavel.jpg	
+[group]: /images/2017-02-09-the-travelling-gavel-group.jpg	
+[take it]: /images/2017-02-09-the-travelling-gavel-come-and-take-it.jpg	
 
 The Grand Lodge of Texas (AF&AM) 64th District Traveling Gavel:
 

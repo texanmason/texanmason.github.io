@@ -2,9 +2,9 @@
 layout: post
 abstract: Going down the rabbit hole of failed masonic bodies.
 ---
-[sarachan]: /assets/images/2017-02-20-the-quest-for-judas-maccabeus-sarachan.jpg
-[layout]: /assets/images/2017-02-20-the-quest-for-judas-maccabeus-layout.PNG
-[dues card]: /assets/images/2017-02-20-the-quest-for-judas-maccabeus-dues-card.PNG
+[sarachan]: /images/2017-02-20-the-quest-for-judas-maccabeus-sarachan.jpg
+[layout]: /images/2017-02-20-the-quest-for-judas-maccabeus-layout.PNG
+[dues card]: /images/2017-02-20-the-quest-for-judas-maccabeus-dues-card.PNG
 
 Founder of the Order of Judas Maccabeus, Brother Herman Sarachan:
 
