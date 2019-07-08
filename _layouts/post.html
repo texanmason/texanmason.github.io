@@ -12,13 +12,13 @@
     <main>
       <div class="container">
         <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line">
-        <p class="center">[&nbsp;N<sup>o</sup>{% for post in site.posts %}
+        <!--<p class="center">[&nbsp;N<sup>o</sup>{% for post in site.posts %}
               {% if post.title == page.title %}
               {{ forloop.index | roman }}
               {% endif %}
               {% endfor %}&nbsp;]
         <span>&nbsp;{{ page.keywords }}</span></p>
-        <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">
+        <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">-->
 
         <h2 class="brand center" id="title">{{ page.title | upcase }}</h2>
         {% if page.abstract %}<h5 class="center">{{ page.abstract }}</h5>{% endif %}
@@ -35,12 +35,14 @@
 		<div class="justify">
           {{ content }}
         </div>
-
-        {% if post.author %}
+		
+		<p class="right italics">by {{ post.author }}</p>
+		
+        <!--{% if post.author %}
 				<p class="right italics">by {{ post.author }}</p>
 			{% else %}
 				<p class="right italics">by {{ site.author }}</p>
-		{% endif %}
+		{% endif %}-->
       </div>
     </main>
 
