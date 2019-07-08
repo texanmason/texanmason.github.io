@@ -1,5 +1,5 @@
 social:
   - title: becoming a mason
-    href: "/becoming/"
+    href: "{{ site.baseurl }}/becoming/"
   - title: t-shirts & apparel
     href: "https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3ATexan+Mason+Apparel"
