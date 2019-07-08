@@ -45,11 +45,10 @@ Nowhere in these lists do we see any of the items often used in a Chamber of Ref
 
 * a skull
 * bread and water
-* roosters
+* stuffed roosters
 * sulfur
 * salt
 * alchemical symbols
-* the words V.I.T.R.I.O.L. or V.I.T.R.I.O.L.U.M.
 * an hourglass
 * a last will and testament
 * and so forth.
