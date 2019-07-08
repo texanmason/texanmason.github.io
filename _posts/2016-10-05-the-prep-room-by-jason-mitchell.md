@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Not Mine: The Prep Room
+title: (Not Mine) The Prep Room
 author: M∴I∴ Jason Mitchell
 
 ---

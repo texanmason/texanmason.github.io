@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Not Mine: The Order of Judas Maccabeus
+title: (Not Mine) The Order of Judas Maccabeus
 author: R∴W∴ Raymond Beardsly
 ---
 I was trying to find out some more info about this Order when it came up a couple of days ago. Found a PDF called "The Pyramid Texts" and figured it would be useful to have this in a more web-friendly format.

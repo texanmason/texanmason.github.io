@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Christopher Livingston
-title: Not Mine: Changing Masonry in a Changing World
+title: (Not Mine) Changing Masonry in a Changing World
 ---
 This was originally posted to the *Texas Freemasons* Facebook group by Brother Christopher Livingston on the 18th of September, 2017.
 

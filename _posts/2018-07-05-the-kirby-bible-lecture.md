@@ -1,7 +1,7 @@
 ---
 layout: post
 author: R∴W∴ Jerry Nelson Kirby, PGM
-title: Not Mine: The Kirby Bible Lecture
+title: (Not Mine) The Kirby Bible Lecture
 ---
 
 This Bible Lecture was written by R∴W∴ Jerry Nelson Kirby, Past Grand Master of Masons in Texas, for the purpose of delivering to candidates after their Master Mason degree.
