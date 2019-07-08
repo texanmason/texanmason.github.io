@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Funding a Lodge from the Ground Up - V∴I∴ Jason Mitchell
+title: Not Mine: Funding a Lodge from the Ground Up
+author: M∴I∴ Jason Mitchell
 ---
-This was all originally written by V∴I∴ Brother Jason Mitchell in the comments of [this post.](https://www.reddit.com/r/freemasonry/comments/5vrtmu/dues_are_getting_so_expensive/?st=j3oth0wz&sh=f9963ca6) All I’ve done is format it for easier sharing - many thanks to Brother Mitchell for writing this in the first place.
+This was all originally written by M∴I∴ Companion Jason Mitchell in the comments of [this post.](https://www.reddit.com/r/freemasonry/comments/5vrtmu/dues_are_getting_so_expensive/?st=j3oth0wz&sh=f9963ca6) All I’ve done is format it for easier sharing - many thanks to Brother Mitchell for writing this in the first place.
 
 * * * 
 
