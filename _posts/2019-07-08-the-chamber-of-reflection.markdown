@@ -25,7 +25,7 @@ This is a Grand Lodge law talk, and not a ritual talk, so we'll stick to discuss
 
 ### Grand Master's Recommendation № 2, 2013
 
-In 2013 the M∴W∴ Grand Master, Walt Rogers, made several Grand Master's recommendation. [One of them](/images/2019-07-08-gm-recommendation.png) banned the Chamber of Reflection. A summary of the justification for the recommendation goes as follows:
+In 2013 the M∴W∴ Grand Master, Walt Rogers, made several Grand Master's recommendations. [One of them](/images/2019-07-08-gm-recommendation.png) banned the Chamber of Reflection. A summary of the justification for the recommendation goes as follows:
 
 * Some lodges and masons are breaking the rules by performing unapproved ritual.
 * Nobody has the right to perform unapproved ritual.
@@ -37,7 +37,7 @@ His recommendation added a clause to the existing text of Article 127. This clau
 
 ### Article 223
 
-Article 223 contains a set of lists of the minimum required paraphernalia for a lodge to be set to work. There is one list for the lodge room in general, one list for each degree, and one list for the funeral. It appears that based on Article 127, for the purposes of conferring, this is also the *maximum* permitted paraphernalia.
+[Article 223](/images/2019-07-08-article-223.png) contains a set of lists of the minimum required paraphernalia for a lodge to be set to work. There is one list for the lodge room in general, one list for each degree, and one list for the funeral. It appears that based on Article 127, for the purposes of conferring, this is also the *maximum* permitted paraphernalia.
 
 ### What We Can't Do
 
