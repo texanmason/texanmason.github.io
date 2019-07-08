@@ -8,7 +8,7 @@ permalink: /vitae/
 
 * March 25, 2016 - passed "C"-level certification exam
 
-##### Fort Worth Lodge №148, AF&AM
+##### Fort Worth Lodge № 148, AF&AM
 * July 17, 2016 - regularly initiated as an Entered Apprentice. 
 * September 26, 2016 - passed to the degree of Fellowcraft. 
 * November 21, 2016 - raised to the sublime degree of a Master Mason.
@@ -23,7 +23,7 @@ permalink: /vitae/
 
 ### Grand Royal Arch Chapter of Texas
 
-##### Texas Chapter #362, RAM
+##### Texas Chapter № 362, RAM
 * March 14, 2017 - advanced to the honorable degree of Mark Master Mason.
 * March 21, 2017 - regularly seated in the Oriental Chair as a Past Master.
 * March 21, 2017 - received and acknowledged as a Most Excellent Master.
@@ -39,7 +39,7 @@ permalink: /vitae/
 
 ### Grand Council of Royal & Select Masters of Texas
 
-##### Texas Council #321, R&SM
+##### Texas Council № 321, R&SM
 * April 11, 2017 - advanced to the rights and honors of a Royal Master.
 * April 11, 2017 - greeted as a Select Master.
 * June 27, 2017 - installed as Steward.
@@ -53,7 +53,7 @@ permalink: /vitae/
 
 ### Grand Commandery Knights Templar of Texas
 
-##### Worth Commandery #19, KT
+##### Worth Commandery № 19, KT
 * April 15, 2017 - constituted a Knight of the Red Cross.
 * April 15, 2017 - admitted a Knight of Malta. 
 * April 15, 2017 - dubbed and created a Knight Templar.
@@ -62,13 +62,13 @@ permalink: /vitae/
 
 ### York Rite Sovereign College of North America
 
-##### Trinity York Rite Sovereign College #154
+##### Trinity York Rite Sovereign College № 154
 * May 12, 2018 - dubbed a Companion Knight of York.
 * May 18, 2019 - installed as Noble Primate.
 
 ### Grand Council, Allied Masonic Degrees, U.S.A.
 
-##### Worth's Hiram Abif Council #342, AMD
+##### Worth's Hiram Abif Council № 342, AMD
 * June 8, 2018 - obligated & entrusted, and invested an Ostiarius (1°) of the Order of the Scarlet Cord.
 * June 9, 2018 - admitted a Grand Tiler of Solomon.
 * June 9, 2018 - inducted into the First Degree of the Order of the Secret Monitor.
@@ -81,6 +81,13 @@ permalink: /vitae/
 * May 31, 2019 - created and constituted a Knight of Constantinople.
 * May 31, 2019 - admitted a prince of the order (Secret Monitor 2°).
 * May 31, 2019 - admitted to the order of Saint Lawrence the Martyr.
+
+### Grand Council, Knight Masons, U.S.A.
+
+##### Worth's Shamrock Council № 54, KM
+* February 19, 2019 - created a Knight of the Sword.
+* February 19, 2019 - created a Knight of the East.
+* February 19, 2019 - created a Knight of the East and West.
 
 ### Ancient & Accepted Scottish Rite, Southern Masonic Jurisdiction, U.S.A.
 
