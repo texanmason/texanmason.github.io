@@ -36,7 +36,11 @@
           {{ content }}
         </div>
 
-        <p class="right italics">by {{ site.author }}</p>
+        {% if post.author %}
+				<p class="right italics">by {{ post.author }}</p>
+			{% else %}
+				<p class="right italics">by {{ site.author }}</p>
+		{% endif %}
       </div>
     </main>
 
