@@ -9,7 +9,7 @@ permalink: /becoming/
 * You must believe in some form of God.
 * You must have a clean criminal record.
 
-If you don't meet the qualifications of being male or of believing in God, "regular" (mainstream) Freemasonry is not for you. If you're still interested, though, [email me and we'll talk about alternatives](mailto:texanmason@gmail.com).
+If you don't meet the qualifications of being male or of believing in God, "regular" (mainstream) Freemasonry is not for you. If you're still interested, though, there is such a thing as "irregular" masonry. That's as much as I am permitted to say.
 
 ## How to Get Started
 You need to find a lodge near your home or work, and start visiting them.
