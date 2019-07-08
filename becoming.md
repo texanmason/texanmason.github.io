@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: Becoming a Freemason
 permalink: /becoming/
 ---
