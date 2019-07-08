@@ -3,8 +3,6 @@ layout: post
 title: Protected by the Cherubim
 ---
 
-# Protected by the Cherubim
-
 1 Kings 6:14,19:
 
 > "So Solomon built the house, and finished it. And the oracle he prepared in the house within, to set there the ark of the covenant of the LORD."
