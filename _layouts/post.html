@@ -12,31 +12,29 @@
     <main>
       <div class="container">
         <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line">
-        <!--<p class="center">[&nbsp;N<sup>o</sup>{% for post in site.posts %}
+        <p class="center">[&nbsp;N<sup>o</sup>{% for post in site.posts %}
               {% if post.title == page.title %}
               {{ forloop.index | roman }}
               {% endif %}
               {% endfor %}&nbsp;]
         <span>&nbsp;{{ page.keywords }}</span></p>
-        <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">-->
+        <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">
 
-        <h2 class="brand center" id="title">{{ page.title | upcase }}</h2>
-        {% if page.abstract %}<h5 class="center">{{ page.abstract }}</h5>{% endif %}
+        <h4 class="brand center" id="title">{{ page.title | upcase }}</h4>
+        {% if page.abstract %}<p class="center">{{ page.abstract }}</p>{% endif %}
         {% if page.category %}
         <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line tag flip">
         <p class="right tagline">{{ page.category }}</p>
         <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line tag">
         {% endif %}
         <br>
-        <h4 class="center space">{{ site.location | upcase }}</h4>
-        <h5 class="center">{{ page.date | date: "%A, %B %d, %Y" | upcase }}</h5>
+        <!--<h4 class="center space">{{ site.location | upcase }}</h4>-->
+        <h6 class="center">{{ page.date | date: "%A, %B %d, %Y" | upcase }}</h6>
 		<!--<h5 class="center">{{ page.date | date_to_long_string | upcase }}</h5>-->
         <!--<div class="threecol justify">-->
 		<div class="justify">
           {{ content }}
         </div>
-		
-		<p class="right italics">by {{ post.author }}</p>
 		
         <!--{% if post.author %}
 				<p class="right italics">by {{ post.author }}</p>
