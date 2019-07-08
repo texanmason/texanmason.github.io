@@ -12,16 +12,14 @@
     <main>
       <div class="container">
         <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line">
-        <p></p><h4 class="brand center" id="title">{{ page.title | upcase }}</h4>
-		<!-- <p class="center">[&nbsp;N<sup>o</sup>{% for post in site.posts %}
+		<p class="center">[&nbsp;N<sup>o</sup>{% for post in site.posts %}
               {% if post.title == page.title %}
               {{ forloop.index | roman }}
               {% endif %}
-              {% endfor %}&nbsp;]-->
+              {% endfor %}&nbsp;]
         <span>&nbsp;{{ page.keywords }}</span></p>
         <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">
-
-        <!--<h4 class="brand center" id="title">{{ page.title | upcase }}</h4>-->
+        <h4 class="brand center" id="title">{{ page.title | upcase }}</h4>
         {% if page.abstract %}<p class="center">{{ page.abstract }}</p>{% endif %}
         {% if page.category %}
         <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line tag flip">
