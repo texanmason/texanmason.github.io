@@ -12,7 +12,7 @@ title: The Texan Chamber of Reflection
 
 ### Context
 
-Let's say your lodge wants to use a continental-style ["Chamber of Reflection."](https://en.wikipedia.org/wiki/Chamber_of_Reflection) Let's also say that one of your officers decided to post about this in an open online forum. This is the post that started the latest discussion:
+Let's say your lodge wants to use a continental-style "[Chamber of Reflection](https://en.wikipedia.org/wiki/Chamber_of_Reflection)." Let's also say that one of your officers decided to post about this in an open online forum. This is the post that started the latest discussion:
 
 > Alright Brethren, need your help. As Master of Ceremonies this year, I want to turn our Anteroom/Storage room into a legit Chamber of Reflection. Can I see your Lodge's chamber or do you have any suggestions on what it should contain? Definitely going to put a Bible and maybe an hour glass.
 
