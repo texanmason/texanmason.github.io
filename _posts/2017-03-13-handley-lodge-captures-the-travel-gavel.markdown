@@ -14,7 +14,7 @@ Where the magic happens:
 
 ![The Fort Worth Masonic Temple]{:width="75%"}
 
-Last night was pretty great!
+Last night was pretty great.
 
 Fort Worth Lodge had its stated meeting night, and I was pleasantly surprised to see so many visitors - at first only minorly so, then majorly so. I shared the elevator with three or four brothers from Handley Lodge on the way up to our dining hall... Then I quickly realized, as the time went on, that they were coming out in force! Our little dining hall was packed. Handley Lodge brought out 15 brothers to come help take the travel gavel.
 
