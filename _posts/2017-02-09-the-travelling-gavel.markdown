@@ -17,7 +17,7 @@ The brothers from Handley welcomed us with open arms and we had an absolutely gr
 
 The food was great - the OES chapter at Handley really knows how to knock it out of the park.
 
-Here we are with the Worshipful Master of Handley Lodge, Haskell Rogers (III):
+Here we are with the Worshipful Master of Handley Lodge, Haskell Rogers III:
 
 ![Group Picture w/ Haskell][group]{:width="50%"}
 
