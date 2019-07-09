@@ -9,7 +9,7 @@ title: The Traveling Gavel
 
 The Grand Lodge of Texas (AF&AM) 64th District Traveling Gavel:
 
-![The Grand Lodge of Texas (AF&AM) 64th District Traveling Gavel][gavel]{:width="50%"}
+![The Grand Lodge of Texas (AF&AM) 64th District Traveling Gavel][gavel]{:width="75%"}
 
 Tonight we had the privilege of visiting Handley Lodge. It was a pretty great experience! They had, up to this point, been the holders of the GLoTX 64th District Traveling Gavel. This was a program that was originally started by my lodge (148). In order to capture the gavel, your lodge has to show up with 7 or more brothers. The visit can be either during a stated meeting, or a called meeting. If multiple lodge attempt a capture, whichever lodge has the most lodges present takes it home, with a coin toss being the method used to break ties.
 
@@ -20,10 +20,11 @@ The food was great - the OES chapter at Handley really knows how to knock it out
 Here we are with the Worshipful Master of Handley Lodge, Haskell Rogers III:
 
 {:.center}
-![Group Picture w/ Haskell][group]{:width="50%"}
+![Group Picture w/ Haskell][group]{:width="75%"}
 
 Bonus picture of our group in front of the very-appropriate "COME AND TAKE IT" flag:
 
-->![Bonus Group Picture][take it]{:width="50%"}<-
+{:.center}
+![Bonus Group Picture][take it]{:width="75%"}
 
 For more information on the Traveling Gavel, check out [the 64th district's page on it](http://www.64th.org/traveling-gavel-rules). I sincerely urge anyone in the 64th district to "COME AND TAKE IT," so to speak, as we will try our damndest to take it right back.
