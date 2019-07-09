@@ -1,6 +1,7 @@
 ---
 layout: post
 abstract: Fraternal visitation meets bragging rights.
+title: The Traveling Gavel
 ---
 [gavel]: /images/2017-02-09-the-travelling-gavel-gavel.jpg	
 [group]: /images/2017-02-09-the-travelling-gavel-group.jpg	
