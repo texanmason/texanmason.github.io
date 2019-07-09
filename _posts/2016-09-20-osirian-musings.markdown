@@ -5,7 +5,7 @@ layout: post
 
 * * *
 
-In the second chapter (which is as far as I've gotten so far), there's a lot of talk about the basics of the Egyptian death/afterlife mythos, including the resurrection/rebirth of Osiris, who was buried far in the West. After reading this, something kind of clicked for me and I tried to remember what I learned about Egypt in school!
+[I'm reading Robert Herd's *the Initiatic Experience*.] In the second chapter (which is as far as I've gotten so far), there's a lot of talk about the basics of the Egyptian death/afterlife mythos, including the resurrection/rebirth of Osiris, who was buried far in the West. After reading this, something kind of clicked for me and I tried to remember what I learned about Egypt in school!
 
 According to the ancient Egyptians, the West was representative of Death. So much so, in fact, that people would traditionally build homes and regular temples on the East side of the Nile (the land of the living, where the Sun rose) instead of on the West side where tombs and funerary temples were built (the land of the dead, where the Sun set).
 
