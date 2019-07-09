@@ -3,7 +3,7 @@ layout: post
 abstract: Fraternal visitation meets bragging rights.
 title: The Traveling Gavel
 ---
-[gavel]: /images/2017-02-09-the-travelling-gavel-gavel.jpg	
+[gavel]: /images/2017-02-09-the-travelling-gavel-gavel.jpg#center	
 [group]: /images/2017-02-09-the-travelling-gavel-group.jpg	
 [take it]: /images/2017-02-09-the-travelling-gavel-come-and-take-it.jpg	
 
@@ -19,6 +19,7 @@ The food was great - the OES chapter at Handley really knows how to knock it out
 
 Here we are with the Worshipful Master of Handley Lodge, Haskell Rogers III:
 
+{:.center}
 ![Group Picture w/ Haskell][group]{:width="50%"}
 
 Bonus picture of our group in front of the very-appropriate "COME AND TAKE IT" flag:

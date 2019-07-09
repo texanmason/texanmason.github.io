@@ -95,6 +95,11 @@ p::selection{
   text-align: center;
 }
 
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
+
 .right{
   text-align: right;
 }
