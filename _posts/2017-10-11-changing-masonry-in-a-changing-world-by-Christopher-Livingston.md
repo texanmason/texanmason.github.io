@@ -7,6 +7,10 @@ This was originally posted to the *Texas Freemasons* Facebook group by Brother C
 
 * * *
 
+## Changing Masonry in a Changing World
+
+### Christopher Livingston
+
 The world is changing. The largest taxi service in the world is Uber. It doesn’t own a single vehicle. The largest hotel service in the world is Airbnb. It doesn’t own a single property. A key retailer? Amazon, which made $136 billion in 2016 without a single brick-and-mortar storefront. Software has disrupted and displaced the world of the 20th Century and will continue to disrupt industries in the coming decade.
 
 Every leader acknowledges that America’s culture is changing. To reach a changing culture, Freemasonry needs to change. Don’t get me wrong, we don’t need to change the Landmarks. We shouldn’t change the message or the meaning. Just the method. One is sacred. The other is not.
