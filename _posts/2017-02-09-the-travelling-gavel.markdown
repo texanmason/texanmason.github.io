@@ -22,6 +22,6 @@ Here we are with the Worshipful Master of Handley Lodge, Haskell Rogers (III):
 
 Bonus picture of our group in front of the very-appropriate "COME AND TAKE IT" flag:
 
-![Bonus Group Picture][take it]{:width="50%"}
+->![Bonus Group Picture][take it]{:width="50%"}<-
 
 For more information on the Traveling Gavel, check out [the 64th district's page on it](http://www.64th.org/traveling-gavel-rules). I sincerely urge anyone in the 64th district to "COME AND TAKE IT," so to speak, as we will try our damndest to take it right back.
