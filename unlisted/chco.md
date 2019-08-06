@@ -1,0 +1,16 @@
+---
+layout: about
+title: Chapter & Council Degrees
+permalink: /ritual/
+---
+
+Chapter & Council Degree Furniture & Implements
+
+#### Chapter Ritual (2016 Edition)
+(Chapter Opening)[/unlisted/chco/ch_open_2016.pdf]
+(Chapter Closing)[/unlisted/chco/ch_close_2016.pdf]
+
+
+#### Council Ritual (2016 Edition)
+(Council Opening)[/unlisted/chco/co_open_2016.pdf]
+(Council Closing)[/unlisted/chco/co_close_2016.pdf]
