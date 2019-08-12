@@ -52,16 +52,14 @@ a fund raising project on Lodge property.
 ### Summary of Source Text:
 
 * Article 224 says:
-* * we want the lodge building to be a "nucleus" of family activities.
-* * we "may meet in buildings where alcoholic beverages may from time to time be served."
-* * we may meet in buildings where appendant bodies serve alcohol, or rent our building to those bodies, as long as we don't meet when they're serving alcohol.
-
+	* we want the lodge building to be a "nucleus" of family activities.
+	* we "may meet in buildings where alcoholic beverages may from time to time be served."
+	* we may meet in buildings where appendant bodies serve alcohol, or rent our building to those bodies, as long as we don't meet when they're serving alcohol.
 * Article 335 says we can't have booze anywhere near a fundraiser on lodge property.
-
 * Article 508 restates Article 224's points and says it's a Masonic disciplinary violation to have or drink alcohol anywhere in a building used by a lodge unless:
- * it's a small amount used in part of existing ritual.
- * it's required for observances required by existing organization regulations
- * or it's happening in a commercial space.
+	* it's a small amount used in part of existing ritual.
+	* it's required for observances required by existing organization regulations
+	* or it's happening in a commercial space.
 
 ### The Problem
 
@@ -70,14 +68,23 @@ Article 224 and 508 both clearly state that it is acceptable for a lodge to meet
 How do we quantitatively define what's occasional and what's often? We simply can't - at least not in an objective manner.
 
 Article 508 raises even more questions:
-* How far reaching are we defining "occupied or used by any Lodge?" Is this for any building, that's been used by any lodge, for any purpose whatsoever, at any time? Is this only for lodges that permanently meet in a building on a consistent basis?
+* How far reaching are we defining "occupied or used by any Lodge?"
+	* Is this for any building, that's been used by any lodge, for any purpose whatsoever, at any time?
+	* Is this only for lodges that permanently meet in a building on a consistent basis?
 * How do we define "small quantities?"
-* When we say, "observance of special occasions required by existing regulations," what do we mean? How do we define what a special occasion is? Are Shrine stated meeting dinners a special occasion that is required to be obvserved? What about Scottish Rite Burns dinners?
-* What does it mean if a space is "properly leased for commercial purposes," and what is the range of "commercial purposes?" Does this include a one-time dining hall contract for a wedding reception? Does a non-profit company count? Is the space required to be leased to one business or organization exclusively? Can a lodge be the owner of a business that is properly leasing space from a lodge for commercial purposes?
+* When we say, "observance of special occasions required by existing regulations," what do we mean?
+	* How do we define what a special occasion is?
+	* Are Shrine stated meeting dinners a special occasion that is required to be obvserved?
+	* What about Scottish Rite Burns dinners?
+* What does it mean if a space is "properly leased for commercial purposes," and what is the range of "commercial purposes?"
+	* Does this include a one-time dining hall contract for a wedding reception?
+	* Does a non-profit company count?
+	* Is the space required to be leased to one business or organization exclusively?
+	* Can a lodge be the owner of a business that is properly leasing space from a lodge for commercial purposes?
 
 ### Gabe's Take
 
-My personal take on this is that Article 224 and 508 are filled with language that is vague and unenforceable. These articles need to be amended or stricken entirely. 
+My personal take on this is that Article 224 and 508 are filled with language that is vague and unenforceable, requiring significant changes, either in the form of definition additions, or wholesale deletion.
 
 ### Questions
 
