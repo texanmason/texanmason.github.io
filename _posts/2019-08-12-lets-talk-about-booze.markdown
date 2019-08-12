@@ -23,28 +23,18 @@ There are three times that alcohol is mentioned in the 2018 edition of *Laws of 
 
 > **Art. 335. Lodge Funds Under Its Control.**
 
-> [ . . . ]
-
-> B. Subject to the provisions of Article 224, Lodges may conduct projects to raise funds for a Lodge’s
+> [ . . . ] B. Subject to the provisions of Article 224, Lodges may conduct projects to raise funds for a Lodge’s
 general fund, charity fund, endowment fund, needy individuals, any recognized Masonic charity or foun-
-dation, disaster relief, public schools, educational scholarships or other similar funds. All such funds must be of a noncontroversial, nonsectarian, nonpartisan, patriotic and/or community character. All fund raising activities are subject to the following restrictions:
+dation, disaster relief, public schools, educational scholarships or other similar funds. All such funds must be of a noncontroversial, nonsectarian, nonpartisan, patriotic and/or community character. All fund raising activities are subject to the following restrictions: [ . . . ]
 
-> [ . . . ]
-
-> 5. No alcoholic beverages shall be distributed, sold, purchased, possessed or consumed during
-a fund raising project on Lodge property.
-
-> [ . . . ]
+> [ . . . ] 5. No alcoholic beverages shall be distributed, sold, purchased, possessed or consumed during
+a fund raising project on Lodge property. [ . . . ]
 
 *Title V, Chapter 2, Article 508, "Certain Other Masonic Disciplinary Violations", Paragraph 3:*
 
-> **Art. 508. Certain Other Masonic Disciplinary Violations.** It shall also be a Masonic disciplinary violation for a Lodge, a committee or any combination of Masons, or an individual Mason:
+> **Art. 508. Certain Other Masonic Disciplinary Violations.** It shall also be a Masonic disciplinary violation for a Lodge, a committee or any combination of Masons, or an individual Mason: [ . . . ]
 
-> [ . . . ]
-
-> 3. To consume, possess, have in possession, or sell intoxicating liquor<sup>5</sup> in any portion of the Grand Lodge Memorial Building, or of any building or portion of any building occupied or used by any Lodge, provided, however, that this prohibition does not apply to small quantities of any such beverages or liquors required by existing rituals of such organization in the conferring of its degrees or orders, or in the ceremonies in observance of special occasions required by existing regulations of such organizations; and further, this prohibition shall not apply to space properly leased for commercial purposes. Constituent Lodges may meet in buildings where alcoholic beverages may from time to time be served. Constituent Lodges of the Masonic Grand Lodge of Texas may meet in buildings where other appendant Masonic organizations may, from time to time, serve alcoholic beverages, so long as such service is not in progress while the Lodge is open there; and further, be it enacted, that Constituent Lodges may let, lease, or rent portions of their buildings to other appendant Masonic organizations who may, from time to time, serve alcoholic beverages, so long as such service does not occur in the Lodgeroom of the building. (Revised 2000)
-
-> [ . . . ]
+> [ . . . ] 3. To consume, possess, have in possession, or sell intoxicating liquor<sup>5</sup> in any portion of the Grand Lodge Memorial Building, or of any building or portion of any building occupied or used by any Lodge, provided, however, that this prohibition does not apply to small quantities of any such beverages or liquors required by existing rituals of such organization in the conferring of its degrees or orders, or in the ceremonies in observance of special occasions required by existing regulations of such organizations; and further, this prohibition shall not apply to space properly leased for commercial purposes. Constituent Lodges may meet in buildings where alcoholic beverages may from time to time be served. Constituent Lodges of the Masonic Grand Lodge of Texas may meet in buildings where other appendant Masonic organizations may, from time to time, serve alcoholic beverages, so long as such service is not in progress while the Lodge is open there; and further, be it enacted, that Constituent Lodges may let, lease, or rent portions of their buildings to other appendant Masonic organizations who may, from time to time, serve alcoholic beverages, so long as such service does not occur in the Lodgeroom of the building. (Revised 2000) [ . . . ]
 
 #### Summary of Source Text:
 
@@ -55,7 +45,7 @@ a fund raising project on Lodge property.
 * Article 335 says we can't have booze anywhere near a fundraiser on lodge property.
 * Article 508 restates Article 224's points and says it's a Masonic disciplinary violation to have or drink alcohol anywhere in a building used by a lodge unless:
 	* it's a small amount used in part of existing ritual.
-	* it's required for observances required by existing organization regulations
+	* it's required for observances required by existing organization regulations.
 	* or it's happening in a commercial space.
 
 #### The Problem
