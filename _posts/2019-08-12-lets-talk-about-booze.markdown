@@ -14,17 +14,17 @@ title: Let's Talk About Booze
 
 There are three times that alcohol is mentioned in the *Laws of the Grand Lodge of Texas* (hereafter referred to as "the laws," "Grand Lodge Law," or "the lawbook"). Alcohol is mentioned once in the 2009 edition of *Grand Master Decisions and Annotations to the Laws of the Grand Lodge of Texas* (hereafter referred to as the "Grand Master's Decisions"), but it's in reference to a candidate's ability to consent to the obligation while under the influence, which is outside of the scope of this discussion. 
 
-*Title II, Chapter 6, Article 224*
+**Title II, Chapter 6, Article 224**
 
-> *Art. 224. (264). Use of Lodge and Anterooms.* Masonic Lodgerooms and anterooms opening directly into Lodgerooms (other than club rooms designated to be used for social purposes) shall not be used for other than Masonic purposes, except as hereinafter provided in this Article nor shall they be used by any group or organization, secular or religious, except as otherwise provided in the Laws and Edicts of Grand Lodge. Other than the Lodgerooms and immediate anterooms mentioned in the foregoing sentence the Lodge building and premises may be used by the other organizations enumerated in Article 225 of the Laws of Grand Lodge and by the families of the members of the Lodge. The use of said building and premises other than the Lodgerooms and immediate anterooms by such organizations and family members shall be encouraged to the end that Masonic Lodge buildings and premises will become the nucleus for family social activities. The organizations enumerated in Article 225 of the Laws may also, subject to the consent of the Masonic Lodge and subject to such rules and regulations as are from time to time announced by the Grand Master, use portions of the Lodge building, other than the Lodgerooms and immediate anterooms, to promote, encourage and accomplish such objectives, including, but not limited to, such specified fund-raising activities as are authorized by the Grand Master which funds are to be used exclusively for any purpose consistent with the principles and purposes of Masonry, or the Laws of the Grand Lodge, which said principles and purposes of Masonry are noncontroversial, nonsectarian, nonpartisan, patriotic and/or community character. The portions of the Lodge building hereinabove authorized to be used in the preceding manner, may be open on Sundays for use by those authorized organizations, subject to the conditions set forth in Article 225 but shall not be used when the Lodge is open for business or for degree work or while funerals are being conducted by the Lodge or in any manner which would interfere with or detract from the security of, or the work being conducted by the Lodge. (Revised 1996)
+> **Art. 224. (264). Use of Lodge and Anterooms.** Masonic Lodgerooms and anterooms opening directly into Lodgerooms (other than club rooms designated to be used for social purposes) shall not be used for other than Masonic purposes, except as hereinafter provided in this Article nor shall they be used by any group or organization, secular or religious, except as otherwise provided in the Laws and Edicts of Grand Lodge. Other than the Lodgerooms and immediate anterooms mentioned in the foregoing sentence the Lodge building and premises may be used by the other organizations enumerated in Article 225 of the Laws of Grand Lodge and by the families of the members of the Lodge. The use of said building and premises other than the Lodgerooms and immediate anterooms by such organizations and family members shall be encouraged to the end that Masonic Lodge buildings and premises will become the nucleus for family social activities. The organizations enumerated in Article 225 of the Laws may also, subject to the consent of the Masonic Lodge and subject to such rules and regulations as are from time to time announced by the Grand Master, use portions of the Lodge building, other than the Lodgerooms and immediate anterooms, to promote, encourage and accomplish such objectives, including, but not limited to, such specified fund-raising activities as are authorized by the Grand Master which funds are to be used exclusively for any purpose consistent with the principles and purposes of Masonry, or the Laws of the Grand Lodge, which said principles and purposes of Masonry are noncontroversial, nonsectarian, nonpartisan, patriotic and/or community character. The portions of the Lodge building hereinabove authorized to be used in the preceding manner, may be open on Sundays for use by those authorized organizations, subject to the conditions set forth in Article 225 but shall not be used when the Lodge is open for business or for degree work or while funerals are being conducted by the Lodge or in any manner which would interfere with or detract from the security of, or the work being conducted by the Lodge. (Revised 1996)
 
 > The Lodgeroom and anteroom may be on the ground floor, in a rented building, or one owned jointly with another, or one in which portions, other than the Lodgeroom and anteroom, are occupied or used by others; provided that, in each such case, the requirements as to security and all other matters required herein are complied with. Food may be consumed or served in the Lodgeroom when the Lodge is not at labor. (Revised 1996)
 
 > Constituent Lodges may meet in buildings where alcoholic beverages may from time to time be served. Constituent Lodges of the Masonic Grand Lodge of Texas may meet in buildings where other appendant Masonic organizations may, from time to time, serve alcoholic beverages, so long as such service is not in progress while the Lodge is open there; and further, be it enacted, that Constituent Lodges may let, lease, or rent portions of their buildings to other appendant Masonic organizations who may, from time to time, serve alcoholic beverages, so long as such service does not occur in the Lodgeroom of the building. (Adopted 2000)
 
-*Title II, Chapter 19, Article 335, Paragraph B, Part 5:*
+**Title II, Chapter 19, Article 335, Paragraph B, Part 5:**
 
-> *Art. 335. Lodge Funds Under Its Control.*
+> **Art. 335. Lodge Funds Under Its Control.**
 
 > [ . . . ]
 
@@ -41,7 +41,7 @@ a fund raising project on Lodge property.
 
 *Title V, Chapter 2, Article 508, "Certain Other Masonic Disciplinary Violations", Paragraph 3:*
 
-> *Art. 508. Certain Other Masonic Disciplinary Violations.* It shall also be a Masonic disciplinary violation for a Lodge, a committee or any combination of Masons, or an individual Mason:
+> **Art. 508. Certain Other Masonic Disciplinary Violations.** It shall also be a Masonic disciplinary violation for a Lodge, a committee or any combination of Masons, or an individual Mason:
 
 > [ . . . ]
 
@@ -52,9 +52,9 @@ a fund raising project on Lodge property.
 ### Summary of Source Text:
 
 * Article 224 says:
- * we want the lodge building to be a "nucleus" of family activities.
- * we "may meet in buildings where alcoholic beverages may from time to time be served."
- * we may meet in buildings where appendant bodies serve alcohol, or rent our building to those bodies, as long as we don't meet when they're serving alcohol.
+* * we want the lodge building to be a "nucleus" of family activities.
+* * we "may meet in buildings where alcoholic beverages may from time to time be served."
+* * we may meet in buildings where appendant bodies serve alcohol, or rent our building to those bodies, as long as we don't meet when they're serving alcohol.
 
 * Article 335 says we can't have booze anywhere near a fundraiser on lodge property.
 
@@ -72,8 +72,8 @@ How do we quantitatively define what's occasional and what's often? We simply ca
 Article 508 raises even more questions:
 * How far reaching are we defining "occupied or used by any Lodge?" Is this for any building, that's been used by any lodge, for any purpose whatsoever, at any time? Is this only for lodges that permanently meet in a building on a consistent basis?
 * How do we define "small quantities?"
-* When we say, "observance of special occasions required by existing regulations," what do we mean? How do we define what a special occasion is? Are Moslah Shrine stated meeting dinners a special occasion that is required to be obvserved?
-* What does it mean if a space is "properly leased for commercial purposes," and what is the range of "commercial purposes?" Does a non-profit company count? Is the space required to be leased to one business or organization exclusively? Can a lodge be the owner of a business that is properly leasing space from a lodge for commercial purposes?
+* When we say, "observance of special occasions required by existing regulations," what do we mean? How do we define what a special occasion is? Are Shrine stated meeting dinners a special occasion that is required to be obvserved? What about Scottish Rite Burns dinners?
+* What does it mean if a space is "properly leased for commercial purposes," and what is the range of "commercial purposes?" Does this include a one-time dining hall contract for a wedding reception? Does a non-profit company count? Is the space required to be leased to one business or organization exclusively? Can a lodge be the owner of a business that is properly leasing space from a lodge for commercial purposes?
 
 ### Gabe's Take
 
