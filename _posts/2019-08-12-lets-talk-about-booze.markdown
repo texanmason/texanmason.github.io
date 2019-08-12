@@ -3,16 +3,13 @@ layout: post
 title: Let's Talk About Booze
 ---
 
-[gm recommendation]: /images/2019-07-08-gm-recommendation.png
-[article 223]: /images/2019-07-08-article-223.png
-
 *This was an educational talk on Grand Lodge law for the August 2019 stated meeting of Fort Worth Lodge № 148.*
 
 * * *
 
 ### Context
 
-There are three times that alcohol is mentioned in the *Laws of the Grand Lodge of Texas* (hereafter referred to as "the laws," "Grand Lodge Law," or "the lawbook"). Alcohol is mentioned once in the 2009 edition of *Grand Master Decisions and Annotations to the Laws of the Grand Lodge of Texas* (hereafter referred to as the "Grand Master's Decisions"), but it's in reference to a candidate's ability to consent to the obligation while under the influence, which is outside of the scope of this discussion. 
+There are three times that alcohol is mentioned in the *Laws of the Grand Lodge of Texas* (hereafter referred to as "the laws," "Grand Lodge Law," or "the lawbook"). Alcohol is mentioned once in the 2009 edition of *Grand Master Decisions and Annotations to the Laws of the Grand Lodge of Texas* (hereafter referred to as the "Grand Master's Decisions"), but it's in reference to a candidate's ability to consent to the obligation while under the influence, which is outside of the scope of this discussion.[^1]
 
 **Title II, Chapter 6, Article 224**
 
@@ -88,3 +85,4 @@ My personal take on this is that Article 224 and 508 are filled with language th
 
 ### Questions
 
+[^1] Test
