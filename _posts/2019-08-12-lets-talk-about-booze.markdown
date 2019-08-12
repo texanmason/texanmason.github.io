@@ -83,7 +83,7 @@ Article 508 raises even more questions:
 
 My personal take on this is that Article 224 and 508 are filled with language that is vague and unenforceable, requiring significant changes, either in the form of definition additions, or wholesale deletion.
 
-### Questions
+#### Notes
 
 ^[1] Hereafter referred to as "the laws," "Grand Lodge Law," or "the lawbook."
 
