@@ -31,7 +31,7 @@ permalink: /vitae/
 * June 27, 2017 - installed as Master of the Second Veil.
 * November 7, 2017 - installed as Excellent King (by dispensation).
 * June 26, 2018 - installed as Most Excellent High Priest.
-* April 30, 2019 - recieved Parry Grading Gold Award with 999/1000 score in ritual proficiency.
+* April 30, 2019 - received Parry Grading Gold Award with 999/1000 score in ritual proficiency.
 * July 2, 2019 - installed as Principal Sojourner
 
 ##### Order of the High Priesthood in Texas
@@ -45,7 +45,8 @@ permalink: /vitae/
 * June 27, 2017 - installed as Steward.
 * November 7, 2017 - installed as Right Illustrious Deputy Master (by dispensation).
 * June 26, 2018 - installed as Thrice Illustrious Master.
-* April 30, 2019 - recieved Parry Grading Gold Award with 999/1000 score in ritual proficiency.
+* April 30, 2019 - received Parry Grading Gold Award with 999/1000 score in ritual proficiency.
+* June 22, 2019 - introduced into the mysteries of the degree of Super Excellent Master.
 * July 2, 2019 - installed as Chaplain
 
 ##### Order of the Silver Trowel in Texas
