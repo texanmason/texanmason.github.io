@@ -1,0 +1,70 @@
+/*   This style adds a giant amount of padding to any div.   */
+.bigskip {
+	margin-bottom: 10in;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+input[type="submit"].small-fit,
+input[type="reset"].small-fit,
+input[type="button"].small-fit,
+button.small-fit,
+.button.small-fit {
+	display: inline-block;
+	margin: 1em;
+	width: 50%;
+}
+
+input[type="text"].alt,
+textarea {
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+	background: transparent;
+	border-radius: 10px;
+	border: none;
+	border: solid 2px #fff;
+	color: #6cc091;
+	display: inline-block;
+	outline: 0;
+	padding: 0 1em;
+	text-decoration: none;
+	width: 50%;
+}
+
+
+input[type="submit"].alt-alt,
+input[type="reset"].alt-alt,
+input[type="button"].alt-alt,
+button.alt-alt,
+.button.alt-alt {
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	background-color: #6cc091;
+	box-shadow: inset 0 0 0 3px #6cc091;
+	color: #fff !important;
+	border-radius: 30px;
+	border: 0;
+	cursor: pointer;
+	display: inline-block;
+	font-size: .75em;
+	font-weight: 400;
+	height: 3.75em;
+	line-height: 3.85em;
+	letter-spacing: 2px;
+	padding: 0 4em;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	white-space: nowrap;
+	z-index: 100;
+}
