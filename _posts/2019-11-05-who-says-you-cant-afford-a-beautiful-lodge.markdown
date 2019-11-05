@@ -20,10 +20,10 @@ https://dwightlongenecker.com/who-says-you-cant-afford-a-beautiful-church-2/
 
 How can we apply this to masonic lodges? Obviously, as non-sectarian fraternity chapter, a masonic lodge will have different needs than a Roman Catholic parish, but there's a lot of cross-applicational value to what Fr. Longenecker is proposing. In fact, the following points are applicable to masonic lodge buildings without any commentary or modification:
 
-1. Use modern building techniques.
-3. Decide that the building will be beautiful.
-4. Beautiful buildings are possible in the modern age.
-8. Money isn’t everything.
+\1. Use modern building techniques.
+\3. Decide that the building will be beautiful.
+\4. Beautiful buildings are possible in the modern age.
+\8. Money isn’t everything.
 
 Let's talk about Fr. Longenecker's other points, and how they would apply to a masonic lodge building.
 
