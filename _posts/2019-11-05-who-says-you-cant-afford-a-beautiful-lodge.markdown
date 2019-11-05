@@ -20,10 +20,10 @@ https://dwightlongenecker.com/who-says-you-cant-afford-a-beautiful-church-2/
 
 How can we apply this to masonic lodges? Obviously, as non-sectarian fraternity chapter, a masonic lodge will have different needs than a Roman Catholic parish, but there's a lot of cross-applicational value to what Fr. Longenecker is proposing. In fact, the following points are applicable to masonic lodge buildings without any commentary or modification:
 
-1. Use modern building techniques.
-3. Decide that the building will be beautiful.
-4. Beautiful buildings are possible in the modern age.
-8. Money isn’t everything.
+* Use modern building techniques.
+* Decide that the building will be beautiful.
+* Beautiful buildings are possible in the modern age.
+* Money isn’t everything.
 
 Let's talk about Fr. Longenecker's other points, and how they would apply to a masonic lodge building.
 
@@ -74,7 +74,7 @@ Ask yourself these questions:
 	* Read your lawbook.
 	* Talk to your DDGM. He'll either know, or refer you to someone that does.
 
-#### 9. Build a church suitable for your people.
+#### 9. Build a church [lodge] suitable for your people.
 
 ADA (TAS in Texas) compliance is a no-brainer. You've got to do it. Even when not legally required to, it is a duty to all of our brethren to make sure that our buildings are safe and accessible. However, this is, or should be, a given, so it's not the focus of this point.
 
