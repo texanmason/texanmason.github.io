@@ -120,6 +120,6 @@ What matters to your lodge? What are you going to use most? Make sure that the e
 
 What's your priority?
 
-#### You Can Afford a Beautiful Lodge
+#### We Can Afford a Beautiful Lodge
 
-In short, building a lodge building is going to be expensive. It's not easy. However, you don't have to settle for the sheet metal buildings that we see so often. It's a lesson that the fine people of Our Lady of the Rosary Church can teach us very well. You can build a beautiful lodge building.
+In short, building a lodge building is going to be expensive. It's not easy. However, we don't have to settle for the sheet metal buildings that we see so often. It's a lesson that the fine people of Our Lady of the Rosary Church can teach us very well. We can build a beautiful lodge building.
