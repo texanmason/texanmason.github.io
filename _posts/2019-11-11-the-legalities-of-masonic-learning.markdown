@@ -9,7 +9,7 @@ title: The Legalities of Masonic Learning
 
 There are many laws that the Grand Lodge has laid down about teaching & and learning. These laws establish a set of rules that we have to follow to stay out of trouble.
 
-Article 127 states that "no ritual other than that promulgated by this Grand Lodge shall be taught or used in this Jurisdiction." ^1 To "promulgate" something is to promote it or make it "widely known." ^2 
+Article 127 states that "no ritual other than that promulgated by this Grand Lodge shall be taught or used in this Jurisdiction." <sup>1</sup> To "promulgate" something is to promote it or make it "widely known." ^2 
 
 This means that we can't:
 * teach you an alternative trial lecture, or 
