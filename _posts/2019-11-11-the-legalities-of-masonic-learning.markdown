@@ -52,23 +52,13 @@ In short, there's a lot of ways to be unpleasantly surprised, legally speaking, 
 ### Notes
 
 1. Grand Lodge of Texas. *The Laws of the Grand Lodge of Texas A.F. & A.M. Containing the Corporate Charter, the Constitution and Ancient Charges, the Statutes and Masonic Forms.* Revised 2019. Title I, Chapter 17 "Committee on Work", Article 127 "Ritual".
-
 2. *Merriam-Webster, s.v.* "promulgate," accessed November 11, 2019, https://www.merriam-webster.com/dictionary/promulgate
-
 3. Grand Lodge of Texas. *The Laws of the Grand Lodge of Texas A.F. & A.M. Containing the Corporate Charter, the Constitution and Ancient Charges, the Statutes and Masonic Forms.* Revised 2019. Title I, Chapter 17 "Committee on Work", Article 138 "Certificates: Forfeiture."
-
 4. *Ibid.* Article 139 "Esoteric Work: Who May Exemplify."
-
 5. *Ibid.* Article 142 "Esoteric Work: Schools of Instruction."
-
 6. *Ibid.* Article 140 "Esoteric Work: Employing Instructor."
-
 7. *Ibid.* Title II, Chapter 18, Article 323 "Effect of Suspension."
-
 8. *Ibid.* Title IV, Chapter 4, Article 434 "Procedure After Rejection."
-
 9. *Ibid.* Article 434a "Procedure After Lapse of Time."
-
 10. *Ibid.* Article 439.2 "Examination in Master’s Degree."
-
 11. *Ibid.* Title IV, Chapter 2, Article 508.24 "Certain Other Masonic Disciplinary Violations."
