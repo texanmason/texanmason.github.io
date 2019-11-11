@@ -9,7 +9,7 @@ title: The Legalities of Masonic Learning
 
 There are many laws that the Grand Lodge has laid down about teaching & and learning. These laws establish a set of rules that we have to follow to stay out of trouble.
 
-Article 127 states that "no ritual other than that promulgated by this Grand Lodge shall be taught or used in this Jurisdiction." <sup>1</sup> To "promulgate" something is to promote it or make it "widely known." ^2 
+Article 127 states that "no ritual other than that promulgated by this Grand Lodge shall be taught or used in this Jurisdiction." <sup>1</sup> To "promulgate" something is to promote it or make it "widely known." <sup>2</sup>
 
 This means that we can't:
 * teach you an alternative trial lecture, or 
@@ -22,7 +22,7 @@ There's a grand tradition in Masonry of pointing out how different Grand Lodge l
 * The full-form degree lectures are no longer made "widely known" by the Grand Lodge. Are the full-form lectures legal?
 * Are the funeral services considered ritual? If so, are the services that are no longer included in the Monitor, and thus no longer promulgated, legal to use?
 
-Article 138 states that if the holder of an esoteric certificate asks a lodge or Mason(s) to "employ or accept his services to teach or exemplify the work" shall lose his certificate. ^3 
+Article 138 states that if the holder of an esoteric certificate asks a lodge or Mason(s) to "employ or accept his services to teach or exemplify the work" shall lose his certificate. <sup>3</sup> 
 
 Two things worth noting are:
 * there's no mention of receiving compensation. 
@@ -30,20 +30,20 @@ Two things worth noting are:
 
 Let's use another literal interpretation. If I walk up to an Entered Apprentice and tell him, "let me teach you the work," I am breaking the law.
 
-Article 139 states that you can't exemplify ritual or be compensated for it unless you hold an esoteric certificate. ^4 This means that you can't lead a floor school if you don't hold a certificate. It may also bar you from instructing students. The language of "receive compensation therefor" also seems to imply that you can be paid for leading a floor school. Article 142 supports this, in that no compensation can occur for a floor school unless the lodge authorizes and pays for it to happen in a lodge room. ^5
+Article 139 states that you can't exemplify ritual or be compensated for it unless you hold an esoteric certificate. <sup>4</sup> This means that you can't lead a floor school if you don't hold a certificate. It may also bar you from instructing students. The language of "receive compensation therefor" also seems to imply that you can be paid for leading a floor school. Article 142 supports this, in that no compensation can occur for a floor school unless the lodge authorizes and pays for it to happen in a lodge room. <sup>5</sup>
 
-Article 140 states that we can ask any member of the Committee on Work or any certificate holder to teach the work. ^6
+Article 140 states that we can ask any member of the Committee on Work or any certificate holder to teach the work. <sup>6</sup>
 
 There several types of Masons who may not receive instruction in the work:
-* Someone suspended for non-payment of dues. ^7
-* An Entered Apprentice or Fellowcraft whose advancement was protested. ^8
-* An Entered Apprentice or Fellowcraft who is required to petition for advancement due to lapse of time. ^9
+* Someone suspended for non-payment of dues. <sup>7</sup>
+* An Entered Apprentice or Fellowcraft whose advancement was protested. <sup>8</sup>
+* An Entered Apprentice or Fellowcraft who is required to petition for advancement due to lapse of time. <sup>9</sup>
 
-Article 439.2 states that a Master Mason who goes ninety days without during in his proficiency is automatically suspended. It also states that he can still receive instruction and be examined in an open lodge. ^10 Master Masons will want to pay close attention to that point. This article means that Grand Lodge law allows for members of the lodge to or, sit in lodge with a suspended Mason. That would be a violation of our obligation.
+Article 439.2 states that a Master Mason who goes ninety days without during in his proficiency is automatically suspended. It also states that he can still receive instruction and be examined in an open lodge. <sup>10</sup> Master Masons will want to pay close attention to that point. This article means that Grand Lodge law allows for members of the lodge to or, sit in lodge with a suspended Mason. That would be a violation of our obligation.
 
 Title V, Chapter 2, Article 508.24 reads as follows:
 
-> It shall also be a Masonic disciplinary violation for a Lodge, a committee or any combination of Masons, or an individual Mason to possess, or use a cipher/code book on a Lodge premises, or to use a cipher/code book or access a cipher/code book in any form, including electronic access, in the presence of a candidate when instructing the candidate in the esoteric work of a Masonic Degree. ^11
+> It shall also be a Masonic disciplinary violation for a Lodge, a committee or any combination of Masons, or an individual Mason to possess, or use a cipher/code book on a Lodge premises, or to use a cipher/code book or access a cipher/code book in any form, including electronic access, in the presence of a candidate when instructing the candidate in the esoteric work of a Masonic Degree. <sup>11</sup>
 
 That one speaks for itself.
 

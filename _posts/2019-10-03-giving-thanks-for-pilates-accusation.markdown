@@ -32,30 +32,30 @@ After interrogating Jesus, Pilate has him scourged and humiliated. The soldiers 
 
 #### Use by the Church
 
-The Early Church often referred to Jesus as the "King of the Judeans." This was a huge risk for members to take, as this was tantamount to treason, and by calling themselves "followers of Jesus," they were essentially associating themselves with a revolutionary agent. This was more strongly emphasised by Christ’s name, which we have Romanized as "Jesus," but was originally *Yeshua* or "Joshua," and meant "liberator." ^1
+The Early Church often referred to Jesus as the "King of the Judeans." This was a huge risk for members to take, as this was tantamount to treason, and by calling themselves "followers of Jesus," they were essentially associating themselves with a revolutionary agent. This was more strongly emphasised by Christ’s name, which we have Romanized as "Jesus," but was originally *Yeshua* or "Joshua," and meant "liberator." <sup>1</sup>
 
-As the Early Church evolved into the Western Church and the Eastern Church, so too did the initialism used on representations of the cross. The Western Church uses *INRI,* which stands for the Latin phrase *IESUS NAZARENUS REX IUDAEORUM.* The Eastern Church instead uses *INBI,* which is the initialism of the Greek phrase, *IESUS HO NAZORAEOS HO BASILEUS TON IUDAEON.* ^2 The Greek word *basileus* means "monarch," usually in reference to a king or an emperor. ^3 The Eastern Church also frequently uses the variant *INBK,* for *IESUS HO NAZORAEOS HO BASILEUS TU KOSMU,* which translates to English as "Emperor of the Universe" instead of "King of the Jews." According to Catholic tradition, Saint Helena (who is revered by both the Western and Eastern Churches) brought the tablet with the Latin, Greek, and Hebrew inscriptions to Rome. ^4
+As the Early Church evolved into the Western Church and the Eastern Church, so too did the initialism used on representations of the cross. The Western Church uses *INRI,* which stands for the Latin phrase *IESUS NAZARENUS REX IUDAEORUM.* The Eastern Church instead uses *INBI,* which is the initialism of the Greek phrase, *IESUS HO NAZORAEOS HO BASILEUS TON IUDAEON.* <sup>2</sup> The Greek word *basileus* means "monarch," usually in reference to a king or an emperor. <sup>3</sup> The Eastern Church also frequently uses the variant *INBK,* for *IESUS HO NAZORAEOS HO BASILEUS TU KOSMU,* which translates to English as "Emperor of the Universe" instead of "King of the Jews." According to Catholic tradition, Saint Helena (who is revered by both the Western and Eastern Churches) brought the tablet with the Latin, Greek, and Hebrew inscriptions to Rome. <sup>4</sup>
 
 #### Esoteric Latin Interpretations
 
-There are a number of Latin sayings or mottos that have been generated from INRI. ^5 Among them include:
+There are a number of Latin sayings or mottos that have been generated from INRI. <sup>5</sup> Among them include:
 * *In Necis Renascor Integer* – In Death I Am Reborn Intact and Pure. 
 * *Iustum Necare Reges Impios* - It is Just to Kill Impious Kings
 * *Igne Nitrum Roris Invenitur* - By Fire, the Nitre of the Dew is Discovered
 * *Intra Nobis Regnum Iehova* - The Kingdom of God is Within Us 
 
-Of note are two particular versions which have been carried into many esoteric traditions, including some degrees in Freemasonry ^6:
+Of note are two particular versions which have been carried into many esoteric traditions, including some degrees in Freemasonry <sup>6</sup>:
 * *Igne Natura Renovatur Integra* - By Fire, Nature Renews
 * *Insignia Naturae Ratio Illustrat* -  Reason Illuminates Nature’s Symbols  
 
 #### Esoteric Hebrew Interpretations
 
-Esoteric traditions often tie the letters of INRI to the Hebrew words *yam,* *nur,* *ruach,* and *yebeshas.* ^7 *Yam* translates to "vast body of water," and represents the element of water. *Nur* translates to "fire." *Ruach* translates to "breath" or "wind" and represents air. According to Albert Mackey, *yebeshas* was translated by Jean Baptiste Marie Ragon to mean "earth" ^8, although there is little evidence that this is even a real Hebrew word. Regardless, if this is the correct interpretation, then the word *INRI* is a representation of Jesus Christ as the Creator of all. 
+Esoteric traditions often tie the letters of INRI to the Hebrew words *yam,* *nur,* *ruach,* and *yebeshas.* <sup>7</sup> *Yam* translates to "vast body of water," and represents the element of water. *Nur* translates to "fire." *Ruach* translates to "breath" or "wind" and represents air. According to Albert Mackey, *yebeshas* was translated by Jean Baptiste Marie Ragon to mean "earth" <sup>8</sup>, although there is little evidence that this is even a real Hebrew word. Regardless, if this is the correct interpretation, then the word *INRI* is a representation of Jesus Christ as the Creator of all. 
 
 One of the more interesting interpretations of *INRI* is drawn using letter-based correspondences from an 
 esoteric Hebrew text called the *Book of Formation*, written some time between the 2nd Century BC and the 
 2nd Century AD. The *Book of Formation* describes correspondences between Hebrew letters, elements, numbers, 
-planets, and Zodiac signs. From *Formation*, we can draw this cycle, as described in *Modern Magick* by Donald Kraig ^9:
+planets, and Zodiac signs. From *Formation*, we can draw this cycle, as described in *Modern Magick* by Donald Kraig <sup>9</sup>:
 
 * "I" is tied to Yod, which corresponds to Virgo. It represents untouched nature and birth.
 * "N" is tied to Nun, which corresponds to Scorpio. It represents death.
