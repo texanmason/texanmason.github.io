@@ -89,6 +89,7 @@ permalink: /vitae/
 * February 19, 2019 - created a Knight of the Sword.
 * February 19, 2019 - created a Knight of the East.
 * February 19, 2019 - created a Knight of the East and West.
+* November 19, 2019 - installed as Director of Ceremonies
 
 ### Ancient & Accepted Scottish Rite, Southern Masonic Jurisdiction, U.S.A.
 
