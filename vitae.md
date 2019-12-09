@@ -60,6 +60,7 @@ permalink: /vitae/
 * April 15, 2017 - dubbed and created a Knight Templar.
 * December 16, 2017 - installed as Junior Warden.
 * December 1, 2018 - installed as Senior Warden.
+* December 7, 2019 - installed as Generalissimo.
 
 ### York Rite Sovereign College of North America
 
@@ -116,3 +117,6 @@ permalink: /vitae/
 
 ##### The Ancient and Honorable Order of Turtles
 * July 23, 2018 - initiated as a Turtle.
+
+##### San Jacinto Order #128, Order of the Sword of Bunker Hill
+* November 23, 2019 - initiated into the Order of the Sword of Bunker Hill.
