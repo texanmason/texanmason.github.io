@@ -38,6 +38,7 @@ permalink: /vitae/
 * December 7, 2018 - anointed, consecrated, and set aside to the Order of High Priesthood
 
 ### Grand Council of Royal & Select Masters of Texas
+* December 14, 2019 - installed as District Deputy Grand Master of Cryptic District № 26 of the Most Illustrious Grand Council of Royal & Select Masters of Texas.
 
 ##### Texas Council № 321, R&SM
 * April 11, 2017 - advanced to the rights and honors of a Royal Master.
