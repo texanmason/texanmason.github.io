@@ -22,6 +22,8 @@ permalink: /vitae/
 * March 18, 2017 - elected an Associate Member of the Texas Lodge of Research.
 
 ### Grand Royal Arch Chapter of Texas
+* December 14, 2019 - began serving on Internet Committee
+* December 14, 2019 - began serving on Bylaws Committee
 
 ##### Texas Chapter № 362, RAM
 * March 14, 2017 - advanced to the honorable degree of Mark Master Mason.
@@ -39,6 +41,7 @@ permalink: /vitae/
 
 ### Grand Council of Royal & Select Masters of Texas
 * December 14, 2019 - installed as District Deputy Grand Master of Cryptic District № 26 of the Most Illustrious Grand Council of Royal & Select Masters of Texas.
+* December 14, 2019 - began serving on Internet Committee
 
 ##### Texas Council № 321, R&SM
 * April 11, 2017 - advanced to the rights and honors of a Royal Master.
