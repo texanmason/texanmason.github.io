@@ -1,0 +1,161 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{doornbos}{article}{}
+    \name{author}{1}{}{%
+      {{hash=DD}{%
+         family={Doornbos},
+         familyi={D\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Societas Rosicruciana In Civitatibus Foederatis}%
+    }
+    \strng{namehash}{DD1}
+    \strng{fullhash}{DD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Definition and Meaning of INRI}
+    \field{journaltitle}{Golden State College}
+    \field{year}{2008}
+  \endentry
+
+  \entry{kraig}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KDM}{%
+         family={Kraig},
+         familyi={K\bibinitperiod},
+         given={Donald\bibnamedelima Michael},
+         giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Llewellyn Publications}%
+    }
+    \strng{namehash}{KDM1}
+    \strng{fullhash}{KDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{Modern Magick: Twelve Lessons in the High Magickal Arts}
+    \field{year}{2011}
+  \endentry
+
+  \entry{mackey}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MAG}{%
+         family={Mackey},
+         familyi={M\bibinitperiod},
+         given={Albert\bibnamedelima G.},
+         giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=MCT}{%
+         family={McClenachan},
+         familyi={M\bibinitperiod},
+         given={Charles\bibnamedelima T.},
+         giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {L. H. Everts \& Co.}%
+    }
+    \strng{namehash}{MAGMCT1}
+    \strng{fullhash}{MAGMCT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{An Encyclopedia of Freemasonry and Its Kindred Sciences, 2nd
+  Ed.}
+    \field{year}{1884}
+  \endentry
+
+  \entry{weiss}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WR}{%
+         family={Weiss},
+         familyi={W\bibinitperiod},
+         given={Roberto},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Basil Blackwell}%
+    }
+    \strng{namehash}{WR1}
+    \strng{fullhash}{WR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{The Renaissance Discovery of Classical Antiquity}
+    \field{year}{1969}
+  \endentry
+
+  \entry{wren}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WBA}{%
+         family={Wren},
+         familyi={W\bibinitperiod},
+         given={Brian\bibnamedelima A.},
+         giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Westminster John Knox Press}%
+    }
+    \strng{namehash}{WBA1}
+    \strng{fullhash}{WBA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{Advent, Christmas, and Epiphany: Liturgies and Prayers for
+  Public Worship}
+    \field{year}{2008}
+  \endentry
+
+  \entry{zeldis}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ZL}{%
+         family={Zeldis},
+         familyi={Z\bibinitperiod},
+         given={Le\'{o}n},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Anchor Communications}%
+    }
+    \strng{namehash}{ZL1}
+    \strng{fullhash}{ZL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Z}
+    \field{sortinithash}{Z}
+    \field{title}{Masonic Symbols and Signposts}
+    \field{year}{2003}
+  \endentry
+\enddatalist
+\endinput
