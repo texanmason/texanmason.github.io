@@ -66,6 +66,13 @@ permalink: /vitae/
 * December 1, 2018 - installed as Senior Warden.
 * December 7, 2019 - installed as Generalissimo.
 
+##### Worth Commandery № 19, KT - Drill Team
+* March 10, 2019 - began serving on Worth Commandery Drill Team.
+* April 13, 2019 - 3rd Place, Grand Commandery Knights Templar of Texas Grand Conclave Drill Competition.
+
+### Texas York Rite Esoteric Association
+* December 7, 2018 - became a member.
+
 ### York Rite Sovereign College of North America
 
 ##### Trinity York Rite Sovereign College № 154
@@ -87,6 +94,7 @@ permalink: /vitae/
 * May 31, 2019 - created and constituted a Knight of Constantinople.
 * May 31, 2019 - admitted a prince of the order (Secret Monitor 2°).
 * May 31, 2019 - admitted to the order of Saint Lawrence the Martyr.
+* December 17, 2019 - installed as Junior Deacon.
 
 ### Grand Council, Knight Masons, U.S.A.
 
