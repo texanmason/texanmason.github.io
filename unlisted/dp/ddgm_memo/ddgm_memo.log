@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.15)  15 DEC 2019 10:51
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2019.12.15)  22 DEC 2019 15:59
 entering extended mode
 **./ddgm_memo.tex
 (ddgm_memo.tex
@@ -60,7 +60,7 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/latex/geometry\geometry.cfg)))
+("C:\Program Files\MiKTeX 2.9\tex/xelatex/xetexconfig\geometry.cfg")))
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -73,10 +73,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: xetex.def on input line 105.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\xetex.def"
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
@@ -116,16 +116,20 @@ LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-2.
- (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\ot1ppl.fd
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-)
-*geometry* driver: auto-detecting
+LaTeX Font Info:    Trying to load font information for TU+ppl on input line 12
+.
+LaTeX Font Info:    No file TUppl.fd. on input line 12.
+
+
+LaTeX Font Warning: Font shape `TU/ppl/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 12.
+
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
@@ -159,79 +163,33 @@ File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count92
-\scratchdimen=\dimen113
-\scratchbox=\box27
-\nofMPsegments=\count93
-\nofMParguments=\count94
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count95
-\MPscratchDim=\dimen114
-\MPnumerator=\count96
-\makeMPintoPDFobject=\count97
-\everyMPtoPDFconversion=\toks17
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
-Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-42.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 460.
-)
-<letterhead.png, id=1, 304.9794pt x 72.27pt>
-File: letterhead.png Graphic file (type png)
-<use letterhead.png>
-Package pdftex.def Info: letterhead.png  used on input line 13.
-(pdftex.def)             Requested size: 469.75502pt x 111.31927pt.
+File: letterhead.png Graphic file (type bmp)
+<letterhead.png>
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
  []
 
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 13.
-<signature.png, id=3, 1284.8pt x 351.3125pt>
-File: signature.png Graphic file (type png)
-<use signature.png>
-Package pdftex.def Info: signature.png  used on input line 35.
-(pdftex.def)             Requested size: 187.89914pt x 51.37589pt.
+
+LaTeX Font Warning: Font shape `TU/ppl/bx/n' undefined
+(Font)              using `TU/ppl/m/n' instead on input line 13.
+
+File: signature.png Graphic file (type bmp)
+<signature.png>
 [1
 
-{C:/Users/gabri/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./letterhea
-d.png> <./signature.png>] (ddgm_memo.aux) ) 
-Here is how much of TeX's memory you used:
- 2411 strings out of 492484
- 34279 string characters out of 3130514
- 108642 words of memory out of 3000000
- 6735 multiletter control sequences out of 15000+200000
- 6796 words of font info for 20 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 47i,6n,33p,798b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/e
-nc/dvips/base/8r.enc}<C:/Users/gabri/AppData/Roaming/MiKTeX/2.9/fonts/type1/urw
-/palatino/uplb8a.pfb><C:/Users/gabri/AppData/Roaming/MiKTeX/2.9/fonts/type1/urw
-/palatino/uplr8a.pfb><C:/Users/gabri/AppData/Roaming/MiKTeX/2.9/fonts/type1/urw
-/palatino/uplri8a.pfb>
-Output written on ddgm_memo.pdf (1 page, 191922 bytes).
-PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+] [2] (ddgm_memo.aux)
 
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1902 strings out of 427272
+ 24521 string characters out of 3146595
+ 106373 words of memory out of 3000000
+ 6384 multiletter control sequences out of 15000+200000
+ 3648 words of font info for 15 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 47i,4n,33p,798b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on ddgm_memo.pdf (2 pages).
