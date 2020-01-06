@@ -1,28 +1,54 @@
 \documentclass[]{book}
 
-\usepackage[utf8]{inputenc}
-\usepackage{hang}
-\usepackage{lipsum}
-\usepackage{listings}
+%\usepackage[utf8]{inputenc}
+%\usepackage{hang}
+%\usepackage{lipsum}
+%\usepackage{listings}
 \usepackage{enumitem}
-\usepackage{amsmath,amssymb}
+%\usepackage{amsmath,amssymb}
 \usepackage{url}
 \usepackage{parskip}
-\usepackage[none]{hyphenat}
+%\usepackage[none]{hyphenat}
 \usepackage{tikz}
+%\usepackage{xfakebold}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{titlesec}
 
-\lstset{%
-	basicstyle=\ttfamily,
-	language=[LaTeX]{TeX},
+\raggedbottom
+
+%\usetikzlibrary{external}
+%\tikzexternalize[prefix=tikz/]
+
+%\lstset{%
+%	basicstyle=\ttfamily,
+%	language=[LaTeX]{TeX},
+%}
+
+\newcommand{\hexdot}{\hspace{0.15em}\raisebox{-0.3ex}{\includegraphics[page=1,height=1em]{tikz/hexdot.pdf}}\hspace{0.15em}}
+
+\titleformat{\chapter}[display]{\normalfont\bfseries}{}{0pt}{\Huge}[]
+
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{1}
+
+\newcommand{\faq}[1]{
+	\begin{flushleft}
+		\large{\textbf{#1}}
+	\end{flushleft}
 }
 
-\newcommand{\hexdot}{\raisebox{0.5ex}{\textbf{{\small$\pmb{\boldsymbol{\therefore}}\atop\pmb{\boldsymbol{\because}}$}}}}
+%\newcommand{\hexdot}{\raisebox{0.5ex}{\textbf{{\small$\pmb{\mathbf{\therefore}}\atop\pmb{\boldsymbol{\because}}$}}}}
 \newcommand{\si}{S\hexdot{}I\hexdot{}}
 \newcommand{\sii}{S\hexdot{}I\hexdot{}I\hexdot{}}
 \newcommand{\ssii}{S\hexdot{}S\hexdot{}I\hexdot{}I\hexdot{}}
 \newcommand{\moup}{M\hexdot{}O\hexdot{}U\hexdot{}P\hexdot{}}
 \newcommand{\sigi}{S\hexdot{}I\hexdot{}G\hexdot{}I\hexdot{}}
-\newcommand{\mouplong}{\textbf{THE MARTINIST ORDER OF UNKNOWN PHILOSOPHERS}}
+\newcommand{\mouplong}{Martinist Order of Unknown Philosophers}
+\newcommand{\moupyell}{\textsc{The \mouplong{}}}
+
+
+%\newcommand{\mouptest}{M\hextikz{}O\hextikz{}U\hextikz{}P\hextikz{}}
 
 \title{Associate Curriculum}
 \author{Martinist Order of Unknown Philosophers}
@@ -30,10 +56,11 @@
 
 % Start document
 \begin{document}
-	
 	\maketitle
-	
-	\part{Week One}
+	\tableofcontents
+	\chapter{Week One}
 	\input{week01/week0100.tex}
+	\chapter{Week Two}
+	%\input{}
 	
 \end{document}
