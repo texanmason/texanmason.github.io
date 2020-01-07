@@ -1,10 +1,12 @@
 \documentclass[]{book}
 
-%\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{cjhebrew}
 %\usepackage{hang}
 %\usepackage{lipsum}
 %\usepackage{listings}
 \usepackage{enumitem}
+\usepackage{xunicode}
 %\usepackage{amsmath,amssymb}
 \usepackage{url}
 \usepackage{parskip}
@@ -16,6 +18,8 @@
 \usepackage{titlesec}
 
 \raggedbottom
+
+\newcommand{\hebyod}{\begin{cjhebrew}y\end{cjhebrew}}
 
 %\usetikzlibrary{external}
 %\tikzexternalize[prefix=tikz/]
@@ -59,8 +63,9 @@
 	\maketitle
 	\tableofcontents
 	\chapter{Week One}
-	\input{week01/week0100.tex}
+		\input{week01/week0100.tex}
 	\chapter{Week Two}
+		\input{week02/week0200.tex}
 	%\input{}
 	
 \end{document}

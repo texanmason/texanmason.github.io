@@ -11,3 +11,7 @@
 \contentsline {section}{Exercise A}{15}%
 \contentsline {section}{The Martinist Visualization \& Prayer}{16}%
 \contentsline {chapter}{\numberline {2}Week Two}{17}%
+\contentsline {section}{Exercise B}{17}%
+\contentsline {section}{Marrakech Convention --- Important Q's \& A's}{18}%
+\contentsline {section}{Second Conventicle}{20}%
+\contentsline {subsection}{Exercise A}{22}%
