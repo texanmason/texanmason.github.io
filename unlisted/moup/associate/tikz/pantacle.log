@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2019.12.5)  7 JAN 2020 15:26
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2019.12.5)  10 JAN 2020 13:44
 entering extended mode
 **./pantacle.tex
 (pantacle.tex
@@ -432,8 +432,29 @@ stall\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2019/12/21 v3.1.5a (3.1.5a)
 )))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/latex/cjhebrew\cjhebrew.sty
-Package: cjhebrew 2017/03/06 v. 0.2a cjhebrew Hebrew Typesetting System
+stall\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.text.
+code.tex
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.
+tex
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen155
+\pgfdecoratedremainingdistance=\dimen156
+\pgfdecoratedinputsegmentcompleteddistance=\dimen157
+\pgfdecoratedinputsegmentremainingdistance=\dimen158
+\pgf@decorate@distancetomove=\dimen159
+\pgf@decorate@repeatstate=\count113
+\pgfdecorationsegmentamplitude=\dimen160
+\pgfdecorationsegmentlength=\dimen161
+)
+\tikz@lib@dec@box=\box39
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.text.code.tex
+\pgf@lib@dec@text@box=\box40
+)
+\tikz@lib@dec@te@box=\box41
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/amsmath\amsmath.sty
@@ -450,50 +471,637 @@ Package: amstext 2000/06/29 v2.01 AMS text
 stall\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks28
-\ex@=\dimen155
+\ex@=\dimen162
 ))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen156
+\pmbraise@=\dimen163
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count113
+\inf@bad=\count114
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count114
-\leftroot@=\count115
+\uproot@=\count115
+\leftroot@=\count116
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count116
-\DOTSCASE@=\count117
+\classnum@=\count117
+\DOTSCASE@=\count118
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box39
-\strutbox@=\box40
-\big@size=\dimen157
+\Mathstrutbox@=\box42
+\strutbox@=\box43
+\big@size=\dimen164
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count118
-\c@MaxMatrixCols=\count119
+\macc@depth=\count119
+\c@MaxMatrixCols=\count120
 \dotsspace@=\muskip10
-\c@parentequation=\count120
-\dspbrk@lvl=\count121
+\c@parentequation=\count121
+\dspbrk@lvl=\count122
 \tag@help=\toks29
-\row@=\count122
-\column@=\count123
-\maxfields@=\count124
+\row@=\count123
+\column@=\count124
+\maxfields@=\count125
 \andhelp@=\toks30
-\eqnshift@=\dimen158
-\alignsep@=\dimen159
-\tagshift@=\dimen160
-\tagwidth@=\dimen161
-\totwidth@=\dimen162
-\lineht@=\dimen163
+\eqnshift@=\dimen165
+\alignsep@=\dimen166
+\tagshift@=\dimen167
+\tagwidth@=\dimen168
+\totwidth@=\dimen169
+\lineht@=\dimen170
 \@envbody=\toks31
 \multlinegap=\skip44
 \multlinetaggap=\skip45
 \mathdisplay@stack=\toks32
-LaTeX Info: Redefining \[ on i
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/polyglossia\polyglossia.sty
+Package: polyglossia 2019/11/15 v1.46 Alternative to Babel for XeLaTeX and LuaL
+aTeX
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count126
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/makecmds\makecmds.sty
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/fontspec\fontspec.sty
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3packages/xparse\xparse.sty
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3kernel\expl3.sty
+Package: expl3 2019-11-07 L3 programming layer (loader) 
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3kernel\expl3-code.tex
+Package: expl3 2019-11-07 L3 programming layer (code)
+\c_max_int=\count127
+\l_tmpa_int=\count128
+\l_tmpb_int=\count129
+\g_tmpa_int=\count130
+\g_tmpb_int=\count131
+\l__seq_internal_a_int=\count132
+\l__seq_internal_b_int=\count133
+\g__kernel_prg_map_int=\count134
+\c__ior_term_noprompt_ior=\count135
+\c_log_iow=\count136
+\l_iow_line_count_int=\count137
+\l__iow_line_target_int=\count138
+\l__iow_one_indent_int=\count139
+\l__iow_indent_int=\count140
+\c_zero_dim=\dimen171
+\c_max_dim=\dimen172
+\l_tmpa_dim=\dimen173
+\l_tmpb_dim=\dimen174
+\g_tmpa_dim=\dimen175
+\g_tmpb_dim=\dimen176
+\c_zero_skip=\skip46
+\c_max_skip=\skip47
+\l_tmpa_skip=\skip48
+\l_tmpb_skip=\skip49
+\g_tmpa_skip=\skip50
+\g_tmpb_skip=\skip51
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count141
+\l__intarray_loop_int=\count142
+\c__intarray_sp_dim=\dimen177
+\g__intarray_font_int=\count143
+\c__fp_leading_shift_int=\count144
+\c__fp_middle_shift_int=\count145
+\c__fp_trailing_shift_int=\count146
+\c__fp_big_leading_shift_int=\count147
+\c__fp_big_middle_shift_int=\count148
+\c__fp_big_trailing_shift_int=\count149
+\c__fp_Bigg_leading_shift_int=\count150
+\c__fp_Bigg_middle_shift_int=\count151
+\c__fp_Bigg_trailing_shift_int=\count152
+\g__fp_array_int=\count153
+\l__fp_array_loop_int=\count154
+\l__sort_length_int=\count155
+\l__sort_min_int=\count156
+\l__sort_top_int=\count157
+\l__sort_max_int=\count158
+\l__sort_true_max_int=\count159
+\l__sort_block_int=\count160
+\l__sort_begin_int=\count161
+\l__sort_end_int=\count162
+\l__sort_A_int=\count163
+\l__sort_B_int=\count164
+\l__sort_C_int=\count165
+\l__str_internal_int=\count166
+\l__tl_analysis_normal_int=\count167
+\l__tl_analysis_index_int=\count168
+\l__tl_analysis_nesting_int=\count169
+\l__tl_analysis_type_int=\count170
+\l__regex_internal_a_int=\count171
+\l__regex_internal_b_int=\count172
+\l__regex_internal_c_int=\count173
+\l__regex_balance_int=\count174
+\l__regex_group_level_int=\count175
+\l__regex_mode_int=\count176
+\c__regex_cs_in_class_mode_int=\count177
+\c__regex_cs_mode_int=\count178
+\l__regex_catcodes_int=\count179
+\l__regex_default_catcodes_int=\count180
+\c__regex_catcode_L_int=\count181
+\c__regex_catcode_O_int=\count182
+\c__regex_catcode_A_int=\count183
+\c__regex_all_catcodes_int=\count184
+\l__regex_show_lines_int=\count185
+\l__regex_min_state_int=\count186
+\l__regex_max_state_int=\count187
+\l__regex_left_state_int=\count188
+\l__regex_right_state_int=\count189
+\l__regex_capturing_group_int=\count190
+\l__regex_min_pos_int=\count191
+\l__regex_max_pos_int=\count192
+\l__regex_curr_pos_int=\count193
+\l__regex_start_pos_int=\count194
+\l__regex_success_pos_int=\count195
+\l__regex_curr_char_int=\count196
+\l__regex_curr_catcode_int=\count197
+\l__regex_last_char_int=\count198
+\l__regex_case_changed_char_int=\count199
+\l__regex_curr_state_int=\count266
+\l__regex_step_int=\count267
+\l__regex_min_active_int=\count268
+\l__regex_max_active_int=\count269
+\l__regex_replacement_csnames_int=\count270
+\l__regex_match_count_int=\count271
+\l__regex_min_submatch_int=\count272
+\l__regex_submatch_int=\count273
+\l__regex_zeroth_submatch_int=\count274
+\g__regex_trace_regex_int=\count275
+\c_empty_box=\box44
+\l_tmpa_box=\box45
+\l_tmpb_box=\box46
+\g_tmpa_box=\box47
+\g_tmpb_box=\box48
+\l__box_top_dim=\dimen178
+\l__box_bottom_dim=\dimen179
+\l__box_left_dim=\dimen180
+\l__box_right_dim=\dimen181
+\l__box_top_new_dim=\dimen182
+\l__box_bottom_new_dim=\dimen183
+\l__box_left_new_dim=\dimen184
+\l__box_right_new_dim=\dimen185
+\l__box_internal_box=\box49
+\l__coffin_internal_box=\box50
+\l__coffin_internal_dim=\dimen186
+\l__coffin_offset_x_dim=\dimen187
+\l__coffin_offset_y_dim=\dimen188
+\l__coffin_x_dim=\dimen189
+\l__coffin_y_dim=\dimen190
+\l__coffin_x_prime_dim=\dimen191
+\l__coffin_y_prime_dim=\dimen192
+\c_empty_coffin=\box51
+\l__coffin_aligned_coffin=\box52
+\l__coffin_aligned_internal_coffin=\box53
+\l_tmpa_coffin=\box54
+\l_tmpb_coffin=\box55
+\g_tmpa_coffin=\box56
+\g_tmpb_coffin=\box57
+\l__coffin_bounding_shift_dim=\dimen193
+\l__coffin_left_corner_dim=\dimen194
+\l__coffin_right_corner_dim=\dimen195
+\l__coffin_bottom_corner_dim=\dimen196
+\l__coffin_top_corner_dim=\dimen197
+\l__coffin_scaled_total_height_dim=\dimen198
+\l__coffin_scaled_width_dim=\dimen199
+\c__coffin_empty_coffin=\box58
+\l__coffin_display_coffin=\box59
+\l__coffin_display_coord_coffin=\box60
+\l__coffin_display_pole_coffin=\box61
+\l__coffin_display_offset_dim=\dimen256
+\l__coffin_display_x_dim=\dimen257
+\l__coffin_display_y_dim=\dimen258
+\g__char_data_ior=\read2
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3kernel\l3deprecation.def
+File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
+))
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3backend\l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2019-04-06 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count276
+\l__pdf_internal_box=\box62
+\g__pdf_backend_object_int=\count277
+\g__pdf_backend_annotation_int=\count278
+))
+Package: xparse 2019-10-11 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count279
+\g__xparse_grabber_int=\count280
+\l__xparse_m_args_int=\count281
+\l__xparse_v_nesting_int=\count282
+)
+Package: fontspec 2019/10/19 v2.7d Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2019/10/19 v2.7d Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count283
+\l__fontspec_language_int=\count284
+\l__fontspec_strnum_int=\count285
+\l__fontspec_tmp_int=\count286
+\l__fontspec_tmpa_int=\count287
+\l__fontspec_tmpb_int=\count288
+\l__fontspec_tmpc_int=\count289
+\l__fontspec_em_int=\count290
+\l__fontspec_emdef_int=\count291
+\l__fontspec_strong_int=\count292
+\l__fontspec_strongdef_int=\count293
+\l__fontspec_tmpa_dim=\dimen259
+\l__fontspec_tmpb_dim=\dimen260
+\l__fontspec_tmpc_dim=\dimen261
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/base\fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/base\tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/fontspec\fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 4047.
+LaTeX Info: Redefining \slshape on input line 4052.
+LaTeX Info: Redefining \scshape on input line 4057.
+LaTeX Info: Redefining \upshape on input line 4062.
+LaTeX Info: Redefining \em on input line 4092.
+LaTeX Info: Redefining \emph on input line 4117.
+))
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/filehook\filehook.sty
+Package: filehook 2019/10/03 v0.6 Hooks for input files
+)
+\xpg@normalclass=\XeTeXcharclass1
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/polyglossia\gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}.
+)
+Package polyglossia Info: Default language is latex.
+Package polyglossia Info: Option: localmarks.
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/polyglossia\gloss-hebrew.ldf
+File: gloss-hebrew.ldf polyglossia: module for hebrew
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\bidi.sty
+Package: bidi 2019/10/19 v35.10 Bidirectional typesetting in plain TeX and LaTe
+X
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2009--2019 Vafa Khalighi
+* 
+* v35.10, 2019/10/19
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/vafa-ac/bidi/issues
+* 
+****************************************************
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\biditools.sty
+Package: biditools 2019/10/19 v1.10 Programming tools for bidi package
+\@bidi@envbody=\toks33
+\@bidi@emptytoks=\toks34
+\bidi@tempcountb=\count294
+\bidi@temptoksa=\toks35
+\bidi@temptoksb=\toks36
+\bidi@dummies=\count295
+\bidi@are@these@correct=\toks37
+\bidi@toks@lista=\toks38
+\bidi@toks@listb=\toks39
+\bidi@stack@length=\count296
+\bidi@empty@stack=\toks40
+\bidi@looprepeat@depth=\count297
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2019/11/29 v2.28 Module abspage for zref (HO)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/zref\zref-base.sty
+Package: zref-base 2019/11/29 v2.28 Module base for zref (HO)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+))
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/oberdiek\auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 763.
+Package zref Info: New property: default on input line 764.
+Package zref Info: New property: page on input line 765.
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/oberdiek\atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+))
+\c@abspage=\count298
+Package zref Info: New property: abspage on input line 66.
+)
+\@bidi@copyins@=\insert252
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2019/03/03 v1.3.7 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks41
+\bidi@column@check@number=\count299
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2017/08/09 v1.1 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count300
+\footdir@toks=\toks42
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\article-xetex-bidi.def
+File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard arti
+cle class for XeTeX engine
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\amsmath-xetex-bidi.def
+File: amsmath-xetex-bidi.def 2018/01/08 v1.1 bidi adaptations for amsmath packa
+ge for XeTeX engine
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\amstext-xetex-bidi.def
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext packa
+ge for XeTeX engine
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\color-xetex-bidi.def
+File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
+or XeTeX engine
+LaTeX Info: Redefining \color on input line 45.
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\xcolor-xetex-bidi.def
+File: xcolor-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for xcolor package
+ for XeTeX engine
+LaTeX Info: Redefining \color on input line 44.
+LaTeX Info: Redefining \bidicolor on input line 87.
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\graphicx-xetex-bidi.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
+kage for XeTeX engine
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\pgfcorescopes.code-xetex-bidi.def
+File: pgfcorescopes.code-xetex-bidi.def 2015/11/14 v0.1 bidi adaptations for pg
+f package for XeTeX engine
+))
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/xelatex/bidi\loadingorder-xetex-bidi.def
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
+ last package loaded
+)
+\bidi@digits=\count301
+\bidi@digits@charclass=\XeTeXcharclass2
+\bidi@sepmark@charclass=\XeTeXcharclass3
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/polyglossia\hebrewcal.sty
+Package: hebrewcal 2015/04/17 v2.6 Hebrew calendar for polyglossia (adapted fro
+m hebcal.sty in Babel)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/polyglossia\cal-util.def
+\c@tmpA=\count302
+\c@tmpB=\count303
+\c@tmpC=\count304
+\c@tmpD=\count305
+\c@tmpE=\count306
+\c@tmpF=\count307
+)
+\hebrewday=\count308
+\hebrewmonth=\count309
+\hebrewyear=\count310
+\@common=\count311
+)
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {hebrew/script}  =>  {Hebrew}
+>  {hebrew/lcscript}  =>  {hebrew}
+>  {hebrew/scripttag}  =>  {hebr}
+>  {hebrew/language}  =>  {Hebrew}
+>  {hebrew/langtag}  =>  {IWR}
+>  {hebrew/hyphennames}  =>  {nohyphenation}
+>  {hebrew/direction}  =>  {RL}
+>  {hebrew/hyphenmins}  =>  {2,3}
+>  {hebrew/frenchspacing}  =>  {false}
+>  {hebrew/indentfirst}  =>  {false}
+>  {hebrew/fontsetup}  =>  {true}
+>  {hebrew/envname}  =>  {hebrew}
+>  {hebrew/babelname}  =>  {hebrew}
+>  {hebrew/localnumeral}  =>  {hebrewnumerals}
+>  {hebrew/Localnumeral}  =>  {hebrewnumerals}.
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/polyglossia\babel-hebrewalph.def
+File: babel-hebrewalph.def 2010/03/02 Babel definitions for Hebrew numerals
+ Adapted from hebrew.ldf (2005/03/30 v2.3h)
+))
+Package polyglossia Info: Default language is hebrew.
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Script=Hebrew].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=hebr;language=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (bx/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=hebr;language=DFLT;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=hebr;language=DFLT;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=hebr;language=DFLT;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+
+\R=\dimen262
+ (pantacle.aux)
+\openout1 = `pantacle.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+ABD: EveryShipout initializing macros
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 31.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 31.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 31.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 31.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 31.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 31.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 31.
+LaTeX Font Info:    Redeclaring math accent \check on input line 31.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 31.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 31.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 31.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `no
