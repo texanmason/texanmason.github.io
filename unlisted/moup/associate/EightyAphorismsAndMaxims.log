@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  14 JAN 2020 16:57
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  14 JAN 2020 17:03
 entering extended mode
 **./EightyAphorismsAndMaxims.tex
 (EightyAphorismsAndMaxims.tex
@@ -579,19 +579,6 @@ Package: pgfornament 2016/03/05 v0.21 vector ornaments
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/pgfornament\pgflibraryvectorian.code.tex))
 \secheight=\dimen172
-\cornerop=\dimen173
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \par 
-l.33 
-     
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
 
 
 LaTeX Warning: Unused global option(s):
@@ -600,20 +587,20 @@ LaTeX Warning: Unused global option(s):
 (EightyAphorismsAndMaxims.aux)
 \openout1 = `EightyAphorismsAndMaxims.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
-LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -709,23 +696,23 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
-Overfull \hbox (7.42285pt too wide) in paragraph at lines 105--106
+Overfull \hbox (7.42285pt too wide) in paragraph at lines 102--103
 \TU/lmr/m/n/10.95 Unknown Philosophers, but all seekers of truth
  []
 
 
-Overfull \hbox (0.8178pt too wide) in paragraph at lines 105--106
+Overfull \hbox (0.8178pt too wide) in paragraph at lines 102--103
 \TU/lmr/m/n/10.95 are encouraged to find wisdom in these pages. 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 111
+LaTeX Font Info:    Trying to load font information for U+msa on input line 108
 .
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 111
+LaTeX Font Info:    Trying to load font information for U+msb on input line 108
 .
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
@@ -749,7 +736,7 @@ File: tikz/hexdot.pdf Graphic file (type pdf)
 File: tikz/hexdot.pdf Graphic file (type pdf)
 <use tikz/hexdot.pdf>
 
-Overfull \hbox (7.67319pt too wide) in paragraph at lines 120--121
+Overfull \hbox (7.67319pt too wide) in paragraph at lines 117--118
 \TU/lmr/m/it/10.95 Constant Martin Chevillon, S[]I[]G[]I[], who
  []
 
@@ -790,12 +777,12 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (0.50246pt too wide) in paragraph at lines 130--131
+Overfull \hbox (0.50246pt too wide) in paragraph at lines 127--128
 \TU/lmr/m/n/10.95 When we speak of the Divine Sensibility, men
  []
 
 
-Overfull \hbox (12.21017pt too wide) in paragraph at lines 130--131
+Overfull \hbox (12.21017pt too wide) in paragraph at lines 127--128
 \TU/lmr/m/n/10.95 law, and are that which they should be, whereas
  []
 
@@ -824,7 +811,7 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (4.08092pt too wide) in paragraph at lines 134--135
+Overfull \hbox (4.08092pt too wide) in paragraph at lines 131--132
 \TU/lmr/m/n/10.95 Great progress in truth is difficult in the midst
  []
 
@@ -901,7 +888,7 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (1.75075pt too wide) in paragraph at lines 146--147
+Overfull \hbox (1.75075pt too wide) in paragraph at lines 143--144
 \TU/lmr/m/n/10.95 “All is vanity,” says Solomon; but let courage,
  []
 
@@ -930,7 +917,7 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (0.46738pt too wide) in paragraph at lines 150--151
+Overfull \hbox (0.46738pt too wide) in paragraph at lines 147--148
 \TU/lmr/m/n/10.95 Never persuade yourself that you possess wis-
  []
 
@@ -959,7 +946,7 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (1.23389pt too wide) in paragraph at lines 154--155
+Overfull \hbox (1.23389pt too wide) in paragraph at lines 151--152
 \TU/lmr/m/n/10.95 we are stripped successively of all human sup-
  []
 
@@ -976,7 +963,7 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (8.3032pt too wide) in paragraph at lines 156--157
+Overfull \hbox (8.3032pt too wide) in paragraph at lines 153--154
 \TU/lmr/m/n/10.95 being, the ordeals, oppositions, and evils which
  []
 
@@ -1137,17 +1124,17 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (2.93117pt too wide) in paragraph at lines 182--183
+Overfull \hbox (2.93117pt too wide) in paragraph at lines 179--180
 \TU/lmr/m/n/10.95 the reward of many is with them in this world,
  []
 
 
-Overfull \hbox (1.21202pt too wide) in paragraph at lines 182--183
+Overfull \hbox (1.21202pt too wide) in paragraph at lines 179--180
 \TU/lmr/m/n/10.95 whence they have little to expect in the other.
  []
 
 
-Overfull \hbox (1.8033pt too wide) in paragraph at lines 182--183
+Overfull \hbox (1.8033pt too wide) in paragraph at lines 179--180
 \TU/lmr/m/n/10.95 sure of compensations obtained in the present
  []
 
@@ -1164,7 +1151,7 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (8.26598pt too wide) in paragraph at lines 184--185
+Overfull \hbox (8.26598pt too wide) in paragraph at lines 181--182
 \TU/lmr/m/n/10.95 When deliverance has been accomplished, time
  []
 
@@ -1193,7 +1180,7 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (0.53528pt too wide) in paragraph at lines 188--189
+Overfull \hbox (0.53528pt too wide) in paragraph at lines 185--186
 \TU/lmr/m/n/10.95 tence, corporeal beings and beings corporised
  []
 
@@ -1270,7 +1257,7 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (2.58076pt too wide) in paragraph at lines 200--201
+Overfull \hbox (2.58076pt too wide) in paragraph at lines 197--198
 \TU/lmr/m/n/10.95 The greatest sin which we can commit against
  []
 
@@ -1395,7 +1382,7 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (8.9449pt too wide) in paragraph at lines 220--221
+Overfull \hbox (8.9449pt too wide) in paragraph at lines 217--218
 \TU/lmr/m/n/10.95 the summit of a mountain, with a vast prospect
  []
 
@@ -1484,7 +1471,7 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (4.82552pt too wide) in paragraph at lines 234--235
+Overfull \hbox (4.82552pt too wide) in paragraph at lines 231--232
 \TU/lmr/m/n/10.95 That which is true is made by men subservient
  []
 
@@ -1609,12 +1596,12 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
-Overfull \hbox (0.1389pt too wide) in paragraph at lines 254--255
+Overfull \hbox (0.1389pt too wide) in paragraph at lines 251--252
 \TU/lmr/m/n/10.95 Unity is seldom found in associations; it must
  []
 
 
-Overfull \hbox (1.09154pt too wide) in paragraph at lines 254--255
+Overfull \hbox (1.09154pt too wide) in paragraph at lines 251--252
 \TU/lmr/m/n/10.95 be sought in an individual junction with God.
  []
 
@@ -1799,16 +1786,12 @@ stall\tex/generic/pgfornament/vectorian\vectorian6.pgf)
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf) [87] [88] [89]
-(EightyAphorismsAndMaxims.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+(EightyAphorismsAndMaxims.aux) ) 
 Here is how much of TeX's memory you used:
- 16006 strings out of 427233
- 366372 string characters out of 3134236
- 366672 words of memory out of 3000000
- 19253 multiletter control sequences out of 15000+200000
+ 16000 strings out of 427233
+ 366219 string characters out of 3134236
+ 366806 words of memory out of 3000000
+ 19247 multiletter control sequences out of 15000+200000
  8352 words of font info for 40 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  68i,6n,70p,1054b,854s stack positions out of 5000i,500n,10000p,200000b,50000s

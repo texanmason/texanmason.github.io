@@ -28,13 +28,10 @@
 \secheight = 2em
 %\newcommand{\secdec}[1]{\raisebox{0.3333\secheight}{\pgfornament[height=\secheight]{#1}}}
 
-\newdimen\cornerop
-\cornerop= 0.025
-
 \newcommand{\secdec}[2]{
 	\raisebox{-0.25\secheight}{
 		\begin{tikzpicture}
-			\node[anchor = north, rotate=#1] at (0,0) {\pgfornament[opacity=0.25, height=\secheight]{#2}};
+			\node[anchor = north, rotate=#1] at (0,0) {\pgfornament[opacity=0.50, height=\secheight]{#2}};
 		\end{tikzpicture}
 	}
 }
@@ -52,13 +49,13 @@
 \newcommand{\eachpageornament}{%
 	\begin{tikzpicture}[remember picture, overlay]
 	\node[anchor=north, rotate=45] at (current page.north west){%
-		\pgfornament[opacity=\cornerop, width=1.5\secheight]{6}};
+		\pgfornament[opacity=0.1, width=2\secheight]{6}};
 	\node[anchor=north, rotate=-45] at (current page.north east){%
-		\pgfornament[opacity=\cornerop, width=1.5\secheight]{6}};
+		\pgfornament[opacity=0.1, width=2\secheight]{6}};
 	\node[anchor=north, rotate=135] at (current page.south west){%
-		\pgfornament[opacity=\cornerop, width=1.5\secheight]{6}};
+		\pgfornament[opacity=0.1, width=2\secheight]{6}};
 	\node[anchor=north, rotate=-135] at (current page.south east){%
-		\pgfornament[opacity=\cornerop, width=1.5\secheight]{6}};
+		\pgfornament[opacity=0.1, width=2\secheight]{6}};
 	\end{tikzpicture}
 }
 
