@@ -3,39 +3,32 @@
 \usepackage{tikz}
 \usetikzlibrary{decorations.text}
 
+\usepackage{xcolor}
+\newcommand{\red}[1]{\textcolor{red}{#1}}
+
+\usepackage{contour}
+\contourlength{0.025em}
+
 \usepackage{graphicx}
 \usepackage{amsmath,amssymb}
 
-\usepackage{polyglossia}
-\setdefaultlanguage{hebrew}
-\newfontfamily\hebrewfont[Script=Hebrew]{Times New Roman}
+\usepackage{cjhebrew}
 
+\newcommand{\jeheshua}{\cjRL{y h /s w h}}
 
-\newcommand{\yod}{י}
-\newcommand{\he}{ה}
-\newcommand{\vav}{ו}
-\newcommand{\shin}{ש}
-\newcommand{\jeheshua}{
-	\he{}
-	\vav{}
-	\shin{}
-	\he{}
-	\yod{}
-}
-
-\newcommand{\hexdot}{$\therefore\atop\because$}
+%\newcommand{\hexdot}{$\therefore\atop\because$}
+\newcommand{\hexdot}{\hspace{0.15em}\raisebox{-0.3ex}{\includegraphics[page=1,height=1em]{hexdot.pdf}}\hspace{0.15em}}
 
 \begin{document}
-	
 	\begin{tikzpicture}
-	\node (myfirstpic) at (0,0) {\includegraphics{pantacle.png}};
-	\node (One) at (-5,0) {};
-	\node (Two) at (5,0) {};
-	\def\myshift#1{\raisebox{-2.5ex}}
-	\draw [-,thick,black!0,postaction={decorate,decoration={text along path,text align=center,text={|\myshift|B O T T O M T E X T}}}] (One) to [bend right=45]  (Two);
-	\def\myshift#1{\raisebox{1ex}}
-	\draw [-,thick,black!0,postaction={decorate,decoration={text along path,text align=center,text={|\myshift|T O P \jeheshua{} T E X T}}}] (One) to [bend left=45] (Two);
-	\end{tikzpicture}
-	
-	
+		\node (jesus) at (0,3.5) {\Huge\red{\jeheshua{}}};
+		\node (top) at (0,2.75) {\red{A}\hexdot{}L\hexdot{}\red{G}\hexdot{}D\hexdot{}\red{G}\hexdot{}A\hexdot{}\red{D}\hexdot{}L\hexdot{}\red{U}\hexdot{}};
+		\node (pantacle) at (0,0) {\includegraphics{pantacle.png}};
+		\node (bot) at (0,-2.75) {\red{S}\hexdot{} L\hexdot{} \red{A}\hexdot{} D\hexdot{} \red{Phil\ldots{}} \red{Inc\ldots{}} N\hexdot{} \red{V}\hexdot{} M\hexdot{}};
+		\node (sub) at (0,-3.5) {The \red{M}artinist \red{O}rder of \red{U}nknown \red{P}hilosophers};
+		%\node (sub) at (0,-3) {The \red{M}artinist \red{O}rder};
+		%\node (subsub) at (0,-3.5) {of};
+		%\node (subsubof) at (0, -4) {\red{U}nknown \red{P}hilosophers};
+		%\node (subsubsub) at (0,-4.5) {Jean-Baptiste Willermoz Chapter};
+	\end{tikzpicture}	
 \end{document}
