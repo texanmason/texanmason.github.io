@@ -1,4 +1,6 @@
-\documentclass[openany,11pt]{book}
+\documentclass[openany,10pt]{book}
+
+\usepackage{extsizes}
 
 \include{80AAM_includes}
 
@@ -6,13 +8,15 @@
 \author{Louis-Claude de Saint-Martin\\\emph{Le Philosophe Inconnu}}
 \date{}
 
+%\clubpenalty10000
+
 \include{80AAM_commands}
 
 \begin{document}
 	
 	\include{80AAM_title_fancy}
 	
-	\pagenumbering{gobble}
+	\pagenumbering{gobble}\clubpenalty10000000%\raggedright
 	
 	\include{80AAM_preface}
 	

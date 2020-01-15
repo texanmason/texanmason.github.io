@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  15 JAN 2020 10:16
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  15 JAN 2020 17:01
 entering extended mode
 **./EightyAphorismsAndMaxims.tex
 (EightyAphorismsAndMaxims.tex
@@ -9,8 +9,8 @@ stall\tex/latex/base\book.cls
 Document Class: book 2019/10/25 v1.4k Standard LaTeX document class
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/latex/base\bk11.clo
-File: bk11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+stall\tex/latex/base\bk10.clo
+File: bk10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -25,6 +25,30 @@ File: bk11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/extsizes\extsizes.sty
+Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
+
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/base\size10.clo
+File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+LaTeX Info: The control sequence `\normalsize' is already robust on input line 
+56.
+LaTeX Info: Redefining \small on input line 58.
+LaTeX Info: Redefining \footnotesize on input line 69.
+LaTeX Info: Redefining \scriptsize on input line 80.
+LaTeX Info: Redefining \tiny on input line 81.
+LaTeX Info: Redefining \large on input line 82.
+LaTeX Info: Redefining \Large on input line 83.
+LaTeX Info: Redefining \LARGE on input line 84.
+LaTeX Info: Redefining \huge on input line 85.
+LaTeX Info: Redefining \Huge on input line 86.
+))
 \@input{80AAM_includes.aux}
 \openout2 = `80AAM_includes.aux'.
 
@@ -598,20 +622,20 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 (80AAM_preface.aux) (80AAM_content.aux))
 \openout1 = `EightyAphorismsAndMaxims.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -620,23 +644,23 @@ LaTeX Font Info:    ... okay on input line 11.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(72.26999pt, 289.08002pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 505.89001pt, 72.26999pt)
+* h-part:(L,W,R)=(90.3375pt, 252.945pt, 90.3375pt)
+* v-part:(T,H,B)=(90.3375pt, 469.755pt, 90.3375pt)
 * \paperwidth=433.62pt
 * \paperheight=650.43pt
-* \textwidth=289.08002pt
-* \textheight=505.89001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-31.8738pt
+* \textwidth=252.945pt
+* \textheight=469.755pt
+* \oddsidemargin=18.0675pt
+* \evensidemargin=18.0675pt
+* \topmargin=-18.9325pt
 * \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=11.0pt
-* \footskip=27.46295pt
-* \marginparwidth=116.0pt
-* \marginparsep=7.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=121.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -656,23 +680,23 @@ ABD: EveryShipout initializing macros
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(28.90755pt, 375.8049pt, 28.90755pt)
-* v-part:(T,H,B)=(28.90755pt, 592.6149pt, 28.90755pt)
+* h-part:(L,W,R)=(18.06749pt, 397.48502pt, 18.06749pt)
+* v-part:(T,H,B)=(18.06749pt, 614.29501pt, 18.06749pt)
 * \paperwidth=433.62pt
 * \paperheight=650.43pt
-* \textwidth=375.8049pt
-* \textheight=592.6149pt
-* \oddsidemargin=-43.36244pt
-* \evensidemargin=-43.36244pt
-* \topmargin=-75.23624pt
+* \textwidth=397.48502pt
+* \textheight=614.29501pt
+* \oddsidemargin=-54.2025pt
+* \evensidemargin=-54.2025pt
+* \topmargin=-91.2025pt
 * \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=11.0pt
-* \footskip=27.46295pt
-* \marginparwidth=116.0pt
-* \marginparsep=7.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=121.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -729,11 +753,15 @@ File: hexdot.pdf Graphic file (type pdf)
 <use hexdot.pdf>
 File: hexdot.pdf Graphic file (type pdf)
 <use hexdot.pdf>
- [6] [7])
+
+Overfull \hbox (1.63155pt too wide) in paragraph at lines 34--35
+\TU/lmr/m/it/10 tin Chevillon, S[]I[]G[]I[], who was martyred in the search
+ []
+
+[6] [7])
 \openout2 = `80AAM_content.aux'.
 
-
-(80AAM_content.tex
+ (80AAM_content.tex
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian69.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
@@ -752,7 +780,12 @@ stall\tex/generic/pgfornament/vectorian\vectorian69.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/generic/pgfornament/vectorian\vectorian26.pgf) [9]
+stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)
+Overfull \hbox (0.39499pt too wide) in paragraph at lines 3--4
+\TU/lmr/m/n/10 Nature and the Scriptures should be compared. The priests
+ []
+
+[9]
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgfornament/vectorian\vectorian69.pgf)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
@@ -1386,12 +1419,12 @@ stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)) [87] [88
 ] (EightyAphorismsAndMaxims.aux (80AAM_title_fancy.aux) (80AAM_preface.aux)
 (80AAM_content.aux)) ) 
 Here is how much of TeX's memory you used:
- 15385 strings out of 427233
- 335059 string characters out of 3134236
- 402112 words of memory out of 3000000
- 18946 multiletter control sequences out of 15000+200000
- 8352 words of font info for 40 fonts, out of 3000000 for 9000
+ 15410 strings out of 427233
+ 337152 string characters out of 3134236
+ 402384 words of memory out of 3000000
+ 18969 multiletter control sequences out of 15000+200000
+ 5411 words of font info for 31 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,6n,74p,1078b,854s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 73i,6n,75p,1078b,854s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on EightyAphorismsAndMaxims.pdf (91 pages).

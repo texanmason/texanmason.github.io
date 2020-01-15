@@ -35,6 +35,23 @@
 	\pagebreak
 }
 
+\newcommand{\aphorismtwo}[3]{
+	\eachpageornament
+	\section*{
+		\hspace*{\fill}
+		\secdec{90}{26}
+		\hspace*{0.5ex}
+		#1
+		\hspace*{0.5ex}
+		\secdec{-90}{26}
+		\hspace*{\fill}
+	}
+	\vspace*{\fill}
+	{\textbf{\LARGE#2}}{#3}
+	\vspace*{\fill}
+	\pagebreak
+}
+
 
 \newcommand{\hexdot}{\raisebox{-0.15em}{\hspace{0.5ex}\includegraphics[height=1em]{hexdot.pdf}\hspace{0.5ex}}}
 
@@ -43,8 +60,8 @@
 \newcommand{\eachpageornament}{%
 	\begin{tikzpicture}[remember picture, overlay]
 	\node[anchor=south, rotate=0] at ([shift=(90:1em)] current page.south){%
-		\pgfornament[opacity=0.25, height=2\secheight]{69}};
+		\pgfornament[opacity=0.25, height=1.5\secheight]{69}};
 	\node[anchor=south, rotate=180] at ([shift=(270:1em)] current page.north){%
-		\pgfornament[opacity=0.25, height=2\secheight]{69}};
+		\pgfornament[opacity=0.25, height=1.5\secheight]{69}};
 	\end{tikzpicture}
 }
