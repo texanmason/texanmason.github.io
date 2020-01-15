@@ -1,12 +1,12 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2019.12.15)  14 JAN 2020 22:43
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2019.12.15)  14 JAN 2020 23:14
 entering extended mode
-**./EightyAphorismsAndMaxims.tex
-(EightyAphorismsAndMaxims.tex
+**"./EightyAphorismsAndMaxims JUST INSIDE.tex"
+("EightyAphorismsAndMaxims JUST INSIDE.tex"
 LaTeX2e <2019-10-01> patch level 3
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
 Document Class: book 2019/10/25 v1.4k Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk11.clo"
-File: bk11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk12.clo"
+File: bk12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -553,48 +553,48 @@ Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 LaTeX Warning: Unused global option(s):
     [b6paper].
 
-(EightyAphorismsAndMaxims.aux)
-\openout1 = `EightyAphorismsAndMaxims.aux'.
+("EightyAphorismsAndMaxims JUST INSIDE.aux")
+\openout1 = `"EightyAphorismsAndMaxims JUST INSIDE.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: b6paper
+* paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(72.26999pt, 211.11946pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 356.22852pt, 72.26999pt)
-* \paperwidth=355.65944pt
-* \paperheight=500.7685pt
-* \textwidth=211.11946pt
-* \textheight=356.22852pt
+* h-part:(L,W,R)=(72.26999pt, 289.08002pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 505.89001pt, 72.26999pt)
+* \paperwidth=433.62pt
+* \paperheight=650.43pt
+* \textwidth=289.08002pt
+* \textheight=505.89001pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=-31.8738pt
 * \headheight=12.0pt
 * \headsep=19.8738pt
-* \topskip=11.0pt
-* \footskip=27.46295pt
-* \marginparwidth=116.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -604,30 +604,60 @@ LaTeX Font Info:    ... okay on input line 89.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-ABD: EveryShipout initializing macros
+ABD: EveryShipout initializing macros [1
+
+] [2]
+File: graphics/jbw_seal_2000px.png Graphic file (type bmp)
+<graphics/jbw_seal_2000px.png>
+ [3] [4]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 139
+.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 139
+.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [5] [6]
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian69.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian69.pgf)
+File: tikz/hexdot.pdf Graphic file (type pdf)
+<use tikz/hexdot.pdf>
+File: tikz/hexdot.pdf Graphic file (type pdf)
+<use tikz/hexdot.pdf>
+File: tikz/hexdot.pdf Graphic file (type pdf)
+<use tikz/hexdot.pdf>
+File: tikz/hexdot.pdf Graphic file (type pdf)
+<use tikz/hexdot.pdf>
+ [7] [8]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
-* paper: b6paper
+* paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(28.90755pt, 297.84435pt, 28.90755pt)
-* v-part:(T,H,B)=(28.90755pt, 442.9534pt, 28.90755pt)
-* \paperwidth=355.65944pt
-* \paperheight=500.7685pt
-* \textwidth=297.84435pt
-* \textheight=442.9534pt
+* h-part:(L,W,R)=(28.90755pt, 375.8049pt, 28.90755pt)
+* v-part:(T,H,B)=(28.90755pt, 592.6149pt, 28.90755pt)
+* \paperwidth=433.62pt
+* \paperheight=650.43pt
+* \textwidth=375.8049pt
+* \textheight=592.6149pt
 * \oddsidemargin=-43.36244pt
 * \evensidemargin=-43.36244pt
 * \topmargin=-75.23624pt
 * \headheight=12.0pt
 * \headsep=19.8738pt
-* \topskip=11.0pt
-* \footskip=27.46295pt
-* \marginparwidth=116.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -637,56 +667,52 @@ ABD: EveryShipout initializing macros
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-File: tikz/pantacle.pdf Graphic file (type pdf)
-<use tikz/pantacle.pdf>
  [1
 
 
-
-] [1
+] [2
 
 ]
-File: graphics/jbw_seal_2000px.png Graphic file (type bmp)
-<graphics/jbw_seal_2000px.png>
- [2] [3]
-Overfull \hbox (7.42285pt too wide) in paragraph at lines 129--130
-\TU/lmr/m/n/10.95 Unknown Philosophers, but all seekers of truth
- []
-
-
-Overfull \hbox (0.8178pt too wide) in paragraph at lines 129--130
-\TU/lmr/m/n/10.95 are encouraged to find wisdom in these pages. 
- []
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 135
-.
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 135
-.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [4] [5]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
-File: tikz/hexdot.pdf Graphic file (type pdf)
-<use tikz/hexdot.pdf>
-File: tikz/hexdot.pdf Graphic file (type pdf)
-<use tikz/hexdot.pdf>
-File: tikz/hexdot.pdf Graphic file (type pdf)
-<use tikz/hexdot.pdf>
-File: tikz/hexdot.pdf Graphic file (type pdf)
-<use tikz/hexdot.pdf>
-
-Overfull \hbox (7.67319pt too wide) in paragraph at lines 144--145
-\TU/lmr/m/it/10.95 Constant Martin Chevillon, S[]I[]G[]I[], who
- []
-
-[6] [7]
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian26.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian26.pgf) [3]
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian69.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian69.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian26.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian26.pgf) [4]
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian69.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian69.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian26.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian26.pgf) [5]
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian69.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian69.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian26.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian26.pgf) [6]
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian69.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian69.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian26.pgf)
+(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
+ctorian26.pgf) [7]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -710,17 +736,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (0.50246pt too wide) in paragraph at lines 154--155
-\TU/lmr/m/n/10.95 When we speak of the Divine Sensibility, men
- []
-
-
-Overfull \hbox (12.21017pt too wide) in paragraph at lines 154--155
-\TU/lmr/m/n/10.95 law, and are that which they should be, whereas
- []
-
-[10]
+ctorian26.pgf) [10]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -736,12 +752,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (4.08092pt too wide) in paragraph at lines 158--159
-\TU/lmr/m/n/10.95 Great progress in truth is difficult in the midst
- []
-
-[12]
+ctorian26.pgf) [12]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -765,7 +776,12 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf) [15]
+ctorian26.pgf)
+Overfull \hbox (1.532pt too wide) in paragraph at lines 199--200
+\TU/lmr/m/n/12 Never persuade yourself that you possess wisdom in virtue
+ []
+
+[15]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -789,12 +805,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (1.75075pt too wide) in paragraph at lines 170--171
-\TU/lmr/m/n/10.95 “All is vanity,” says Solomon; but let courage,
- []
-
-[18]
+ctorian26.pgf) [18]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -810,12 +821,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (0.46738pt too wide) in paragraph at lines 174--175
-\TU/lmr/m/n/10.95 Never persuade yourself that you possess wis-
- []
-
-[20]
+ctorian26.pgf) [20]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -831,12 +837,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (1.23389pt too wide) in paragraph at lines 178--179
-\TU/lmr/m/n/10.95 we are stripped successively of all human sup-
- []
-
-[22]
+ctorian26.pgf) [22]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -844,12 +845,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (8.3032pt too wide) in paragraph at lines 180--181
-\TU/lmr/m/n/10.95 being, the ordeals, oppositions, and evils which
- []
-
-[23]
+ctorian26.pgf) [23]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -953,22 +949,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (2.93117pt too wide) in paragraph at lines 206--207
-\TU/lmr/m/n/10.95 the reward of many is with them in this world,
- []
-
-
-Overfull \hbox (1.21202pt too wide) in paragraph at lines 206--207
-\TU/lmr/m/n/10.95 whence they have little to expect in the other.
- []
-
-
-Overfull \hbox (1.8033pt too wide) in paragraph at lines 206--207
-\TU/lmr/m/n/10.95 sure of compensations obtained in the present
- []
-
-[36]
+ctorian26.pgf) [36]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -976,12 +957,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (8.26598pt too wide) in paragraph at lines 208--209
-\TU/lmr/m/n/10.95 When deliverance has been accomplished, time
- []
-
-[37]
+ctorian26.pgf) [37]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -997,12 +973,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (0.53528pt too wide) in paragraph at lines 212--213
-\TU/lmr/m/n/10.95 tence, corporeal beings and beings corporised
- []
-
-[39]
+ctorian26.pgf) [39]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -1050,12 +1021,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (2.58076pt too wide) in paragraph at lines 224--225
-\TU/lmr/m/n/10.95 The greatest sin which we can commit against
- []
-
-[45]
+ctorian26.pgf) [45]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -1135,12 +1101,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (8.9449pt too wide) in paragraph at lines 244--245
-\TU/lmr/m/n/10.95 the summit of a mountain, with a vast prospect
- []
-
-[55]
+ctorian26.pgf) [55]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -1196,12 +1157,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (4.82552pt too wide) in paragraph at lines 258--259
-\TU/lmr/m/n/10.95 That which is true is made by men subservient
- []
-
-[62]
+ctorian26.pgf) [62]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -1281,17 +1237,7 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-Overfull \hbox (0.1389pt too wide) in paragraph at lines 278--279
-\TU/lmr/m/n/10.95 Unity is seldom found in associations; it must
- []
-
-
-Overfull \hbox (1.09154pt too wide) in paragraph at lines 278--279
-\TU/lmr/m/n/10.95 be sought in an individual junction with God.
- []
-
-[72]
+ctorian26.pgf) [72]
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
@@ -1371,54 +1317,15 @@ ctorian69.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
 ctorian26.pgf)
 (C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf) [82]
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian69.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian69.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf) [83]
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian69.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian69.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf) [84]
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian69.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian69.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf) [85]
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian69.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian69.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf) [86]
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian69.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian69.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf)
-(C:\Users\gabri\AppData\Roaming\MiKTeX\2.9\tex/generic/pgfornament/vectorian\ve
-ctorian26.pgf) [87] [88] [89] [90] (EightyAphorismsAndMaxims.aux) ) 
+ctorian26.pgf) [82] [83] [84] [85] ("EightyAphorismsAndMaxims JUST INSIDE.aux")
+ ) 
 Here is how much of TeX's memory you used:
- 15385 strings out of 427272
- 316735 string characters out of 3146595
- 401643 words of memory out of 3000000
- 18935 multiletter control sequences out of 15000+200000
- 8352 words of font info for 40 fonts, out of 3000000 for 9000
+ 15384 strings out of 427272
+ 316793 string characters out of 3146595
+ 402811 words of memory out of 3000000
+ 18934 multiletter control sequences out of 15000+200000
+ 8349 words of font info for 40 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 68i,6n,70p,1054b,854s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,6n,70p,1068b,854s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on EightyAphorismsAndMaxims.pdf (91 pages).
+Output written on EightyAphorismsAndMaxims JUST INSIDE.pdf (93 pages).
