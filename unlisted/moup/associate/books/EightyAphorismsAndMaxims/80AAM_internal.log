@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  16 JAN 2020 14:32
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  16 JAN 2020 14:37
 entering extended mode
-**./EightyAphorismsAndMaxims.tex
-(EightyAphorismsAndMaxims.tex
+**./80AAM_internal.tex
+(80AAM_internal.tex
 LaTeX2e <2019-10-01> patch level 3
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
@@ -766,9 +766,8 @@ Package: widows-and-orphans 2018/11/18 vv1.0b Detecting widows and orphans (FMi
 LaTeX Warning: Unused global option(s):
     [openany].
 
-(EightyAphorismsAndMaxims.aux (80AAM_title_fancy.aux) (80AAM_preface.aux)
-(80AAM_content.aux))
-\openout1 = `EightyAphorismsAndMaxims.aux'.
+(80AAM_internal.aux (80AAM_preface.aux) (80AAM_content.aux))
+\openout1 = `80AAM_internal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -819,56 +818,12 @@ LaTeX Font Info:    ... okay on input line 13.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EveryShipout initializing macros
-\openout2 = `80AAM_title_fancy.aux'.
-
- (80AAM_title_fancy.tex
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: custom
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(18.06749pt, 397.48502pt, 18.06749pt)
-* v-part:(T,H,B)=(18.06749pt, 614.29501pt, 18.06749pt)
-* \paperwidth=433.62pt
-* \paperheight=650.43pt
-* \textwidth=397.48502pt
-* \textheight=614.29501pt
-* \oddsidemargin=-54.2025pt
-* \evensidemargin=-54.2025pt
-* \topmargin=-93.2025pt
-* \headheight=14.0pt
-* \headsep=25.0pt
-* \topskip=14.0pt
-* \footskip=30.0pt
-* \marginparwidth=4.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-File: pantacle.pdf Graphic file (type pdf)
-<use pantacle.pdf>
- [1
-
-
-
-
-
-
-
-])
 \openout2 = `80AAM_preface.aux'.
 
+ (80AAM_preface.tex [1
 
-(80AAM_preface.tex [1
+
+
 
 
 
@@ -1691,15 +1646,14 @@ stall\tex/generic/pgfornament/vectorian\vectorian26.pgf)) [87] [88
 
 [90
 
-] (EightyAphorismsAndMaxims.aux (80AAM_title_fancy.aux) (80AAM_preface.aux)
-(80AAM_content.aux)) ) 
+] (80AAM_internal.aux (80AAM_preface.aux) (80AAM_content.aux)) ) 
 Here is how much of TeX's memory you used:
- 24855 strings out of 427233
- 528149 string characters out of 3134236
- 565210 words of memory out of 3000000
- 28406 multiletter control sequences out of 15000+200000
- 535009 words of font info for 44 fonts, out of 3000000 for 9000
+ 24831 strings out of 427233
+ 527517 string characters out of 3134236
+ 564891 words of memory out of 3000000
+ 28394 multiletter control sequences out of 15000+200000
+ 534985 words of font info for 41 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,6n,74p,1093b,854s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 73i,6n,74p,1083b,854s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on EightyAphorismsAndMaxims.pdf (91 pages).
+Output written on 80AAM_internal.pdf (90 pages).

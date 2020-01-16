@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  15 JAN 2020 09:45
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  16 JAN 2020 14:37
 entering extended mode
 **./80AAM_cover.tex
 (80AAM_cover.tex
@@ -9,8 +9,8 @@ stall\tex/latex/base\book.cls
 Document Class: book 2019/10/25 v1.4k Standard LaTeX document class
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/latex/base\bk11.clo
-File: bk11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+stall\tex/latex/base\bk10.clo
+File: bk10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -204,23 +204,7 @@ PDF mode.
 
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/latex/background\background.sty
-Package: background 2014/03/04 v2.1 background material
-
-(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/latex/xkeyval\xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks21
-\XKV@tempa@toks=\toks22
-)
-\XKV@depth=\count105
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
+stall\tex/latex/pgfornament\pgfornament.sty
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/pgf/frontendlayer\tikz.sty
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
@@ -229,7 +213,7 @@ stall\tex/latex/pgf/basiclayer\pgf.sty
 stall\tex/latex/pgf/utilities\pgfrcs.sty
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks23
+\pgfutil@everybye=\toks21
 \pgfutil@tempdima=\dimen122
 \pgfutil@tempdimb=\dimen123
 
@@ -261,12 +245,12 @@ Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks24
-\pgfkeys@temptoks=\toks25
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks26
+\pgfkeys@tmptoks=\toks24
 ))
 \pgf@x=\dimen124
 \pgf@y=\dimen125
@@ -280,14 +264,14 @@ stall\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
 \pgf@yd=\dimen133
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count106
-\c@pgf@countb=\count107
-\c@pgf@countc=\count108
-\c@pgf@countd=\count109
-\t@pgf@toka=\toks27
-\t@pgf@tokb=\toks28
-\t@pgf@tokc=\toks29
-\pgf@sys@id@count=\count110
+\c@pgf@counta=\count105
+\c@pgf@countb=\count106
+\c@pgf@countc=\count107
+\c@pgf@countd=\count108
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count109
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/systemlayer\pgf.cfg
@@ -307,13 +291,13 @@ File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
 stall\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 )
-\pgfsys@objnum=\count111
+\pgfsys@objnum=\count110
 )))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count112
-\pgfsyssoftpath@bigbuffer@items=\count113
+\pgfsyssoftpath@smallbuffer@items=\count111
+\pgfsyssoftpath@bigbuffer@items=\count112
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
@@ -350,11 +334,11 @@ stall\tex/generic/pgf/math\pgfmathutil.code.tex)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen134
-\pgfmath@count=\count114
+\pgfmath@count=\count113
 \pgfmath@box=\box30
-\pgfmath@toks=\toks30
-\pgfmath@stack@operand=\toks31
-\pgfmath@stack@operation=\toks32
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/math\pgfmathfunctions.code.tex
@@ -376,7 +360,7 @@ stall\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
 stall\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count115
+\c@pgfmathroundto@lastzeros=\count114
 ))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/math\pgfint.code.tex)
@@ -416,7 +400,7 @@ File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box31
 \pgf@hbox=\box32
 \pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count116
+\pgf@picture@serial@count=\count115
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
@@ -451,8 +435,8 @@ File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 stall\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@max=\dimen158
-\pgf@sys@shading@range@num=\count117
-\pgf@shadingcount=\count118
+\pgf@sys@shading@range@num=\count116
+\pgf@shadingcount=\count117
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
@@ -516,8 +500,8 @@ Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 stall\tex/generic/pgf/math\pgfmath.code.tex)
 \pgffor@iter=\dimen161
 \pgffor@skip=\dimen162
-\pgffor@stack=\toks33
-\pgffor@toks=\toks34
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
 ))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
@@ -526,7 +510,7 @@ Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count119
+\pgf@plot@mark@count=\count118
 \pgfplotmarksize=\dimen163
 )
 \tikz@lastx=\dimen164
@@ -541,59 +525,243 @@ File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikz@figbox@bg=\box37
 \tikz@tempbox=\box38
 \tikz@tempbox@bg=\box39
-\tikztreelevel=\count120
-\tikznumberofchildren=\count121
-\tikznumberofcurrentchild=\count122
-\tikz@fig@count=\count123
+\tikztreelevel=\count119
+\tikznumberofchildren=\count120
+\tikznumberofcurrentchild=\count121
+\tikz@fig@count=\count122
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count124
-\pgfmatrixcurrentcolumn=\count125
-\pgf@matrix@numberofcolumns=\count126
+\pgfmatrixcurrentrow=\count123
+\pgfmatrixcurrentcolumn=\count124
+\pgf@matrix@numberofcolumns=\count125
 )
-\tikz@expandcount=\count127
+\tikz@expandcount=\count126
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/latex/everypage\everypage.sty
-Package: everypage 2007/06/20 1.1 Hooks to run on every page
-)
-(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/latex/tools\afterpage.sty
-Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks35
-\AP@partial=\box40
-\AP@footins=\box41
-))
-(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/latex/pgfornament\pgfornament.sty
-(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/pgfopts\pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
-\pgfopts@list@add@a@toks=\toks36
-\pgfopts@list@add@b@toks=\toks37
+\pgfopts@list@add@a@toks=\toks33
+\pgfopts@list@add@b@toks=\toks34
 )
 Package: pgfornament 2016/03/05 v0.21 vector ornaments
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/latex/pgfornament\pgflibraryvectorian.code.tex)))
+stall\tex/latex/pgfornament\pgflibraryvectorian.code.tex))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/tools\verbatim.sty
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks38
-\verbatim@line=\toks39
+\every@verbatim=\toks35
+\verbatim@line=\toks36
 \verbatim@in@stream=\read2
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/extsizes\extsizes.sty
+Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
+
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/extsizes\size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)))
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/widows-and-orphans\widows-and-orphans.sty
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3packages/xparse\xparse.sty
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3kernel\expl3.sty
+Package: expl3 2019-11-07 L3 programming layer (loader) 
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3kernel\expl3-code.tex
+Package: expl3 2019-11-07 L3 programming layer (code)
+\c_max_int=\count127
+\l_tmpa_int=\count128
+\l_tmpb_int=\count129
+\g_tmpa_int=\count130
+\g_tmpb_int=\count131
+\l__seq_internal_a_int=\count132
+\l__seq_internal_b_int=\count133
+\g__kernel_prg_map_int=\count134
+\c__ior_term_noprompt_ior=\count135
+\c_log_iow=\count136
+\l_iow_line_count_int=\count137
+\l__iow_line_target_int=\count138
+\l__iow_one_indent_int=\count139
+\l__iow_indent_int=\count140
+\c_zero_dim=\dimen172
+\c_max_dim=\dimen173
+\l_tmpa_dim=\dimen174
+\l_tmpb_dim=\dimen175
+\g_tmpa_dim=\dimen176
+\g_tmpb_dim=\dimen177
+\c_zero_skip=\skip46
+\c_max_skip=\skip47
+\l_tmpa_skip=\skip48
+\l_tmpb_skip=\skip49
+\g_tmpa_skip=\skip50
+\g_tmpb_skip=\skip51
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count141
+\l__intarray_loop_int=\count142
+\c__intarray_sp_dim=\dimen178
+\g__intarray_font_int=\count143
+\c__fp_leading_shift_int=\count144
+\c__fp_middle_shift_int=\count145
+\c__fp_trailing_shift_int=\count146
+\c__fp_big_leading_shift_int=\count147
+\c__fp_big_middle_shift_int=\count148
+\c__fp_big_trailing_shift_int=\count149
+\c__fp_Bigg_leading_shift_int=\count150
+\c__fp_Bigg_middle_shift_int=\count151
+\c__fp_Bigg_trailing_shift_int=\count152
+\g__fp_array_int=\count153
+\l__fp_array_loop_int=\count154
+\l__sort_length_int=\count155
+\l__sort_min_int=\count156
+\l__sort_top_int=\count157
+\l__sort_max_int=\count158
+\l__sort_true_max_int=\count159
+\l__sort_block_int=\count160
+\l__sort_begin_int=\count161
+\l__sort_end_int=\count162
+\l__sort_A_int=\count163
+\l__sort_B_int=\count164
+\l__sort_C_int=\count165
+\l__str_internal_int=\count166
+\l__tl_analysis_normal_int=\count167
+\l__tl_analysis_index_int=\count168
+\l__tl_analysis_nesting_int=\count169
+\l__tl_analysis_type_int=\count170
+\l__regex_internal_a_int=\count171
+\l__regex_internal_b_int=\count172
+\l__regex_internal_c_int=\count173
+\l__regex_balance_int=\count174
+\l__regex_group_level_int=\count175
+\l__regex_mode_int=\count176
+\c__regex_cs_in_class_mode_int=\count177
+\c__regex_cs_mode_int=\count178
+\l__regex_catcodes_int=\count179
+\l__regex_default_catcodes_int=\count180
+\c__regex_catcode_L_int=\count181
+\c__regex_catcode_O_int=\count182
+\c__regex_catcode_A_int=\count183
+\c__regex_all_catcodes_int=\count184
+\l__regex_show_lines_int=\count185
+\l__regex_min_state_int=\count186
+\l__regex_max_state_int=\count187
+\l__regex_left_state_int=\count188
+\l__regex_right_state_int=\count189
+\l__regex_capturing_group_int=\count190
+\l__regex_min_pos_int=\count191
+\l__regex_max_pos_int=\count192
+\l__regex_curr_pos_int=\count193
+\l__regex_start_pos_int=\count194
+\l__regex_success_pos_int=\count195
+\l__regex_curr_char_int=\count196
+\l__regex_curr_catcode_int=\count197
+\l__regex_last_char_int=\count198
+\l__regex_case_changed_char_int=\count199
+\l__regex_curr_state_int=\count266
+\l__regex_step_int=\count267
+\l__regex_min_active_int=\count268
+\l__regex_max_active_int=\count269
+\l__regex_replacement_csnames_int=\count270
+\l__regex_match_count_int=\count271
+\l__regex_min_submatch_int=\count272
+\l__regex_submatch_int=\count273
+\l__regex_zeroth_submatch_int=\count274
+\g__regex_trace_regex_int=\count275
+\c_empty_box=\box40
+\l_tmpa_box=\box41
+\l_tmpb_box=\box42
+\g_tmpa_box=\box43
+\g_tmpb_box=\box44
+\l__box_top_dim=\dimen179
+\l__box_bottom_dim=\dimen180
+\l__box_left_dim=\dimen181
+\l__box_right_dim=\dimen182
+\l__box_top_new_dim=\dimen183
+\l__box_bottom_new_dim=\dimen184
+\l__box_left_new_dim=\dimen185
+\l__box_right_new_dim=\dimen186
+\l__box_internal_box=\box45
+\l__coffin_internal_box=\box46
+\l__coffin_internal_dim=\dimen187
+\l__coffin_offset_x_dim=\dimen188
+\l__coffin_offset_y_dim=\dimen189
+\l__coffin_x_dim=\dimen190
+\l__coffin_y_dim=\dimen191
+\l__coffin_x_prime_dim=\dimen192
+\l__coffin_y_prime_dim=\dimen193
+\c_empty_coffin=\box47
+\l__coffin_aligned_coffin=\box48
+\l__coffin_aligned_internal_coffin=\box49
+\l_tmpa_coffin=\box50
+\l_tmpb_coffin=\box51
+\g_tmpa_coffin=\box52
+\g_tmpb_coffin=\box53
+\l__coffin_bounding_shift_dim=\dimen194
+\l__coffin_left_corner_dim=\dimen195
+\l__coffin_right_corner_dim=\dimen196
+\l__coffin_bottom_corner_dim=\dimen197
+\l__coffin_top_corner_dim=\dimen198
+\l__coffin_scaled_total_height_dim=\dimen199
+\l__coffin_scaled_width_dim=\dimen256
+\c__coffin_empty_coffin=\box54
+\l__coffin_display_coffin=\box55
+\l__coffin_display_coord_coffin=\box56
+\l__coffin_display_pole_coffin=\box57
+\l__coffin_display_offset_dim=\dimen257
+\l__coffin_display_x_dim=\dimen258
+\l__coffin_display_y_dim=\dimen259
+\g__char_data_ior=\read3
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3kernel\l3deprecation.def
+File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
+))
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3backend\l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2019-04-06 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count276
+\l__pdf_internal_box=\box58
+\g__pdf_backend_object_int=\count277
+\g__pdf_backend_annotation_int=\count278
+))
+Package: xparse 2019-10-11 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count279
+\g__xparse_grabber_int=\count280
+\l__xparse_m_args_int=\count281
+\l__xparse_v_nesting_int=\count282
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
+)
+Package: widows-and-orphans 2018/11/18 vv1.0b Detecting widows and orphans (FMi
+)
+\l__fmwao_tmp_int=\count283
 )
 \@input{80AAM_commands.aux}
 \openout2 = `80AAM_commands.aux'.
 
 (80AAM_commands.tex
-\secheight=\dimen172
+\secheight=\dimen260
 ) (80AAM_cover.aux (80AAM_title_fancy.aux))
 \openout1 = `80AAM_cover.aux'.
 
@@ -619,23 +787,23 @@ LaTeX Font Info:    ... okay on input line 7.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(72.26999pt, 289.08002pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 505.89001pt, 72.26999pt)
+* h-part:(L,W,R)=(81.30374pt, 271.01251pt, 81.30374pt)
+* v-part:(T,H,B)=(81.30374pt, 487.82251pt, 81.30374pt)
 * \paperwidth=433.62pt
 * \paperheight=650.43pt
-* \textwidth=289.08002pt
-* \textheight=505.89001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-31.8738pt
-* \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=11.0pt
-* \footskip=27.46295pt
-* \marginparwidth=116.0pt
-* \marginparsep=7.0pt
+* \textwidth=289.0pt
+* \textheight=405.0pt
+* \oddsidemargin=-14.0pt
+* \evensidemargin=14.0pt
+* \topmargin=15.0pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -655,23 +823,23 @@ ABD: EveryShipout initializing macros
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(28.90755pt, 375.8049pt, 28.90755pt)
-* v-part:(T,H,B)=(28.90755pt, 592.6149pt, 28.90755pt)
+* h-part:(L,W,R)=(18.06749pt, 397.48502pt, 18.06749pt)
+* v-part:(T,H,B)=(18.06749pt, 614.29501pt, 18.06749pt)
 * \paperwidth=433.62pt
 * \paperheight=650.43pt
-* \textwidth=375.8049pt
-* \textheight=592.6149pt
-* \oddsidemargin=-43.36244pt
-* \evensidemargin=-43.36244pt
-* \topmargin=-75.23624pt
-* \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=11.0pt
-* \footskip=27.46295pt
-* \marginparwidth=116.0pt
-* \marginparsep=7.0pt
+* \textwidth=397.48502pt
+* \textheight=614.29501pt
+* \oddsidemargin=-54.2025pt
+* \evensidemargin=-54.2025pt
+* \topmargin=-93.2025pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -695,12 +863,12 @@ File: pantacle.pdf Graphic file (type pdf)
 ])
 (80AAM_cover.aux (80AAM_title_fancy.aux)) ) 
 Here is how much of TeX's memory you used:
- 13798 strings out of 427233
- 265731 string characters out of 3134236
- 324064 words of memory out of 3000000
- 18046 multiletter control sequences out of 15000+200000
- 3672 words of font info for 18 fonts, out of 3000000 for 9000
+ 23432 strings out of 427233
+ 461798 string characters out of 3134236
+ 489467 words of memory out of 3000000
+ 27666 multiletter control sequences out of 15000+200000
+ 532386 words of font info for 30 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 73i,6n,69p,841b,731s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 73i,5n,68p,841b,429s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on 80AAM_cover.pdf (1 page).
