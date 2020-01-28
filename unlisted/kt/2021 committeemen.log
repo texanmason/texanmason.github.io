@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  24 JAN 2020 15:42
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  28 JAN 2020 17:01
 entering extended mode
 **"./2021 committeemen.tex"
 ("2021 committeemen.tex"
@@ -263,32 +263,206 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 stall\tex/latex/url\url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/babel\babel.sty
+Package: babel 2019/12/08 3.37 The Babel package
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/babel\switch.def
+File: switch.def 2019/12/08 3.37 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 581.
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/babel\nil.ldf
+Language: nil 2019/12/08 3.37 Nil language
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/babel\babel.def
+File: babel.def 2019/12/08 3.37 Babel common definitions
+\babel@savecnt=\count104
+\U@D=\dimen120
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/babel\xebabel.def
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/babel\txtbabel.def))
+\bbl@dirlevel=\count105
+)
+\l@nil=\language82
+))
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/fmtcount\fmtcount.sty
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Package: fmtcount 2017/12/24 v3.05
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+)
+\XKV@depth=\count106
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/fmtcount\fcprefix.sty
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Package: fcprefix 2012/09/28
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/fmtcount\fcnumparser.sty
+Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count107
+))
+\c@padzeroesN=\count108
+\fc@tmpcatcode=\count109
+\@DT@modctr=\count110
+\@ordinalctr=\count111
+\@orgargctr=\count112
+\@strctr=\count113
+\@tmpstrctr=\count114
+\@DT@loopN=\count115
+\@DT@X=\count116
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/datetime\datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count117
+\@month=\count118
+\@year=\count119
+\c@HOUR=\count120
+\c@HOURXII=\count121
+\c@MINUTE=\count122
+\c@TOHOUR=\count123
+\c@TOMINUTE=\count124
+\c@SECOND=\count125
+\currenthour=\count126
+\currentminute=\count127
+\currentsecond=\count128
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count129
+\dayofyear=\count130
+\dayofweek=\count131
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks23
+\dt@b=\toks24
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/isodate\isodate.sty
+Package: isodate 2010/01/03 v2.30 Print dates with different formats (HH)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count132
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/isodate\english.idf
+File: english.idf 2010/01/03 v2.30 Language definitions for isodate package (HH
+)
+
+Define commands for American date format
+)
+\c@iso@tmpmonth=\count133
+\c@iso@yeartwo=\count134
+LaTeX Info: Redefining \shortdate on input line 154.
+\c@iso@slash=\count135
+\c@iso@minus=\count136
+\c@iso@dot=\count137
+\c@iso@@slash=\count138
+\c@iso@@minus=\count139
+\c@iso@@dot=\count140
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/graphics-def\xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count141
+\rotFPtop=\skip46
+\rotFPbot=\skip47
+\rot@float@box=\box29
+\rot@mess@toks=\toks25
 ) ("2021 committeemen.aux")
 \openout1 = `"2021 committeemen.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
-1.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+3.
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    ... okay on input line 33.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -323,21 +497,30 @@ LaTeX Font Info:    ... okay on input line 21.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
+isodate: babel.sty has been loaded
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
 
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
 
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+ding on input line 30
+
+Package datetime Warning: No week day names defined for language 'nil', default
+ing to English on input line 34.
+
+
+Package datetime Warning: No month names provided for language 'nil' on input l
+ine 34.
+
+LaTeX Font Info:    Trying to load font information for U+ding on input line 42
 .
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
@@ -346,22 +529,53 @@ File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 )
 
 LaTeX Font Warning: Font shape `U/ding/bx/n' undefined
-(Font)              using `U/ding/m/n' instead on input line 30.
+(Font)              using `U/ding/m/n' instead on input line 42.
+
+
+Overfull \hbox (15.9654pt too wide) in paragraph at lines 50--51
+\TU/lmr/m/n/10 The Educational Foundation Committee is tasked with advertising 
+and awarding scholarship application
+ []
 
 [1
 
-] [2] [3] [4] [5] [6] [7] ("2021 committeemen.aux")
+] [2]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 78.
+
+File: 2021GanttMembership.pdf Graphic file (type pdf)
+<use 2021GanttMembership.pdf>
+[3] [4] [5]
+Overfull \hbox (2.99937pt too wide) in paragraph at lines 92--93
+\TU/lmr/m/n/10 and recruit for Commandery, raising awareness of Worth Commander
+y’s philanthropy, and increasing
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 100.
+
+File: 2021GanttPublicity.pdf Graphic file (type pdf)
+<use 2021GanttPublicity.pdf>
+[6] [7] [8] [9] [10]
+Overfull \hbox (9.50542pt too wide) in paragraph at lines 195--196
+\TU/lmr/m/n/10 The Temple Board Committee is tasked with attending meetings of 
+the Fort Worth Temple Association
+ []
+
+[11] ("2021 committeemen.aux")
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3256 strings out of 427233
- 42443 string characters out of 3134236
- 116549 words of memory out of 3000000
- 7712 multiletter control sequences out of 15000+200000
+ 5388 strings out of 427233
+ 72728 string characters out of 3134236
+ 178265 words of memory out of 3000000
+ 9767 multiletter control sequences out of 15000+200000
  10899 words of font info for 53 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 30i,6n,31p,824b,192s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,8n,34p,1033b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on 2021 committeemen.pdf (7 pages).
+Output written on 2021 committeemen.pdf (11 pages).

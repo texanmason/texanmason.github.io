@@ -7,7 +7,11 @@
 \usepackage{pifont}
 \usepackage{parskip}
 \usepackage{url}
-
+\usepackage{babel}
+\usepackage{datetime}
+\usepackage[american]{isodate}
+\usepackage{graphicx}
+\usepackage[figuresleft]{rotating}
 
 \title{\vspace*{-5em}Worth Commandery \textnumero{} 19, KT\vspace*{-1em}}
 \author{List of Committeemen (Draft)}
@@ -17,6 +21,14 @@
 \newcommand{\comm}[3]{\subsection*{#1 Committee\textsuperscript{#2}}The #1 Committee is tasked with #3}
 \newcommand{\mand}{\CrossMaltese}
 \newcommand{\bylaw}{\Cross}
+
+\newcommand{\gantt}[2]{
+	\begin{sidewaysfigure}[]
+		\centering
+		\caption{#1}
+		\includegraphics[width=\textheight]{#2}
+	\end{sidewaysfigure}
+}
 
 \begin{document}
 	\maketitle
@@ -52,14 +64,20 @@
 		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
 		
 		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+	
+	\pagebreak
 		
-	\comm{Membership}{\mand}{recruiting Master Masons to become members of the York Rite, assisting and encouraging Sir Knights in the process of reinstatement, and raising awareness of Commandery as a worthwhile fraternity.}
+	\comm{Membership}{\mand}{recruiting Master Masons to become members of the York Rite, assisting and encouraging Sir Knights in the process of reinstatement, and raising awareness of Commandery as a worthwhile fraternity. These members are also responsible for coordinating 50-year award presentations, working with the Excalibur Award ad-hoc committee, and coordinate with the TCYRA to put on the annual festival.}
 	
 		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
 		
 		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
 		
 		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+	
+	\gantt{Task Timelines for Membership Committee}{2021GanttMembership.pdf}
+	
+	\pagebreak
 	
 	\comm{Patriotic \& Civic Activities}{\mand}{working with past and present members of Templar District \textnumero{} 6 Color Guard to conduct flag presentations, arrange parade appearances, and coordinate with local organizations that would like Templar representation at their events.}
 	
@@ -69,13 +87,19 @@
 		
 		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
 	
-	\comm{Publicity}{\mand}{working alongside the Membership Committee to advertise and recruit for Commandery, raising awareness of Worth Commandery's philanthropy, and increasing our visibility in North Texas.}
+	\pagebreak
+	
+	\comm{Publicity}{\mand}{working alongside the Membership Committee to advertise and recruit for Commandery, raising awareness of Worth Commandery's philanthropy, and increasing our visibility in North Texas. This committee is also responsible for coordinating activities related to the Holy Land Pilgrimage project.}
 	
 		\cman{Ricky Cox (Chairman)}{rcox70@gmail.com}{817--229--4797}{499 Skyview Lane, Azle, TX 76020}
 		
 		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
 		
 		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+	
+	\gantt{Task Timelines for Publicity Committee}{2021GanttPublicity.pdf}
+	
+	\pagebreak
 	
 	\comm{Sickness \& Distress}{\bylaw}{keeping an eye out for our members who have not been able to make it to Conclave in a while, visiting home-bound members or members in the hospital, sending ``get well soon'' cards, and so forth.}
 	
@@ -112,13 +136,13 @@
 		
 		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
 		
-	\comm{Excalibur Award}{}{selecting a worthy Sir Knight to award with the Excalibur Award, and nominating his name to Worth Commandery to be voted on. Committeemen must be Past Commanders, but the recipient does not have to be.}
+	%\comm{Excalibur Award}{}{selecting a worthy Sir Knight to award with the Excalibur Award, and nominating his name to Worth Commandery to be voted on. Committeemen must be Past Commanders, but the recipient does not have to be.}
 		
-		\cman{Sam Reid (Chairman)}{samcreid@yahoo.com}{682--201--8341}{arg4}
+		%\cman{Sam Reid (Chairman)}{samcreid@yahoo.com}{682--201--8341}{arg4}
 		
-		\cman{Jerry Taylor}{jwade284@swbell.net}{817--706--2255}{arg4}
+		%\cman{Jerry Taylor}{jwade284@swbell.net}{817--706--2255}{arg4}
 		
-		\cman{Ric Jernigan}{ricjernigan@gmail.com}{817--228--0364}{127 Rainbow Dr. No. 2782, Livingston, TX 77399}
+		%\cman{Ric Jernigan}{ricjernigan@gmail.com}{817--228--0364}{127 Rainbow Dr. No. 2782, Livingston, TX 77399}
 
 	\comm{History \& Preservation}{}{preserving the history of Worth Commandery, conducting inventory on items and documents of historical interest, creating historical displays for the Fort Worth Masonic Temple, and disposing of items with little historical value.}
 	
@@ -168,7 +192,7 @@
 		
 		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
 	
-	\comm{Temple Board}{}{attending meetings of the Fort Worth Temple Association (FWTA), voting in the best interests of Worth Commandery, and reporting on results of FWTA meetings.}
+	\comm{Temple Board}{}{attending meetings of the Fort Worth Temple Association (FWTA), voting on behalf of Worth Commandery, and reporting on results of FWTA meetings.}
 	
 		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
 		
