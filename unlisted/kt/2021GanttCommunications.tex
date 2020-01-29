@@ -3,6 +3,7 @@
 \usepackage{babel}
 \usepackage{datetime}
 \usepackage[american]{isodate}
+\usepackage{textcomp}
 
 \newdateformat{mmdd}{\twodigit{\THEMONTH}/\twodigit{\THEDAY}}
 
@@ -51,13 +52,19 @@
 	]{2021-01-01}{2021-12-31}
 	\gantttitlecalendar{month=shortname,week}\\
 	
-	\ganttgroup{Holy Land Pilgrimage}{2021-02-04}{2021-03-04}\\
-		\ganttbar{Identify Pilgrim}{2021-02-04}{2021-05-06}\\
-		\ganttmilestone{Approve Committee Nomination}{2021-05-06}\\
-		\ganttmilestone{Submit Nomination}{2021-06-03}\\
-		\ganttbar{Advertise}{2021-07-01}{2021-10-07}\\
-		\ganttmilestone{Open Presentation}{2021-10-07}\\
-	
+	\ganttgroup{Resume Website Control}{2021-01-07}{2021-07-01}\\
+		\ganttbar{Negotiate w/ Hrisco}{2021-01-07}{2021-02-04}\\
+		\ganttbar{Assume Control}{2021-02-04}{2021-03-04}\\
+	\ganttgroup{Revamp Website}{2021-03-04}{2021-12-02}\\
+		\ganttbar{Study ``As-Built'' \& Report}{2021-03-04}{2021-04-01}\\
+		\ganttbar{Deploy Splash Page}{2021-04-01}{2021-04-08}\\
+		\ganttbar{Deploy Minimum Viable}{2021-04-08}{2021-05-06}\\
+		\ganttbar{Deploy 95\%}{2021-05-06}{2021-06-03}\\
+		\ganttbar{Deploy Online Bill Pay}{2021-06-03}{2021-07-01}\\
+	\ganttgroup{Online Bill Pay}{2021-03-04}{2021-07-01}\\
+		\ganttbar{Create Paypal/Square Acct}{2021-03-04}{2021-04-01}\\
+		\ganttbar{Connect to Bank}{2021-04-01}{2021-06-03}\\
+		\ganttbar{Deploy Online Bill Pay}{2021-06-03}{2021-07-01}\\
 	\conclave{2021-01-07} % JAN 
 	\conclave{2021-02-04} % FEB
 	\conclave{2021-03-04} % MAR

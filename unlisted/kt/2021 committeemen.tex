@@ -11,23 +11,32 @@
 \usepackage{datetime}
 \usepackage[american]{isodate}
 \usepackage{graphicx}
-\usepackage[figuresleft]{rotating}
+\usepackage[figuresright]{rotating}
+\usepackage{pdflscape}
 
 \title{\vspace*{-5em}Worth Commandery \textnumero{} 19, KT\vspace*{-1em}}
 \author{List of Committeemen (Draft)}
 \date{\vspace*{-1em}\today}
 
 \newcommand{\cman}[4]{\textbf{#1}\hfill{}\url{#2}\\\hphantom{0em}\hfill{}#3\\\hphantom{0em}\hfill{}#4}
-\newcommand{\comm}[3]{\subsection*{#1 Committee\textsuperscript{#2}}The #1 Committee is tasked with #3}
+\newcommand{\comm}[3]{\subsection*{#1 Committee\textsuperscript{#2}}The #1 Committee is tasked with #3\bigskip}
 \newcommand{\mand}{\CrossMaltese}
 \newcommand{\bylaw}{\Cross}
 
 \newcommand{\gantt}[2]{
-	\begin{sidewaysfigure}[]
-		\centering
-		\caption{#1}
-		\includegraphics[width=\textheight]{#2}
-	\end{sidewaysfigure}
+	%\begin{sidewaysfigure}[]
+	\newgeometry{margin=0.125in}
+	\begin{landscape}
+		\begin{figure}
+			\vspace*{\fill}
+			\centering
+			\caption{2021 Task Timelines for #1 Committee}
+			\includegraphics[width=\textwidth]{#2}%\includegraphics[height=0.95\textheight]{#2}
+			\vspace*{\fill}
+		\end{figure}
+	\end{landscape}
+	\restoregeometry
+	%\end{sidewaysfigure}
 }
 
 \begin{document}
@@ -47,156 +56,171 @@
 		
 		\cman{Brent Casiglio (Captain General)}{bcasiglio@gmail.com}{817--701--9707}{2161 Steeplewood Drive, Grapevine, TX 76051}
 	
-	\comm{Educational Foundation}{\mand}{advertising and awarding scholarship application opportunities for the Texas Knights Templar Educational Foundation, and assisting students with their scholarship applications to the same.}
+	\pagebreak
 	
-		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
-		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
-		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+	\comm{Educational Foundation}{\mand}{(\textit{historically/traditionally}) advertising and awarding scholarship application opportunities for the Texas Knights Templar Educational Foundation, and assisting students with their scholarship applications to the same. However, these duties will be handled by the Worth Commandery Knight Templar Eye Foundation Committee.\\\\The Educational Foundation Committee will instead: \begin{itemize}\item{}provide general education to members,\item{}publish educational articles to the TCYRA ``Keystone'' Newsletter,\item{}promote the GEKT ``Templar Ritualist'' program,\item{}promote the YRSCNA ``Companion Adept of the Temple'' Program,\item{}assist Sir Knights with achieving publication in the Knight Templar magazine.\end{itemize}}
 	
-	\comm{Finance \& Audit}{\mand}{auditing the books of the Worth Commandery Treasurer, reporting the results to the Commandery, and assisting with the annual returns of the commandery. \textbf{For practical purposes, the chairman and other two committeemen will be appointed immediately prior to the stated conclave at which they are needed to report.}}
-	
-	\comm{Knight Templar Eye Foundation}{\mand}{raising awareness of the Knight Templar Eye Foundation (KTEF), developing fund-raisers to benefit KTEF, and developing plans for Worth Commandery to be better represented as an organizational donor to KTEF.}
-	
-		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
+		\cman{Billy Hamilton (Chairman)}{bhamiltontx75@gmail.com}{940--600--9678}{16629 Windthorst Way, Justin, TX 76247}
 		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#2}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
+	
+	\pagebreak
+	
+	\comm{Finance \& Audit}{\mand}{auditing the books of the Worth Commandery Treasurer, reporting the results to the commandery, and assisting the Commander and Recorder with the annual returns of the commandery.\\\\\textbf{For practical purposes, the chairman and other two committeemen will be appointed immediately prior to the stated conclave at which they are needed to report.}}
+	
+	\pagebreak
+	
+	\comm{Knight Templar Eye Foundation}{\mand}{raising awareness of the Knight Templar Eye Foundation (KTEF), developing fund-raisers to benefit KTEF, and developing plans for Worth Commandery to be better represented as an organizational donor to KTEF.\\\\The KTEF Committee will also handle the traditional duties of the Educational Foundation Committee by advertising and awarding scholarship application opportunities for the Texas Knights Templar Educational Foundation, and assisting students with their scholarship applications to the same.}
+	
+		\cman{Royce Rose (Chairman)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
+		
+		\cman{Committeeman \#2}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
+		
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 	
 	\pagebreak
 		
 	\comm{Membership}{\mand}{recruiting Master Masons to become members of the York Rite, assisting and encouraging Sir Knights in the process of reinstatement, and raising awareness of Commandery as a worthwhile fraternity. These members are also responsible for coordinating 50-year award presentations, working with the Excalibur Award ad-hoc committee, and coordinate with the TCYRA to put on the annual festival.}
 	
-		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
+		\cman{Sam Reid (Chairman)}{samcreid@yahoo.com}{682--201--8341}{ADDRESS}
 		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
+		\cman{Jerry Taylor}{jwade284@swbell.net}{817--706--2255}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
-	
-	\gantt{Task Timelines for Membership Committee}{2021GanttMembership.pdf}
+		\cman{Ric Jernigan}{ricjernigan@gmail.com}{817--228--0364}{127 Rainbow Dr. No. 2782, Livingston, TX 77399}
+		
+		\gantt{Membership}{2021GanttMembership.pdf}
 	
 	\pagebreak
 	
-	\comm{Patriotic \& Civic Activities}{\mand}{working with past and present members of Templar District \textnumero{} 6 Color Guard to conduct flag presentations, arrange parade appearances, and coordinate with local organizations that would like Templar representation at their events.}
+	\comm{Patriotic \& Civic Activities}{\mand}{working with past and present members of Templar District \textnumero{} 6 Color Guard to conduct flag presentations, arrange parade appearances, and coordinate with local organizations that would like Templar representation at their events. This committee is also tasked with assisting the Religious Activities Committee with coordination of religious observances.}
 	
-		\cman{Jerry Taylor (Chairman)}{jwade284@swbell.net}{817--706--2255}{arg4}
+		\cman{Jerry Taylor (Chairman)}{jwade284@swbell.net}{817--706--2255}{ADDRESS}
 		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
+		\cman{John Huffman}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
+	
+		\gantt{Patriotic \& Civic Activities}{2021GanttPatriotic.pdf}
 	
 	\pagebreak
 	
-	\comm{Publicity}{\mand}{working alongside the Membership Committee to advertise and recruit for Commandery, raising awareness of Worth Commandery's philanthropy, and increasing our visibility in North Texas. This committee is also responsible for coordinating activities related to the Holy Land Pilgrimage project.}
+	\comm{Publicity}{\mand}{working alongside the Membership Committee to advertise and recruit for Commandery, raising awareness of Worth Commandery's philanthropy, and increasing our visibility in North Texas. This committee is also responsible for advertising and raising awareness for the \textit{Holy Land Pilgrimage} program, interviewing candidates for the program, and to recommend a final candidate for nomination to the program.}
 	
-		\cman{Ricky Cox (Chairman)}{rcox70@gmail.com}{817--229--4797}{499 Skyview Lane, Azle, TX 76020}
-		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
-		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		\cman{Christopher Allsbury}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 	
-	\gantt{Task Timelines for Publicity Committee}{2021GanttPublicity.pdf}
+		\cman{Ricky Cox}{rcox70@gmail.com}{817--229--4797}{499 Skyview Lane, Azle, TX 76020}
+		
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
+	
+		\gantt{Publicity}{2021GanttPublicity.pdf}
 	
 	\pagebreak
 	
 	\comm{Sickness \& Distress}{\bylaw}{keeping an eye out for our members who have not been able to make it to Conclave in a while, visiting home-bound members or members in the hospital, sending ``get well soon'' cards, and so forth.}
 	
-		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
+		\cman{Rex Hancock (Chairman)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#2}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
+	
+	\pagebreak
 	
 	\section*{Special and/or Ad-Hoc Committees}
 	
 	\comm{Bylaws}{}{reviewing the bylaws of Worth Commandery and updating them as needed, to be submitted to the Grand Commandery, Knights Templar, of Texas.}
 		
-		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
+		\cman{Patrick Smith (Chairman)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
+		\cman{Steve Wolfe}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 	
+	\pagebreak
 	
 	\comm{Communications}{}{maintaining the Worth Commandery website and social media accounts, publishing information, and assisting the Recorder in his duties.}
 	
-		\cman{Billy Hamilton (Chairman)}{bhamiltontx75@gmail.com}{940--600--9678}{16629 Windthorst Way, Justin, TX 76247}
+		\cman{Brent Casiglio (Chairman)}{bcasiglio@gmail.com}{817--701--9707}{2161 Steeplewood Drive, Grapevine, TX 76051}
 		
-		\cman{Brent Casiglio}{bcasiglio@gmail.com}{817--701--9707}{2161 Steeplewood Drive, Grapevine, TX 76051}
+		\cman{Billy Hamilton}{bhamiltontx75@gmail.com}{940--600--9678}{16629 Windthorst Way, Justin, TX 76247}
 		
-		\cman{John Hrisco}{john@johnhrisco.com}{817--715--5360}{arg4}
+		%\cman{John Hrisco}{john@johnhrisco.com}{817--715--5360}{ADDRESS}
+		
+		\gantt{Communications}{2021GanttCommunications.pdf}
+	
+	\pagebreak
 	
 	\comm{Drill Team}{}{assembling and training a drill team to represent Worth Commandery (or multiple commanderies within Templar District \textnumero{} 6) in the annual drill competition at Grand Conclave.}
 	
 		\cman{Ric Jernigan (Captain)}{ricjernigan@gmail.com}{817--228--0364}{127 Rainbow Dr. No. 2782, Livingston, TX 77399}
 		
-		\cman{Brent Casiglio}{bcasiglio@gmail.com}{817--701--9707}{2161 Steeplewood Drive, Grapevine, TX 76051}
+		\cman{Committeeman \#2}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		%\cman{Brent Casiglio}{bcasiglio@gmail.com}{817--701--9707}{2161 Steeplewood Drive, Grapevine, TX 76051}
 		
-	%\comm{Excalibur Award}{}{selecting a worthy Sir Knight to award with the Excalibur Award, and nominating his name to Worth Commandery to be voted on. Committeemen must be Past Commanders, but the recipient does not have to be.}
-		
-		%\cman{Sam Reid (Chairman)}{samcreid@yahoo.com}{682--201--8341}{arg4}
-		
-		%\cman{Jerry Taylor}{jwade284@swbell.net}{817--706--2255}{arg4}
-		
-		%\cman{Ric Jernigan}{ricjernigan@gmail.com}{817--228--0364}{127 Rainbow Dr. No. 2782, Livingston, TX 77399}
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 
+	\pagebreak
+	
 	\comm{History \& Preservation}{}{preserving the history of Worth Commandery, conducting inventory on items and documents of historical interest, creating historical displays for the Fort Worth Masonic Temple, and disposing of items with little historical value.}
 	
-		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#1 (Chairman)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#2}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 	
-	\comm{Holy Land Pilgrimage}{}{advertising and raising awareness for the \textit{Holy Land Pilgrimage} program, interviewing candidates for the program, and to recommend a final candidate for nomination to the program.}
-	
-		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
-		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
-		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+	\pagebreak
 	
 	\comm{Regalia \& Supplies}{}{procuring costumes, props, regalia, and other equipment for conferral of the Orders; maintaining inventory of the commandery during execution of the annual Tarrant County York Rite Association Festival; and assisting new Sir Knights by fitting them for uniforms and ordering their regalia.}
 	
-		\cman{Royce Rose (Quartermaster)}{arg2}{arg3}{arg4}
+		\cman{Royce Rose (Quartermaster)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Jerry Taylor}{arg2}{arg3}{arg4}
+		\cman{Jerry Taylor}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
-		
-	\comm{Religious Activities}{}{coordinating the annual Easter \& Ascension Observances with other Commanderies in the Dallas-Fort Worth metroplex, hosting the Worth Commandery Christmas Observance, leading a commandery Bible study program, and presenting religious education to members.}
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
+
+	\pagebreak
+
+	\comm{Religious Activities}{}{coordinating the annual Easter \& Ascension Observances with other Commanderies in the Dallas-Fort Worth metroplex, hosting the Worth Commandery Christmas Observance, leading a commandery Bible study program, and presenting religious messages to members.}
 	
-		\cman{Neal Addy (Prelate)}{arg2}{arg3}{arg4}
+		\cman{Neal Addy (Prelate)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#2}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
+	
+		\gantt{Task Timelines for Religious Activities Committee}{2021GanttReligious.pdf}
+	
+	\pagebreak
 		
 	\comm{Ritual Competition}{}{assembling, training, and coordinating the Worth Commandery Ritual Team, and to lead them in the annual ritual team competition at Grand Conclave.}
 	
-		\cman{Mel Hagood (Captain)}{arg2}{arg3}{arg4}
+		\cman{Mel Hagood (Captain)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#2}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
+	
+	\pagebreak
 	
 	\comm{Social Activities}{}{organizing open and closed social events on behalf of Worth Commandery, with an emphasis on district-wide activities that are family-oriented, as well as assisting the Commander-elect with organizing the annual Installation Officers, and assisting the Prelate with organizing the Easter \& Christmas Observances. This committee shall also assist the Commander in organizing an open meeting at which to present 50 Year Service Awards.}
 	
-		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
+		\cman{John Goodman (Chairman)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
+		\cman{Philip Valdez}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#3}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
+	
+	\pagebreak
 	
 	\comm{Temple Board}{}{attending meetings of the Fort Worth Temple Association (FWTA), voting on behalf of Worth Commandery, and reporting on results of FWTA meetings.}
 	
-		\cman{Committeeman \#1 (Chairman)}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#1 (Primary Delegate)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#2}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#2 (Alternate Delegate)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 		
-		\cman{Committeeman \#3}{arg2}{arg3}{arg4}
+		\cman{Committeeman \#3 (Alternate Delegate)}{EMAIL@EMAIL.COM}{PHONE NUMBER}{ADDRESS}
 \end{document}

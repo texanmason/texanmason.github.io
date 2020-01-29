@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  28 JAN 2020 17:01
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  29 JAN 2020 16:56
 entering extended mode
 **"./2021 committeemen.tex"
 ("2021 committeemen.tex"
@@ -437,32 +437,51 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \rotFPbot=\skip47
 \rot@float@box=\box29
 \rot@mess@toks=\toks25
-) ("2021 committeemen.aux")
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/graphics\lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/atbegshi\atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+))) ("2021 committeemen.aux")
 \openout1 = `"2021 committeemen.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+2.
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    ... okay on input line 42.
 
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -498,14 +517,15 @@ LaTeX Font Info:    ... okay on input line 33.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 isodate: babel.sty has been loaded
-LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+\AtBeginShipoutBox=\box30
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
 
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
 
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
@@ -514,13 +534,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 Package datetime Warning: No week day names defined for language 'nil', default
-ing to English on input line 34.
+ing to English on input line 43.
 
 
 Package datetime Warning: No month names provided for language 'nil' on input l
-ine 34.
+ine 43.
 
-LaTeX Font Info:    Trying to load font information for U+ding on input line 42
+LaTeX Font Info:    Trying to load font information for U+ding on input line 51
 .
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
@@ -529,53 +549,255 @@ File: Uding.fd 1996/02/01 v1.0 BBding font definitions
 )
 
 LaTeX Font Warning: Font shape `U/ding/bx/n' undefined
-(Font)              using `U/ding/m/n' instead on input line 42.
-
-
-Overfull \hbox (15.9654pt too wide) in paragraph at lines 50--51
-\TU/lmr/m/n/10 The Educational Foundation Committee is tasked with advertising 
-and awarding scholarship application
- []
+(Font)              using `U/ding/m/n' instead on input line 51.
 
 [1
 
-] [2]
+]
+Overfull \hbox (12.72539pt too wide) in paragraph at lines 61--61
+\TU/lmr/m/n/10 awarding scholarship application opportunities for the Texas Kni
+ghts Templar Educational Foundation,
+ []
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 78.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+[4] [5]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(9.03374pt, 596.22752pt, 9.03374pt)
+* v-part:(T,H,B)=(9.03374pt, 776.90251pt, 9.03374pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=596.22752pt
+* \textheight=776.90251pt
+* \oddsidemargin=-63.23625pt
+* \evensidemargin=-63.23625pt
+* \topmargin=-100.23625pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 File: 2021GanttMembership.pdf Graphic file (type pdf)
 <use 2021GanttMembership.pdf>
-[3] [4] [5]
-Overfull \hbox (2.99937pt too wide) in paragraph at lines 92--93
+ [6] [7
+
+
+
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(9.03374pt, 596.22752pt, 9.03374pt)
+* v-part:(T,H,B)=(9.03374pt, 776.90251pt, 9.03374pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=596.22752pt
+* \textheight=776.90251pt
+* \oddsidemargin=-63.23625pt
+* \evensidemargin=-63.23625pt
+* \topmargin=-100.23625pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: 2021GanttPatriotic.pdf Graphic file (type pdf)
+<use 2021GanttPatriotic.pdf>
+ [8]
+Overfull \hbox (2.99937pt too wide) in paragraph at lines 109--110
 \TU/lmr/m/n/10 and recruit for Commandery, raising awareness of Worth Commander
 y’s philanthropy, and increasing
  []
 
+[9
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 100.
+
+
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(9.03374pt, 596.22752pt, 9.03374pt)
+* v-part:(T,H,B)=(9.03374pt, 776.90251pt, 9.03374pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=596.22752pt
+* \textheight=776.90251pt
+* \oddsidemargin=-63.23625pt
+* \evensidemargin=-63.23625pt
+* \topmargin=-100.23625pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 File: 2021GanttPublicity.pdf Graphic file (type pdf)
 <use 2021GanttPublicity.pdf>
-[6] [7] [8] [9] [10]
-Overfull \hbox (9.50542pt too wide) in paragraph at lines 195--196
+ [10] [11
+
+
+
+
+] [12] [13]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(9.03374pt, 596.22752pt, 9.03374pt)
+* v-part:(T,H,B)=(9.03374pt, 776.90251pt, 9.03374pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=596.22752pt
+* \textheight=776.90251pt
+* \oddsidemargin=-63.23625pt
+* \evensidemargin=-63.23625pt
+* \topmargin=-100.23625pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: 2021GanttCommunications.pdf Graphic file (type pdf)
+<use 2021GanttCommunications.pdf>
+ [14] [15
+
+
+
+
+] [16] [17] [18]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(9.03374pt, 596.22752pt, 9.03374pt)
+* v-part:(T,H,B)=(9.03374pt, 776.90251pt, 9.03374pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=596.22752pt
+* \textheight=776.90251pt
+* \oddsidemargin=-63.23625pt
+* \evensidemargin=-63.23625pt
+* \topmargin=-100.23625pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: 2021GanttReligious.pdf Graphic file (type pdf)
+<use 2021GanttReligious.pdf>
+ [19] [20
+
+
+
+
+] [21]
+Overfull \hbox (9.50542pt too wide) in paragraph at lines 219--220
 \TU/lmr/m/n/10 The Temple Board Committee is tasked with attending meetings of 
 the Fort Worth Temple Association
  []
 
-[11] ("2021 committeemen.aux")
+[22] ("2021 committeemen.aux")
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5388 strings out of 427233
- 72728 string characters out of 3134236
- 178265 words of memory out of 3000000
- 9767 multiletter control sequences out of 15000+200000
+ 5546 strings out of 427233
+ 75912 string characters out of 3134236
+ 179817 words of memory out of 3000000
+ 9910 multiletter control sequences out of 15000+200000
  10899 words of font info for 53 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 39i,8n,34p,1033b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,6n,67p,1033b,303s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on 2021 committeemen.pdf (11 pages).
+Output written on 2021 committeemen.pdf (22 pages).

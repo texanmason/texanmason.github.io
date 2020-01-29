@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  29 JAN 2020 14:49
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  29 JAN 2020 15:34
 entering extended mode
-**./2021GanttMembership.tex
-(2021GanttMembership.tex
+**./2021GanttReligious.tex
+(2021GanttReligious.tex
 LaTeX2e <2019-10-01> patch level 3
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
@@ -650,8 +650,8 @@ LaTeX Info: Redefining \shortdate on input line 154.
 \c@iso@@slash=\count174
 \c@iso@@minus=\count175
 \c@iso@@dot=\count176
-) (2021GanttMembership.aux)
-\openout1 = `2021GanttMembership.aux'.
+) (2021GanttReligious.aux)
+\openout1 = `2021GanttReligious.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
@@ -671,15 +671,35 @@ LaTeX Font Info:    ... okay on input line 28.
 isodate: babel.sty has been loaded
 
 Package isodate Warning: Language nil unknown to isodate.
+(isodate)                Using default format on input line 60.
+
+
+Package isodate Warning: Language nil unknown to isodate.
 (isodate)                Using default format on input line 68.
 
 
 Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 69.
+(isodate)                Using default format on input line 76.
+
+
+Package isodate Warning: Language nil unknown to isodate.
+(isodate)                Using default format on input line 78.
+
+
+Package isodate Warning: Language nil unknown to isodate.
+(isodate)                Using default format on input line 79.
+
+
+Package isodate Warning: Language nil unknown to isodate.
+(isodate)                Using default format on input line 80.
 
 
 Package isodate Warning: Language nil unknown to isodate.
 (isodate)                Using default format on input line 81.
+
+
+Package isodate Warning: Language nil unknown to isodate.
+(isodate)                Using default format on input line 82.
 
 
 Package isodate Warning: Language nil unknown to isodate.
@@ -697,36 +717,16 @@ Package isodate Warning: Language nil unknown to isodate.
 Package isodate Warning: Language nil unknown to isodate.
 (isodate)                Using default format on input line 86.
 
-
-Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 87.
-
-
-Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 88.
-
-
-Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 89.
-
-
-Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 90.
-
-
-Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 91.
-
 [1
 
-] (2021GanttMembership.aux) ) 
+] (2021GanttReligious.aux) ) 
 Here is how much of TeX's memory you used:
- 15996 strings out of 427233
- 330496 string characters out of 3134236
- 538570 words of memory out of 3000000
- 20229 multiletter control sequences out of 15000+200000
+ 15962 strings out of 427233
+ 329815 string characters out of 3134236
+ 533569 words of memory out of 3000000
+ 20195 multiletter control sequences out of 15000+200000
  3672 words of font info for 18 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 68i,6n,85p,1033b,904s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,6n,85p,1032b,904s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on 2021GanttMembership.pdf (1 page).
+Output written on 2021GanttReligious.pdf (1 page).

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  28 JAN 2020 17:02
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  29 JAN 2020 15:03
 entering extended mode
 **./2021GanttPublicity.tex
 (2021GanttPublicity.tex
@@ -653,42 +653,22 @@ LaTeX Info: Redefining \shortdate on input line 154.
 ) (2021GanttPublicity.aux)
 \openout1 = `2021GanttPublicity.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
  ABD: EveryShipout initializing macros
 isodate: babel.sty has been loaded
-
-Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 56.
-
-
-Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 57.
-
-
-Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 58.
-
-
-Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 59.
-
-
-Package isodate Warning: Language nil unknown to isodate.
-(isodate)                Using default format on input line 60.
-
 
 Package isodate Warning: Language nil unknown to isodate.
 (isodate)                Using default format on input line 61.
@@ -705,16 +685,36 @@ Package isodate Warning: Language nil unknown to isodate.
 Package isodate Warning: Language nil unknown to isodate.
 (isodate)                Using default format on input line 64.
 
+
+Package isodate Warning: Language nil unknown to isodate.
+(isodate)                Using default format on input line 65.
+
+
+Package isodate Warning: Language nil unknown to isodate.
+(isodate)                Using default format on input line 66.
+
+
+Package isodate Warning: Language nil unknown to isodate.
+(isodate)                Using default format on input line 67.
+
+
+Package isodate Warning: Language nil unknown to isodate.
+(isodate)                Using default format on input line 68.
+
+
+Package isodate Warning: Language nil unknown to isodate.
+(isodate)                Using default format on input line 69.
+
 [1
 
 ] (2021GanttPublicity.aux) ) 
 Here is how much of TeX's memory you used:
- 15758 strings out of 427233
- 325922 string characters out of 3134236
- 503235 words of memory out of 3000000
- 19991 multiletter control sequences out of 15000+200000
+ 15744 strings out of 427233
+ 325641 string characters out of 3134236
+ 503474 words of memory out of 3000000
+ 19977 multiletter control sequences out of 15000+200000
  3672 words of font info for 18 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 68i,6n,85p,1032b,880s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 68i,6n,85p,1032b,886s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on 2021GanttPublicity.pdf (1 page).

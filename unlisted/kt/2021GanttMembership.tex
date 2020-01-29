@@ -20,6 +20,11 @@
 	\ganttmilestone[inline,milestone label font=\small]{\mmddevent{#1}}{#1}
 }
 
+\newcommand{\dated}[2]{
+	\ganttmilestone{#1}{#2}
+	\ganttmilestone[inline,milestone label font=\small]{\mmddevent{#2}}{#2}
+}
+
 \begin{document}
 
 %%% STATED CONCLAVES 2021
@@ -41,7 +46,8 @@
 	milestone height = 0.25,
 	milestone/.append style={rounded corners=1pt, xscale=5},
 	x unit = 0.2em,
-	vgrid = {*6{draw=none},*1{gray, dotted}},
+	vgrid = {*6{draw=none},*1{gray, dotted, very thin}},
+	vrule/.append style={solid, very thick},
 	]{2021-01-01}{2021-12-31}
 	\gantttitlecalendar{month=shortname,week}\\
 	
@@ -72,22 +78,8 @@
 	\ganttgroup{TCYRA Festival}{2021-05-06}{2021-09-04}\\
 		\ganttmilestone{Announce Details}{2021-05-06}\\
 		\ganttmilestone{Issue Reminder}{2021-06-03}\\
-		\ganttbar{Festival Conferral}{2020-02-02}{2020-02-02}
-			\event{2021-09-04}\\
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		\dated{Festival Conferral}{2021-09-04}
+
 	\conclave{2021-01-07}
 	\conclave{2021-02-04}
 	\conclave{2021-03-04}
