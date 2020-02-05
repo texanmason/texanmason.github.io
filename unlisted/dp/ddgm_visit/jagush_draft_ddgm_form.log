@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  5 FEB 2020 16:50
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  5 FEB 2020 16:51
 entering extended mode
-**./order_form.tex
-(order_form.tex
+**./jagush_draft_ddgm_form.tex
+(jagush_draft_ddgm_form.tex
 LaTeX2e <2019-10-01> patch level 3
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
@@ -678,8 +678,8 @@ Package fontspec Info: Font family 'OldLondon.ttf(0)' created for font
 (fontspec)             <->"[OldLondon.ttf]/OT"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
- (order_form.aux)
-\openout1 = `order_form.aux'.
+ (jagush_draft_ddgm_form.aux)
+\openout1 = `jagush_draft_ddgm_form.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
 LaTeX Font Info:    ... okay on input line 90.
@@ -728,10 +728,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 90.
 LaTeX Info: Redefining \pageref on input line 90.
 LaTeX Info: Redefining \nameref on input line 90.
- (order_form.out)
-(order_form.out)
+
+(jagush_draft_ddgm_form.out) (jagush_draft_ddgm_form.out)
 \@outlinefile=\write4
-\openout4 = `order_form.out'.
+\openout4 = `jagush_draft_ddgm_form.out'.
 
 
 *geometry* detected driver: pdftex
@@ -868,20 +868,21 @@ File: emblem.png Graphic file (type bmp)
 <emblem.png>
  [2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
- (order_form.aux)
+ (jagush_draft_ddgm_form.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 169.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
-Package rerunfilecheck Info: File `order_form.out' has not changed.
+Package rerunfilecheck Info: File `jagush_draft_ddgm_form.out' has not changed.
+
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 169.
  ) 
 Here is how much of TeX's memory you used:
  23442 strings out of 427233
- 434609 string characters out of 3134236
- 570744 words of memory out of 3000000
+ 434801 string characters out of 3134236
+ 570816 words of memory out of 3000000
  27777 multiletter control sequences out of 15000+200000
  534637 words of font info for 45 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 45i,15n,58p,934b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,15n,58p,946b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on order_form.pdf (2 pages).
+Output written on jagush_draft_ddgm_form.pdf (2 pages).
