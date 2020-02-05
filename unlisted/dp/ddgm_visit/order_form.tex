@@ -1,0 +1,92 @@
+\documentclass[letterpaper]{article}
+
+%\usepackage[pdftex]{hyperref}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{textcomp}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{parskip}
+\usepackage{eforms}
+
+\definecolor{eggplant}{HTML}{614051}
+\definecolor{light-gray}{gray}{0.85}
+
+\newfontfamily{\oldlondon}{OldLondon.ttf}
+
+\newcommand{\dimrule}{\color{light-gray}\hrule}
+
+\newcommand{\blank}[2]{
+	\textField[\BG{0.95 0.95 0.95}\W{0}]{#1}{#2}{1em}
+}
+
+\newcommand{\chk}[1]{
+	\radioButton[\BG{0.95 0.95 0.95}\W{0}]{myRadio}{8bp}{8bp}{#1}
+}
+
+\pagestyle{fancy}
+\renewcommand{\headrule}{}
+\fancyhf{}
+\fancyhead[l]{\raisebox{0.5\height}{\includegraphics[height=10em]{seal.png}}}
+\fancyhead[c]{
+    {\oldlondon
+        {\LARGE
+            {\color{eggplant}
+            	%\raisebox{-0.5\height}{
+   				\parbox[c][9em][c]{\textwidth}{
+	                \begin{center}
+	                    %\vspace{-4em}
+	                    %\vspace*{\fill}
+	             		\vspace{-1.525em}
+	                    The Grand Council\\
+	                    Of Royal And Select Masters\\%\v~space{0.4em}
+	                    Of Texas
+	                    %\vspace*{\fill}
+	                \end{center}
+            	}
+            }
+        }
+    }
+}
+\fancyhead[r]{\raisebox{0.5\height}{\includegraphics[height=10em]{emblem.png}}}
+\fancyfoot[l]{\vspace{-2em}(254) 753-6721}
+\fancyfoot[c]{
+    {\oldlondon
+		{\Large
+			{\color{eggplant}
+				\begin{center}
+					\vspace{-1.45em}
+					For the Benefit of Future Generations
+				\end{center}
+			}
+		}
+	}
+}
+\fancyfoot[r]{\vspace{-2em}gractx@aol.com}
+
+\begin{document}
+
+\vspace*{7em}
+
+\begin{center}
+	\textbf{
+		\Large
+		2020 First Report of District Deputy Grand Master
+	}
+\end{center}
+
+\bigskip
+
+Official visit on \blank{Month}{5ex}/\blank{Day}{5ex}/2020 to \blank{CouncilName}{40ex} Council \textnumero{} \blank{CouncilNo}{5ex}, District \textnumero{} \blank{CouncilDist}{5ex}, located at \blank{CouncilAddress}{70ex} in \blank{CouncilCity}{60ex} (PO Box: \blank{PoBox}{20ex}):
+
+\textbf{Installed Officers Present:}\\
+{\small TIM \chk{TimPres} RIDM \chk{RidmPres} IPC \chk{IpcPres} TRS \chk{TrsPres} REC \chk{RecPres} CHP \chk{ChpPres} CG \chk{CgPres} COC \chk{CocPres} ST \chk{StPres} SEN \chk{SenPres}}
+
+\textbf{Past Thrice Illustrious Masters Serving as Officers:}\\
+{\small TIM \chk{TimPres} RIDM \chk{RidmPres} IPC \chk{IpcPres} TRS \chk{TrsPres} REC \chk{RecPres} CHP \chk{ChpPres} CG \chk{CgPres} COC \chk{CocPres} ST \chk{StPres} SEN \chk{SenPres}}
+
+\textit{Important: Answer ALL questions. Discuss the report with the Council Officers. List additional comments on a separate form if necessary. Mail and distribute copies according to directions. File this report within five (5) days.}
+
+\end{document}
