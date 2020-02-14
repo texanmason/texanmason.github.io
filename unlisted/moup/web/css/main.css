@@ -3331,9 +3331,13 @@ html.no-csstransitions .hero-content {
 	/* width: 116px; */
     /* height: 30px; */
   }
-
 }
 
+@media screen and (max-width:600px) {
+	h1 {
+		font-size: 25px !important;
+	}
+}
 
 /* ===================================================================
  * # page styles and page components 
