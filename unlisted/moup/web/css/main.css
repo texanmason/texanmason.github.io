@@ -1594,7 +1594,8 @@ input::-moz-focus-inner {
   line-height: 1.5;
   text-transform: uppercase;
   letter-spacing: .3rem;
-  color: #fb8b23;
+  /* color: #fb8b23; */
+  color: #fff;
   margin-top: 0;
   margin-bottom: .4rem;
   margin-left: 4px;
