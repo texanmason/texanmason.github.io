@@ -11,7 +11,21 @@
 \contentsline {section}{Exercise A}{15}%
 \contentsline {section}{The Martinist Visualization \& Prayer}{16}%
 \contentsline {chapter}{\numberline {2}Week Two}{17}%
-\contentsline {section}{Exercise B}{17}%
-\contentsline {section}{Marrakech Convention --- Important Q's \& A's}{18}%
-\contentsline {section}{Second Conventicle}{20}%
-\contentsline {subsection}{Exercise A}{22}%
+\contentsline {section}{Q \& A with Temple Layout}{17}%
+\contentsline {subsection}{The Questions \& Answers}{20}%
+\contentsline {subsection}{The Signs \& Words}{21}%
+\contentsline {subsection}{General Points and Reminders}{22}%
+\contentsline {section}{Exercise B}{23}%
+\contentsline {section}{Marrakech Convention --- Important Q's \& A's}{24}%
+\contentsline {section}{Second Conventicle}{26}%
+\contentsline {subsection}{Exercise A}{28}%
+\contentsline {chapter}{\numberline {3}Week Three}{29}%
+\contentsline {section}{Prayer for the Dedication of the Home Oratory or Altar}{29}%
+\contentsline {section}{The Way of the Heart}{30}%
+\contentsline {section}{The Heart of Love}{32}%
+\contentsline {subsection}{Phase Two: The Heart of Love Shared with Those We Cherish}{33}%
+\contentsline {subsection}{Phase Three: The Heart of Love Shared with Those Who Challenge Us}{34}%
+\contentsline {subsection}{Phase Four: The Heart of Love in All}{34}%
+\contentsline {section}{Exercise C}{35}%
+\contentsline {section}{Third Conventicle}{36}%
+\contentsline {subsection}{EXERCISE B}{37}%

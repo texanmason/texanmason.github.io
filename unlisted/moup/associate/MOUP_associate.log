@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2019.12.5)  7 JAN 2020 11:01
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250) (preloaded format=xelatex 2020.1.14)  26 FEB 2020 17:00
 entering extended mode
 **./MOUP_associate.tex
 (MOUP_associate.tex
@@ -127,21 +127,13 @@ stall\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/generic/oberdiek\ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+stall\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/generic/oberdiek\kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/generic/oberdiek\infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/generic/oberdiek\etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-)))
+stall\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
@@ -173,9 +165,9 @@ Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 stall\tex/generic/pgf/utilities\pgfrcs.code.tex
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf\pgf.revision.tex)
-Package: pgfrcs 2019/12/21 v3.1.5a (3.1.5a)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
 ))
-Package: pgf 2019/12/21 v3.1.5a (3.1.5a)
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/pgf/basiclayer\pgfcore.sty
@@ -183,7 +175,7 @@ stall\tex/latex/pgf/basiclayer\pgfcore.sty
 stall\tex/latex/pgf/systemlayer\pgfsys.sty
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/systemlayer\pgfsys.code.tex
-Package: pgfsys 2019/12/21 v3.1.5a (3.1.5a)
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/utilities\pgfkeys.code.tex
@@ -217,33 +209,33 @@ stall\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/systemlayer\pgf.cfg
-File: pgf.cfg 2019/12/21 v3.1.5a (3.1.5a)
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
 Driver file for pgf: pgfsys-xetex.def
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/systemlayer\pgfsys-xetex.def
-File: pgfsys-xetex.def 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/systemlayer\pgfsys-dvipdfmx.def
-File: pgfsys-dvipdfmx.def 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 )
 \pgfsys@objnum=\count98
 )))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfsyssoftpath@smallbuffer@items=\count99
 \pgfsyssoftpath@bigbuffer@items=\count100
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/xcolor\xcolor.sty
@@ -265,7 +257,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcore.code.tex
-Package: pgfcore 2019/12/21 v3.1.5a (3.1.5a)
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/math\pgfmath.code.tex
@@ -308,7 +300,7 @@ stall\tex/generic/pgf/math\pgfmathfloat.code.tex
 stall\tex/generic/pgf/math\pgfint.code.tex)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@picminx=\dimen119
 \pgf@picmaxx=\dimen120
 \pgf@picminy=\dimen121
@@ -326,19 +318,19 @@ File: pgfcorepoints.code.tex 2019/12/21 v3.1.5a (3.1.5a)
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@path@lastx=\dimen133
 \pgf@path@lasty=\dimen134
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@shorten@end@additional=\dimen135
 \pgf@shorten@start@additional=\dimen136
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box30
 \pgf@hbox=\box31
 \pgf@layerbox@main=\box32
@@ -346,83 +338,83 @@ File: pgfcorescopes.code.tex 2019/12/21 v3.1.5a (3.1.5a)
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgflinewidth=\dimen137
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@pt@x=\dimen138
 \pgf@pt@y=\dimen139
 \pgf@pt@temp=\dimen140
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfarrowsep=\dimen141
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@max=\dimen142
 \pgf@sys@shading@range@num=\count104
 \pgf@shadingcount=\count105
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfexternal@startupbox=\box33
 ))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfnodeparttextbox=\box34
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/modules\pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2019/12/21 v3.1.5a (3.1.5a)
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@nodesepstart=\dimen143
 \pgf@nodesepend=\dimen144
 )
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2019/12/21 v3.1.5a (3.1.5a)
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 ))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/pgf/utilities\pgffor.sty
@@ -436,7 +428,7 @@ stall\tex/latex/pgf/math\pgfmath.sty
 stall\tex/generic/pgf/math\pgfmath.code.tex))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/utilities\pgffor.code.tex
-Package: pgffor 2019/12/21 v3.1.5a (3.1.5a)
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/math\pgfmath.code.tex)
@@ -447,11 +439,11 @@ stall\tex/generic/pgf/math\pgfmath.code.tex)
 ))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
-Package: tikz 2019/12/21 v3.1.5a (3.1.5a)
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@plot@mark@count=\count106
 \pgfplotmarksize=\dimen147
 )
@@ -474,7 +466,7 @@ File: pgflibraryplothandlers.code.tex 2019/12/21 v3.1.5a (3.1.5a)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/modules\pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfmatrixcurrentrow=\count111
 \pgfmatrixcurrentcolumn=\count112
 \pgf@matrix@numberofcolumns=\count113
@@ -483,23 +475,15 @@ File: pgfmodulematrix.code.tex 2019/12/21 v3.1.5a (3.1.5a)
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/geometry\geometry.sty
-Package: geometry 2018/04/16 v5.8 Page Geometry
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/generic/iftex\ifpdf.sty
-Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-)
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
-stall\tex/generic/iftex\ifxetex.sty
-Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count115
 \Gm@cntv=\count116
@@ -528,32 +512,79 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidth=\dimen166
 \titlewidthlast=\dimen167
 \titlewidthfirst=\dimen168
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2019/12/17 v0.5p Insert pages of external PDF documents (AM)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count118
+\calc@Bcount=\count119
+\calc@Adimen=\dimen169
+\calc@Bdimen=\dimen170
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count120
+\calc@Cskip=\skip48
+)
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/atbegshi\atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)))
+\AM@pagewidth=\dimen171
+\AM@pageheight=\dimen172
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/pdfpages\ppxetex.def
+File: ppxetex.def 2019/12/17 v0.5p Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box40
+\AM@global@opts=\toks33
+\AM@toc@title=\toks34
+\c@AM@survey=\count121
+\AM@templatesizebox=\box41
 ) (MOUP_associate.aux)
 \openout1 = `MOUP_associate.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 62.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 62
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 63.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 63
 .
 
 (C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
 stall\tex/latex/tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    ... okay on input line 63.
  ABD: EveryShipout initializing macros
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -588,13 +619,26 @@ LaTeX Font Info:    ... okay on input line 62.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+\AtBeginShipoutBox=\box42
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(C:\Users\gjagush\Downloads\texstudio-2.12.10-win-portable-qt5\miktex\texmfs\in
+stall\tex/latex/graphics\lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 63.
+(Font)              <12> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 63.
+(Font)              <8> on input line 64.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 63.
-[1
+(Font)              <6> on input line 64.
+ [1
 
 
 ] [2
@@ -756,9 +800,33 @@ Missing character: There is no – in font ec-lmr10!
 ) [15]
 (week01/week0104.tex)) [16]
 Chapter 2.
-(week02/week0200.tex (week02/week0202.tex) (week02/week0203.tex [17
+(week02/week0200.tex (week02/week0201.tex
+File: week02/layouts.pdf Graphic file (type pdf)
+<use week02/layouts.pdf>
+File: week02/layouts.pdf Graphic file (type pdf)
+<use week02/layouts.pdf>
+File: week02/layouts.pdf Graphic file (type pdf)
+<use week02/layouts.pdf, page 1>
+File: week02/layouts.pdf Graphic file (type pdf)
+<use week02/layouts.pdf, page 1>
+ [17
 
 ]
+File: week02/layouts.pdf Graphic file (type pdf)
+<use week02/layouts.pdf, page 1>
+File: week02/layouts.pdf Graphic file (type pdf)
+<use week02/layouts.pdf, page 1>
+File: week02/layouts.pdf Graphic file (type pdf)
+<use week02/layouts.pdf, page 1>
+ [18]
+File: week02/layouts.pdf Graphic file (type pdf)
+<use week02/layouts.pdf, page 2>
+File: week02/layouts.pdf Graphic file (type pdf)
+<use week02/layouts.pdf, page 2>
+File: week02/layouts.pdf Graphic file (type pdf)
+<use week02/layouts.pdf, page 2>
+ [19] [20] [21]) [22]
+(week02/week0202.tex) (week02/week0203.tex [23]
 Missing character: There is no — in font ec-lmr10!
 Missing character: There is no … in font ec-lmr10!
 
@@ -768,20 +836,45 @@ s to be-come rein-te-grated into the Archetype
  []
 
 Missing character: There is no … in font ec-lmr10!
-[18]
+[24]
 Missing character: There is no — in font ec-lmr10!
-) (week02/week0204.tex [19] [20]
+) (week02/week0204.tex [25] [26]
 Missing character: There is no ’ in font ec-lmr10!
- [21]
+ [27]
 Missing character: There is no – in font ec-lmr10!
-)) [22] (MOUP_associate.aux) ) 
+)) [28]
+Chapter 3.
+(week02/week0300.tex (week03/week0301.tex) (week03/week0302.tex [29
+
+]
+Missing character: There is no — in font ec-lmr10!
+Missing character: There is no — in font ec-lmr10!
+ [30])
+(week03/week0303.tex [31]
+Missing character: There is no – in font ec-lmr10!
+Missing character: There is no “ in font ec-lmr10!
+Missing character: There is no ” in font ec-lmr10!
+Missing character: There is no ’ in font ec-lmr10!
+Missing character: There is no ’ in font ec-lmr10!
+ [32]
+Missing character: There is no ’ in font ec-lmr10!
+Missing character: There is no ’ in font ec-lmr10!
+Missing character: There is no ’ in font ec-lmr10!
+ [33]
+Missing character: There is no ’ in font ec-lmr10!
+Missing character: There is no ’ in font ec-lmr10!
+) (week03/week0304.tex [34])
+(week03/week0305.tex [35]
+Missing character: There is no – in font ec-lmr10!
+Missing character: There is no ’ in font ec-lmr10!
+ [36])) [37] (MOUP_associate.aux) ) 
 Here is how much of TeX's memory you used:
- 16866 strings out of 427240
- 306599 string characters out of 3134336
- 353674 words of memory out of 3000000
- 21071 multiletter control sequences out of 15000+200000
+ 17706 strings out of 427233
+ 319817 string characters out of 3134236
+ 369614 words of memory out of 3000000
+ 21876 multiletter control sequences out of 15000+200000
  44317 words of font info for 39 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 60i,6n,60p,1207b,236s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,18n,60p,1219b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on MOUP_associate.pdf (22 pages).
+Output written on MOUP_associate.pdf (37 pages).
