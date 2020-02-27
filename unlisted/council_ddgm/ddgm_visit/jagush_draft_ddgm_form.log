@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2019.12.15)  5 FEB 2020 23:21
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7250 64-bit) (preloaded format=xelatex 2019.12.15)  26 FEB 2020 20:22
 entering extended mode
 **./jagush_draft_ddgm_form.tex
 (jagush_draft_ddgm_form.tex
@@ -769,15 +769,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Overfull \hbox (193.80238pt too wide) in paragraph at lines 133--133
 [][] 
  []
-
-! Missing { inserted.
-<inserted text> 
-                {
-l.135 ^^I^^I\fllwBox
-                    {IdentityNotes}{4em}\\
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
 
 
 Overfull \hbox (193.80238pt too wide) in paragraph at lines 135--135
