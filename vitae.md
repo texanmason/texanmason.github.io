@@ -96,6 +96,9 @@ permalink: /vitae/
 * May 31, 2019 - admitted to the order of Saint Lawrence the Martyr.
 * December 17, 2019 - installed as Junior Deacon.
 
+##### Tejas Council № 282, AMD
+* February 27, 2020 - affiliated as a plural member.
+
 ### Grand Council, Knight Masons, U.S.A.
 
 ##### Worth's Shamrock Council № 54, KM
