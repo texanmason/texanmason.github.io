@@ -4,7 +4,7 @@ title: Chapter & Council Degrees
 permalink: /ritual/
 ---
 
-[Chapter & Council Degree Furniture & Implements](/ritual/ritual_checklist.pdf)
+[Chapter & Council Degree Furniture & Implements](/ritual/chco_checklist.pdf)
 
 #### Chapter Ritual (2016 Edition)
 
