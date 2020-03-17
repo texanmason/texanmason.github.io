@@ -66,6 +66,9 @@ permalink: /vitae/
 * December 1, 2018 - installed as Senior Warden.
 * December 7, 2019 - installed as Generalissimo.
 
+##### Weatherford Commandery № 51, KT
+* October 3, 2018 - affiliated as a plural member.
+
 ##### Worth Commandery № 19, KT - Drill Team
 * March 10, 2019 - began serving on Worth Commandery Drill Team.
 * April 13, 2019 - 3rd Place, Grand Commandery Knights Templar of Texas Grand Conclave Drill Competition.
@@ -133,5 +136,5 @@ permalink: /vitae/
 ##### The Ancient and Honorable Order of Turtles
 * July 23, 2018 - initiated as a Turtle.
 
-##### San Jacinto Order #128, Order of the Sword of Bunker Hill
+##### San Jacinto Order № 128, Order of the Sword of Bunker Hill
 * November 23, 2019 - initiated into the Order of the Sword of Bunker Hill.
