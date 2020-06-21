@@ -1,14 +1,14 @@
 ---
 layout: post
-abstract: Originally posted to the Texas Freemasons Facebook group on June 9, 2020.
-title: Being Quoted in *Loge Liberté chérie: A Light in the Darkness.*
+abstract: Originally posted to the Texas Freemasons Facebook group on June 9, 2020, and uploaded with minor edits for clarity.
+title: Being Quoted in "Loge Liberté chérie: A Light in the Darkness."
 ---
 [cover]: /images/2020-06-09-cover.jpg#center
 [intro page 1]: /images/2020-06-09-intro-1.jpg#center
 [intro page 4]: /images/2020-06-09-intro-4.jpg#center
 [intro page 5]: /images/2020-06-09-intro-5.jpg#center
 
-One of the coolest moments in my Masonic career so far. A mysterious package arrived for me, but at the Fort Worth Temple, where I (almost) never receive mail.
+One of the coolest moments in my Masonic career so far. A mysterious package arrived for me, but at the Fort Worth Temple, where I (almost) never receive mail. In it, I found a book titled *Loge Liberté chérie: A Light in the Darkness.*
 
 Alexander P. Herbert, a brother from Ohio, wrote a book about Loge Liberté chérie, the secret lodge chartered by Belgian Resistance fighters inside Esterwegen concentration camp during the Holocaust. He quoted me in the book's introduction!
 
