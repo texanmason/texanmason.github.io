@@ -1,7 +1,7 @@
 ---
 layout: post
 abstract: Originally posted to the Texas Freemasons Facebook group on June 9, 2020, and uploaded with minor edits for clarity.
-title: Being Quoted in "A Light in the Darkness."
+title: Being Quoted in “A Light in the Darkness.”
 ---
 [cover]: /images/2020-06-09-cover.jpg#center
 [intro page 1]: /images/2020-06-09-intro-1.jpg#center
