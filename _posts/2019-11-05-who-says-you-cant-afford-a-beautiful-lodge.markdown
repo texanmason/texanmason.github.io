@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Who Says You Can't Afford a Beautiful Lodge?
 ---
 

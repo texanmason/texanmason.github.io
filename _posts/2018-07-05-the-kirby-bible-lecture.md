@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 author: R∴W∴ Jerry Nelson Kirby, PGM
 title: (Not Mine) The Kirby Bible Lecture
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 ---
 *This was originally posted to a private lodge Facebook group for Fort Worth Lodge #148.*
 

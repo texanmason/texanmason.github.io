@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: (Not Mine) Funding a Lodge from the Ground Up
 author: M∴I∴ Jason Mitchell
 ---

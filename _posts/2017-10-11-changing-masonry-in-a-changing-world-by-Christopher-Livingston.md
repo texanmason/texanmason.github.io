@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 author: Christopher Livingston
 title: (Not Mine) Changing Masonry in a Changing World
 ---

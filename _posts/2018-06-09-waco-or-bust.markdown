@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 ---
 I'm a member of AMD now!
 

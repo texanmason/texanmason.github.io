@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 abstract: Going down the rabbit hole of failed masonic bodies.
 ---
 [sarachan]: /images/2017-02-20-the-quest-for-judas-maccabeus-sarachan.jpg#center

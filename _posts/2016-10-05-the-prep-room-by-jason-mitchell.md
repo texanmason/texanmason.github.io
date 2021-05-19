@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: (Not Mine) The Prep Room
 author: M∴I∴ Jason Mitchell
 

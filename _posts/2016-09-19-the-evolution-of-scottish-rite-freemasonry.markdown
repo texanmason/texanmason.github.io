@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 abstract: Redesigning a chart of the history of the Scottish Rite for the purposes of simplicity and legibility.
 ---
 [old chart]: /images/2016-09-19-the-evolution-of-scottish-rite-freemasonry-old-chart.png#center

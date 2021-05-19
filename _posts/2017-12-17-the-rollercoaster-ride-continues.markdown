@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 ---
 Time for a life update. It’s been a good while since I last posted something regularly, hasn’t it?
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 ---
 
 Pray for me, y'all.

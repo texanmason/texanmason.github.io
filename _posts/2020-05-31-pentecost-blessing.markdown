@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 abstract: Originally posted to the Texas Freemasons Facebook group on May 31, 2020.
 title: A Pentecost Blessing.
 ---

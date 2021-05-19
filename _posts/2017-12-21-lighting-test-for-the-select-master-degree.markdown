@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 ---
 This is a lighting test that I am working on with a ["JUNOLUX" light bulb.](https://www.amazon.com/gp/product/B01LXJZ4TQ) The bulb is about $30, and is comprised of about 100 individual LEDs that turn on and off in order to simulate a flickering flame. The bulb looks kind of odd without a lampshade or cover, but once covered, or hidden behind an object, it looks fairly realistic.
 

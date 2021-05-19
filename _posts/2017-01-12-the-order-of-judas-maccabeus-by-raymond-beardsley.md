@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: (Not Mine) The Order of Judas Maccabeus
 author: R∴W∴ Raymond Beardsly
 ---

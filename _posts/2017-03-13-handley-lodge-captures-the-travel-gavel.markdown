@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 abstract: A traveling gavel in the 64th district leaves our home.
 ---
 

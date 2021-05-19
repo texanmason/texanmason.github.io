@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "...but he needs knowledge of the TRUE secrets of Freemasonry."
 ---
 I attended a function of [Non-Specified Appendant Body] recently as the guest of one of my Brothers, along with a MM from one of my sister lodges. Was not able to attend the meeting itself, obviously, but was allowed to join in for a hearty dinner and listen to a pretty good talk on the book of Ecclesiastes. Fascinating stuff. Shook a lot of hands, met a lot of new people.

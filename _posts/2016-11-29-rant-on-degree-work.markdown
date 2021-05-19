@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 ---
 If you volunteer for a part in a degree, you should actually know that part and be able to deliver it.
 

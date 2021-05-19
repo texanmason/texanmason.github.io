@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 abstract: Fraternal visitation meets bragging rights.
 title: The Traveling Gavel
 ---

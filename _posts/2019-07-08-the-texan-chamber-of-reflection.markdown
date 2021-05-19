@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: The Texan Chamber of Reflection
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Hail, Companion Knights!
 ---
 Hail Companion Knights - it’s been a while. No huge updates on my part, other than the fact that today, I was initiated into the York Rite Sovereign College (Trinity No. 154), or, "dubbed a [Companion] Knight of York." The ritual was pretty cool, although I wish that some of the audience/officers took it more seriously. The esoteric lecture was wonderful and seemed to me to be very Rosicrucian in nature, which took me by surprise. Unfortunately, that’s as much as I can divulge.

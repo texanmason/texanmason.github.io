@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 ---
 Well, it seems that things are going okay. This past Tuesday was a long meeting. There were multiple awards to hand out, all the initial business of the first meeting of the year, and so on. We didn't get out until 9 PM, which is really something we need to try and avoid. Life would be a lot easier if we didn't have the Chapter/Council meetings back-to-back.
 

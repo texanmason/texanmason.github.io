@@ -1,0 +1,10 @@
+# main links
+main:
+  # - title: "About"
+  #   url: /about/
+  - title: "Joining"
+    url: /joining/
+  - title: "Vitae"
+    url: /vitae/
+  - title: "Why?"
+    url: /why/

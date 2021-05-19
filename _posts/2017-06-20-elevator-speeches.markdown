@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 ---
 There will come a time when you need to explain what the heck Masonry is. Sometimes, you won’t have very long. It’s best to come up with an "elevator speech" for those occasions. My answer is a little dramatic:
 

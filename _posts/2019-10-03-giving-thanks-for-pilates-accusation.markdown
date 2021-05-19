@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Giving Thanks for Pilate's Accusation
 ---
 
